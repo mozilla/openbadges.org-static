@@ -1,0 +1,216 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Open Badges Community</title>
+		<!--[if lt IE 9]><script src="./media/js/html5shiv.js"></script><![endif]-->
+		
+		<link rel="stylesheet" id="core-styles-css" href="http://community.openbadges.org/wp-content/themes/open_badges_community/media/css/core.css?ver=1.1" type="text/css" media="all">
+<link rel="stylesheet" id="tabzilla-styles-css" href="http://mozorg.cdn.mozilla.net/media/css/tabzilla-min.css?ver=1.0" type="text/css" media="all">
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1'></script>
+<link rel='canonical' href='http://community.openbadges.org/' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	</head>
+	<body class="home page page-id-8 page-template page-template-template-splash-php">
+
+		<header id="header">
+			<div class="constrained">
+				<h1><a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a> <a href="http://community.openbadges.org" id="home">Open Badges Community</a></h1>
+				<nav id="navigation">
+					<ul id="menu-splash-menu" class="menu"><li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="#learn">Learn</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="#design">Design</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="#code">Code</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="#news">News</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="#meta">Contact</a></li>
+</ul>				</nav>
+			</div> <!-- .constrained -->
+		</header> <!-- #header -->
+
+
+<div id="top" role="main"><section class="content" id="main">
+<div class="constrained">
+<h1>Recognize &amp; be recognized.</h1>
+<p class="subheading">Help shape the future of Open Badges.</p>
+
+<nav class="splashnav"><a class="learn scroll" href="#learn">Learn</a>
+<a class="design scroll" href="#design">Design</a>
+<a class="code scroll" href="#code">Code</a></nav></div>
+<!-- .constrained -->
+
+</section><!-- #content -->
+
+<section class="content" id="learn">
+<div class="constrained">
+<h2>Learn</h2>
+<p class="subheading">Curious about recognition of skills &amp; interests?
+You&#8217;re in the right place. Welcome.</p>
+
+<ul class="links">
+	<li><a href="http://openbadges.org/">Learn more about Open Badges</a></li>
+	<li><a href="https://www.dropbox.com/s/8a8octnr6k4h22u/Open%20Badges%20one%20sheet.pdf">Share the badges one sheet</a></li>
+	<li><a href="http://bit.ly/OpenBadgesCommunityCalls">Join a weekly community call</a><i> </i></li>
+	<li><a href="https://twitter.com/OpenBadges">Join the #OpenBadges chat</a></li>
+</ul>
+<div class="events">
+<div class="column50">At Mozilla, we believe that learning happens over the course of a lifetime and frequently beyond the classroom. With the support of the MacArthur Foundation, we&#8217;ve built the Open Badges Infrastructure, which makes it possible for badges issued by different companies and communities to be interoperable and shareable across the web.</div>
+<div class="column50">People and organizations with content to share align their badges with the open standard, which makes it possible for someone who sees Open Badges to discover the criteria and evidence behind them. Learners around the world are using these portable badges to realize increased learning and professional opportunities.</div>
+</div>
+<div class="video" style="margin-top: 30px;"><iframe src="//www.youtube.com/embed/Xc4xDgNbl6Y?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></div>
+<!-- .video -->
+<!-- .events -->
+
+<!-- Embedded Google Groups - openbadges -->
+<iframe style="max-width: 100%; margin-top: 30px;" src="http://groups.google.com/forum/embed/?place=forum/openbadges&amp;showtabs=false&amp;showsearch=false&amp;hidesubject=true&amp;hideforumtitle=true&amp;fragments=false&amp;theme=default&amp;parenturl=http%3A%2F%2Fcommunity.openbadges.org" height="600" width="950" frameborder="0" scrolling="0"></iframe>
+
+</div>
+<!-- .constrained -->
+
+</section><!-- #content -->
+
+<section class="content" id="design">
+<div class="constrained">
+<h2>Design</h2>
+<p class="subheading">Discover &amp; share information about
+badge system creation.</p>
+
+<ul class="links">
+	<li><a href="http://bit.ly/ob-research">Research &amp; system design calls</a></li>
+	<li><a href="https://docs.google.com/spreadsheet/ccc?key=0AnUOR-0CBMsTdE1hWnJnYXlNdnktVUlhWWdjVzFVR0E&amp;usp=sharing">Plan badge system design</a></li>
+	<li><a href="http://dougbelshaw.com/blog/2013/05/08/answering-your-questions-about-open-badges/?utm_source=feedburner&amp;utm_medium=email&amp;utm_campaign=Feed%3A+dougbelshaw+%28dougbelshaw.com%2Fblog%29">Read frequently asked questions</a></li>
+	<li><a href="http://bitly.com/platform-chart">Discover badge issuing tools</a></li>
+</ul>
+<div class="column50">Hundreds of organizations and individuals have <a href="http://openbadges.org/participating-issuers/">designed and issued Open Badges</a>. They include educators, multinational companies, non-profits, industry alliances, and people interested in professional development.</div>
+<div class="column50">The curriculum that their badges represent include a huge variety of skills, competencies, and interests. You too can create badges for your community members and try the visual design exercises in this video. And stay tuned for a design toolkit launching soon!</div>
+<div class="column50"></div>
+<div class="video"><iframe src="http://www.youtube.com/embed/AyM6srzmepQ" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></div>
+<!-- .video -->
+
+</div>
+<!-- .constrained -->
+
+</section><!-- #content -->
+
+<section class="content" id="code">
+<div class="constrained">
+<h2>Code</h2>
+<p class="subheading">Access development documentation
+&amp; contribute to Open Badges.</p>
+
+<ul class="links">
+	<li><a href="http://bit.ly/OpenBadgesDevGroup">Join developer conversations</a></li>
+	<li><a href="https://github.com/mozilla/openbadges">Explore the Github repository</a></li>
+	<li><a href="https://github.com/mozilla/openbadges-specification/blob/master/Assertion/latest.md">See the metadata specification</a></li>
+	<li><a href="https://github.com/mozilla/openbadges#mozilla-open-badges">Browse README</a></li>
+	<li><a href="https://github.com/mozilla/openbadges/blob/development/docs/apis/issuer_api.md">Access the Issuer API</a></li>
+	<li><a href="https://github.com/mozilla/openbadges/wiki/Displayer-API">Use the Displayer API</a></li>
+</ul>
+<!-- .column50 -->
+
+<!-- Embedded Google Groups - openbadges-dev -->
+<iframe style="max-width: 100%;" src="http://groups.google.com/forum/embed/?place=forum/openbadges-dev&amp;showtabs=false&amp;showsearch=false&amp;hidesubject=true&amp;hideforumtitle=true&amp;fragments=false&amp;theme=default&amp;parenturl=http%3A%2F%2Fcommunity.openbadges.org" height="600" width="950" frameborder="0" scrolling="0"></iframe>
+
+</div>
+<!-- .constrained -->
+
+</section><!-- #content -->
+
+<section class="content" id="news">
+<div class="constrained">
+<h2>News</h2>
+<p class="subheading">Get up to speed on the latest in the world of alternative accreditation.</p>
+
+<div class="clear">
+<div class="blog">
+<h3>Blog</h3>
+<ul><!--via MagpieRSS with RSSImport--><li><a href="http://openbadges.tumblr.com/post/98386656549" title="Badges: A Solution to the Massively Disengaged Workforce?">Badges: A Solution to the Massively Disengaged Workforce?</a> <small>September 25, 2014</small><br />Vala Afshar, of the Huffington Post, put together a slide deck and written overview of a recent survey conducted by Extreme Networks looking at digital badges in education and the workforce. Below the &#8230; </li><li><a href="http://openbadges.tumblr.com/post/98225572374" title="TODAY: Join the US Dept. of Labor&#039;s National Dialogue on Career Pathways [LIVE STREAM]">TODAY: Join the US Dept. of Labor&#039;s National Dialogue on Career Pathways [LIVE STREAM]</a> <small>September 23, 2014</small><br />On Tuesday, September 23, 2014, the U.S. Departments of Labor, Education and Health and Human Services will host a National Dialogue on Career Pathways. Federal agency leaders from each Department wil &#8230; </li><li><a href="http://openbadges.tumblr.com/post/98215847754" title="Curate, Credential and Carry Forward Digital Learning Evidence">Curate, Credential and Carry Forward Digital Learning Evidence</a> <small>September 23, 2014</small><br />Our friends in Australia are hosting an exciting event that is open, free, and Internet friendly! See below for information on how to register:Curate, Credential and Carry Forward Digital Learning Evi &#8230; </li><li><a href="http://openbadges.tumblr.com/post/97898717574" title="Badger Beats: The Week In Review [58]">Badger Beats: The Week In Review [58]</a> <small>September 19, 2014</small><br />Welcome to the Badger Beats, your weekly roundup of badging news, updates and chatter. Here&#8217;s what went on this week: On the community project call, Lipscomb University&#8217;s Charla Long share &#8230; </li><li><a href="http://openbadges.tumblr.com/post/97833402804" title="Open Badges Community Project Call, September 17, 2014">Open Badges Community Project Call, September 17, 2014</a> <small>September 18, 2014</small><br />Open Badges Community Project Call, September 17, 2014: Speaker: Charla Long, Lipscomb University Agenda: http://bit.ly/CCSept10 This week we heard from Charla Long, Dean of the College of Professiona &#8230; </li><li><a href="http://openbadges.tumblr.com/post/97827592029" title="Jay Young | Improving Competency-Based and Online Education">Jay Young | Improving Competency-Based and Online Education</a> <small>September 18, 2014</small><br />Jay Young | Improving Competency-Based and Online Education: &#8220;Improving Competency-Based and Online Education&#8221; is an essay by Jay Young, written about potential “pathway to accreditation for competenc &#8230; </li><li><a href="http://openbadges.tumblr.com/post/97313402694" title="Badge Alliance Exec. Director Erin Knight speaking at a Hot Lunch Talk in Denver, CO">Badge Alliance Exec. Director Erin Knight speaking at a Hot Lunch Talk in Denver, CO</a> <small>September 12, 2014</small><br />Today, Erin will be presenting to the Donnell-Kay &amp; Piton Foundations for their September 12th Hot Lunch: &#8220;Not Just for the Scouts: The Potential of Digital Badges in Documenting Learning&#8221; Descrip &#8230; </li><li><a href="http://openbadges.tumblr.com/post/97307547524" title="Badger Beats: The Week In Review [57]">Badger Beats: The Week In Review [57]</a> <small>September 12, 2014</small><br />How&#8217;s it going, badgers? We hope everyone has had a great week &#8211; but before we let you go for the weekend, here&#8217;s the Badger Beats! The Open Badges Directory is here! On Wednesday&#8217;s  &#8230; </li></ul>
+
+</div>
+<!-- .blog -->
+<div class="tweets">
+<h3>Tweets</h3>
+<a class="twitter-timeline" href="https://twitter.com/OpenBadges" data-tweet-limit="10" data-widget-id="332634081026248706" data-border-color="#FFFFFF" data-link-color="#073a5a">Tweets by @OpenBadges</a>
+<script type="text/javascript">// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// ]]&gt;</script>
+
+</div>
+<!-- .tweets -->
+
+</div>
+</div>
+<!-- .constrained -->
+
+</section><!-- #content -->
+
+</div>
+<!-- end role main -->
+<script type="text/javascript">
+	$(document).ready(function(){
+		// if url starts with a hash, animate scroll
+		$('a[href*=#]').click(function(){
+
+		    $('html, body').animate({
+		        scrollTop: $( $(this).attr('href') ).offset().top
+		    }, 500);
+		    return false;
+		})
+	});
+</script>
+						<aside id="meta">
+					<div class="constrained">
+						<section id="text-2" class="widget widget_text">			<div class="textwidget"><h2>Questions?</h2>
+<a href="mailto:badges@mozillafoundation.org">badges@mozillafoundation.org</a>
+
+<h2>Learn More</h2>
+<ul><li>
+<a href="http://openbadges.org">Open Badges Website</a></li>
+<li><a href="https://wiki.mozilla.org/Badges">Open Badges Wiki</a></li>
+<li><a href="https://github.com/mozilla/openbadges">GitHub Repository</a></li>
+</ul></div>
+		</section><section id="text-3" class="widget widget_text"><h2 class="widget-title">Contact &amp; Contribute</h2>			<div class="textwidget"><form id="contact" action="javascript:void(0)">
+<div class="error"></div>
+<input id="name" type="text" placeholder="Name"/>
+<input id="email" type="email" placeholder="Email"/>
+<textarea id="message" placeholder="Message"></textarea>
+<button type="submit">Submit</button>
+</form></div>
+		</section><section id="text-4" class="widget widget_text"><h2 class="widget-title">Follow &amp; Tweet</h2>			<div class="textwidget"><a href="https://twitter.com/openbadges" class="twitter-follow-button" data-show-count="false">Follow @openbadges</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+		</section><section id="text-5" class="widget widget_text"><h2 class="widget-title">Connect with Us</h2>			<div class="textwidget"><ul>
+ <li> Learn about <a href=https://www.mozilla.org/>Mozilla's Mission</a></li>
+ <li>Join <a href=https://www.mozilla.org/en-US/contribute/>Mozilla</a></li>
+ <li> Like us on <a href=https://www.facebook.com/MozillaOpenBadges>Facebook</a></li>
+</ul></div>
+		</section>					</div> <!-- .constrained -->
+				</aside>
+					<footer id="footer">
+			<div class="constrained">
+				<section>
+					<p class="footnote"><a href="http://community.openbadges.org">Mozilla Open Badges Community</a></p>
+					<nav class="primary">
+						<ul id="menu-splash-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="#learn">Learn</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="#design">Design</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="#code">Code</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="#news">News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="#meta">Contact</a></li>
+</ul>					</nav>
+				</section>
+				<section>
+					<p class="support">
+						With support and collaboration from
+						<a href="http://www.macfound.org"><img alt="the MacArthur Foundation" src="http://community.openbadges.org/wp-content/themes/open_badges_community/media/images/partners/MacArthur_logo.png"></a>
+					</p>
+					<nav class="secondary">
+											</nav>
+				</section>
+			</div>
+		</footer>
+
+		<script type='text/javascript' src='//www.mozilla.org/tabzilla/media/js/tabzilla.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://community.openbadges.org/wp-content/themes/open_badges_community/media/js/global.js?ver=3.5.1'></script>
+
+	</body>
+</html>
