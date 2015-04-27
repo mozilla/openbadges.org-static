@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- '0.12'
+deploy:
+  provider: s3
+  access_key_id: AKIAJBY65BEJ3GIJQUYA
+  secret_access_key:
+    secure: YK8ezisJtlDSbWInbbPGJn4awo5iBWYZM53ApUUKkaT312cAgjjzlgWZFcKbCvdCeH5gn4giFq7EOb9U9mzkasGwZ92WL14oJWmv+M8SF2huY2pY+27LGn4PbHWTEu/8mznJJ3gcDy+uRlU6mL2sx8DQYpyQEQNEmBF8qln0ae4=
+  bucket: openbadges.org
+  on:
+    repo: mozilla/openbages.org-static
