@@ -7,7 +7,7 @@ deploy:
   provider: s3
   access_key_id: AKIAJBY65BEJ3GIJQUYA
   secret_access_key:
-    secure: YK8ezisJtlDSbWInbbPGJn4awo5iBWYZM53ApUUKkaT312cAgjjzlgWZFcKbCvdCeH5gn4giFq7EOb9U9mzkasGwZ92WL14oJWmv+M8SF2huY2pY+27LGn4PbHWTEu/8mznJJ3gcDy+uRlU6mL2sx8DQYpyQEQNEmBF8qln0ae4=
+    secure: YpVjwbjzmAduZJLXnVEE8FrwSNWM8Onh+94xuz83bV7U0o409jDJlxKARNcqbw9vXKDEY43Wr5OgbJWoN2RQG1hBOc40A8yvBYmuSO7WtbdPMOxIYoJOyGRL0poFCKuQaphUlnaZOLck6MErQDPAaLVRjKqfJsbfS+N5OYCcI1A=
   bucket: openbadges.org
   on:
-    repo: mozilla/openbages.org-static
+    repo: mozilla/openbadges.org-static
