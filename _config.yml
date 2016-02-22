@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Get recognition for learning that happens anywhere. Then share it on the
   places that matter. A digital badge is an online representation of a skill
   you’ve earned.
-baseurl: "openbadges.org-static" # the subpath of your site, e.g. /blog
+baseurl: "/openbadges.org-static" # the subpath of your site, e.g. /blog
 url: "http://openbadges.github.io" # the base hostname & protocol for your site
 twitter_username: OpenBadges
 github_username:  OpenBadges
