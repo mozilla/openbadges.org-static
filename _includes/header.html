@@ -3,7 +3,10 @@
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
+    <ul>
+      <li>Site.baseurl: {{ site.baseurl }}</li>
+      <li>Site.url: {{ site.url }}</li>
+      <li>Stylesheet: {{ "/css/main.css" | prepend: site.baseurl | prepend: site.url }}</li>
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
