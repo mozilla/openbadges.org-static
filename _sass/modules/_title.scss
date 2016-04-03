@@ -1,0 +1,50 @@
+.title {
+  color: $color-primary;
+  font-size: $fontsize-2x;
+  font-weight: bold;
+  line-height: $lineheight-title;
+  margin-bottom: $gridspacing;
+
+  @media (min-width: $break-phonelarge) {
+    font-size: $fontsize-3x;
+  }
+
+  @media (min-width: $break-tablet) {
+    margin-top: $gridspacing * 2;
+  }
+}
+
+.title-fill {
+  color: $color-solid;
+}
+
+.title-fill-partial {
+  color: rgba($color-solid, .65);
+}
+
+.title-fill-inherit {
+  color: inherit;
+}
+
+.title-thin {
+  font-weight: normal;
+}
+
+.title-narrow {
+  margin: 0 auto;
+  max-width: 832px;
+}
+
+.title-large {
+  font-size: $fontsize-3x;
+  line-height: $lineheight-titlelarge;
+
+  @media (min-width: $break-phonelarge) {
+    font-size: $fontsize-4x;
+  }
+}
+
+.title-secondary {
+  color: $color-body;
+  font-size: $fontsize-2x;
+}

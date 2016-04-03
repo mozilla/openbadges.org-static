@@ -1,0 +1,131 @@
+body {
+
+  > header {
+    order: 1;
+    z-index: 200;
+  }
+
+  > main {
+    order: 2;
+  }
+
+  > .menu {
+    order: 3;
+  }
+
+  > footer {
+    order: 4;
+  }
+
+  @media (min-width: $break-desktop) {
+    > header {
+      z-index: 50;
+    }
+
+    > .menu {
+      position: absolute;
+      right: 0;
+      top: 0;
+      z-index: 100;
+    }
+  }
+}
+
+.l-headeroffset {
+  padding-top: $headerheight;
+
+  @media (min-width: $break-desktop) {
+    padding: 0;
+  }
+}
+
+.l-containerhorizontal {
+  padding-left: $gridspacing;
+  padding-right: $gridspacing;
+
+  @media (min-width: $break-tablet) {
+    padding-left: $gridspacing * 2;
+    padding-right: $gridspacing * 2;
+  }
+
+  @media (min-width: $break-desktop + $gridspacing * 2) {
+    padding-left: calc(50vw - #{$break-desktop / 2});
+    padding-right: calc(50vw - #{$break-desktop / 2});
+  }
+}
+
+.l-containerhorizontal-offset {
+  @media (min-width: $break-tablet + $gridspacing * 2) {
+    padding-left: calc(50vw - 672px / 2);
+    padding-right: calc(50vw - 672px / 2);
+  }
+}
+
+.l-containerhorizontal.l-containerhorizontal-small {
+  padding-left: 0;
+  padding-right: 0;
+
+  @media (min-width: $break-desktop + $gridspacing * 2) {
+    padding-left: calc(50vw - #{$break-desktop / 2});
+    padding-right: calc(50vw - #{$break-desktop / 2});
+  }
+}
+
+.l-containervertical {
+  padding-bottom: $gridspacing;
+  padding-top: $gridspacing;
+}
+
+.l-containervertical-offset {
+  padding-bottom: $gridspacing * 2.5;
+  padding-top: $gridspacing * 2.5;
+
+  @media (min-width: $break-desktop) {
+    padding-bottom: $gridspacing * 3;
+    padding-top: $gridspacing * 3;
+  }
+}
+
+.l-containervertical-offsetlarge {
+  padding-bottom: $gridspacing * 4;
+  padding-top: $gridspacing * 2.5;
+
+  @media (min-width: $break-tablet) {
+    padding-bottom: $gridspacing * 9;
+  }
+}
+
+.l-twocol {
+  @media (min-width: $break-desktop) {
+    display: flex;
+    justify-content: space-between;
+
+    > * {
+      width: 448px;
+    }
+  }
+}
+
+.l-twocol-offset {
+
+  > .l-tableofcontents {
+    margin-bottom: $gridspacing * 2;
+  }
+
+  @media (min-width: $break-desktop) {
+    > .l-tableofcontents {
+      padding-top: $gridspacing * 3.5;
+      width: 224px;
+
+      .l-tableofcontents-is-scrolled {
+        position: fixed;
+        top: 40px;
+        width: 224px;
+      }
+    }
+
+    > .contentblock {
+      width: 672px;
+    }
+  }
+}

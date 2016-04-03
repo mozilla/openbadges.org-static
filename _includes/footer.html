@@ -1,38 +1,29 @@
-<footer class="site-footer">
+<footer class="footer l-containerhorizontal">
+  <nav class="social l-containervertical-offset">
+    <h1 class="title social-x-title">Open Badges Social Media</h1>
+    <ul>
+      <li>
+        <a href="#" class="social-x-link social-twitter">Twitter</a>
+      </li>
+      <li>
+        <a href="#" class="social-x-link social-facebook">Facebook</a>
+      </li>
+    </ul>
+  </nav>
 
-  <div class="wrapper">
+  <nav class="menu menu-secondary">
+    <h1 class="title menu-x-title">Secondary Navigation</h1>
+    <ul>
+      <li class="menuitem menuitem-secondary"><a href="#">FAQs</a></li>
+      <li class="menuitem menuitem-secondary"><a href="#">Press Assets</a></li>
+      <li class="menuitem menuitem-secondary"><a href="#">Mailing Lists</a></li>
+      <li class="menuitem menuitem-secondary"><a href="#">Contact</a></li>
+    </ul>
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-
-  </div>
-
+    <p class="small copyright l-containerhorizontal">&copy; Copyright 2016 <span>Badge Alliance</span></p>
+  </nav>
 </footer>
+
+<!-- TODO: Make URL absolute from root /js/menu.js -->
+
+<script type="text/javascript" src="{{ site.baseurl }}/js/menu.js"></script>

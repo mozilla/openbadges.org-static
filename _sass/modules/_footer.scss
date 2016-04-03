@@ -1,0 +1,27 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  .social {
+    order: 2;
+  }
+
+  .menu-secondary {
+    order: 1;
+  }
+
+  @media (min-width: $break-desktop) {
+    border-top: 1px solid $color-border;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .social {
+      order: 1;
+    }
+
+    .menu-secondary {
+      order: 2;
+    }
+  }
+}

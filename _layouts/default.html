@@ -1,17 +1,15 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html class="no-js" lang="en">
 
   {% include head.html %}
 
-  <body>
+  <body class="l-headeroffset">
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    {% include nav.html %}
+
+    {{ content }}
 
     {% include footer.html %}
 

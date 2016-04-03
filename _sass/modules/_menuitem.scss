@@ -1,0 +1,197 @@
+.menuitem {
+  border-top: 1px solid $color-primary;
+  margin-bottom: 0;
+  position: relative;
+
+  > a,
+  > button {
+    background: $color-interactive;
+    color: $color-solid;
+    cursor: pointer;
+    display: block;
+    font-weight: bold;
+    line-height: 1;
+    padding: $gridspacing;
+    text-decoration: none;
+  }
+
+  > button {
+    border: 0;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    font-size: $fontsize;
+    padding-right: $gridspacing * 1.5 !important;
+    position: relative;
+    text-align: left;
+    width: 100%;
+
+    &::after {
+      background: url('images/icon-dropmenu.svg') center center no-repeat;
+      content: '';
+      display: block;
+      height: 8px;
+      position: absolute;
+      right: 8px;
+      top: 24px;
+      width: 8px;
+    }
+  }
+
+  > ul {
+    background: $color-solid;
+  }
+
+  &.menuitem-is-active,
+  &.menuitem-is-open {
+    > a,
+    > button {
+      background: $color-solid;
+      color: $color-interactive;
+    }
+
+    > button::after {
+      background: url('images/icon-dropmenu-blue.svg') center center no-repeat;
+    }
+  }
+
+  @media (min-width: $break-tablet) {
+    > a,
+    > button {
+      padding-left: $gridspacing * 2;
+      padding-right: $gridspacing * 2;
+    }
+  }
+
+  @media (min-width: $break-desktop) {
+    border: 0;
+    margin-left: $gridspacing / 4;
+
+    > a,
+    > button {
+      background: transparent;
+      border: 1px solid $color-primary;
+      border-radius: $borderradius-small;
+      color: $color-solid;
+      padding: $gridspacing * .65 $gridspacing * .5;
+      transition: border $transition-duration $transition-easing;
+
+      &:hover {
+        border: 1px solid $color-solid;
+      }
+
+      &::after {
+        top: 15px;
+      }
+    }
+
+    &.menuitem-is-open,
+    &.menuitem-is-active {
+      > a,
+      > button {
+        border: 1px solid $color-solid;
+        border-radius: $borderradius-small;
+      }
+
+      > button::after {
+        background: url('images/icon-dropmenu-blue.svg') center center no-repeat;
+      }
+    }
+
+    &.menuitem-is-open {
+      > a,
+      > button {
+        border-radius: $borderradius-small $borderradius-small 0 0;
+      }
+    }
+  }
+}
+
+.menuitem-home {
+  @media (min-width: $break-desktop) {
+    @include visuallyhidden;
+  }
+}
+
+.menuitem-child {
+  border-bottom: 0;
+  border-top: 1px solid $color-border;
+  margin-left: $gridspacing;
+
+  > a,
+  > button {
+    background: $color-solid;
+    color: $color-interactive;
+    font-weight: normal;
+    padding: $gridspacing;
+    transition: background $transition-duration $transition-easing;
+
+    &:hover {
+      @media (min-width: $break-desktop) {
+        background: $color-highlight;
+        color: $color-solid;
+      }
+    }
+  }
+
+  &.menuitem-is-active {
+    > a,
+    > button {
+      background: rgba($color-primary, .05);
+      font-weight: bold;
+    }
+
+    a:hover {
+      color: $color-interactive;
+    }
+  }
+
+  @media (min-width: $break-tablet) {
+    margin-left: $gridspacing * 2;
+  }
+
+  @media (min-width: $break-desktop) {
+    margin-left: 0;
+
+    &:first-of-type {
+      border-top: 0;
+    }
+
+    > a {
+      border: 0;
+      border-radius: 0;
+
+      &:hover {
+        border: 0;
+      }
+    }
+
+    &.menuitem-is-active {
+      > a,
+      > button {
+        border: 0;
+        color: $color-interactive;
+      }
+    }
+  }
+}
+
+.menuitem-secondary {
+  > a,
+  > button {
+    background: transparent;
+
+    @media (min-width: $break-desktop) {
+      border: 0;
+      color: $color-interactive;
+
+      &:hover {
+        border: 0;
+        color: $color-highlight;
+      }
+
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+}
