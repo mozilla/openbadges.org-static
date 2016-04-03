@@ -1,0 +1,20 @@
+.copyright {
+  bottom: $gridspacing * 3.5;
+  color: rgba($color-body, .5);
+  position: absolute;
+  right: 0;
+
+  span {
+    @include visuallyhidden;
+  }
+
+  @media (min-width: $break-phonelarge) {
+    span {
+      display: inline-block;
+    }
+  }
+
+  @media (min-width: $break-desktop) {
+    bottom: $gridspacing * 3;
+  }
+}

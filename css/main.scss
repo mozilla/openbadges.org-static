@@ -1,68 +1,62 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-@charset "utf-8";
+@import 'base';
 
+body {
+  background: $color-background;
+  color: $color-body;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Open Sans', sans-serif;
+  font-size: $fontsize;
+  -webkit-font-smoothing: antialiased;
 
-
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$darkbrown:        #665A13;
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+  &::before {
+    background: url('images/display-hover.svg'), url('images/earn-hover.svg'), url('images/icon-community-calls-hover.svg'), url('images/icon-facebook-hover.svg'), url('images/icon-slack-hover.svg'), url('images/icon-twitter-hover.svg'), url('images/issue-hover.svg'), url('images/understand-hover.svg');
+  }
 }
 
+strong {
+  font-weight: bold;
+}
 
+a,
+button {
+  color: $color-interactive;
+  transition: color $transition-duration $transition-easing;
 
-// Import partials from `sass_dir` (defaults to `_sass`)
+  &:hover {
+    color: $color-highlight;
+  }
+}
+
+:target::before {
+  content: '';
+  display: block;
+  height: $headerheight;
+  margin-top: -$headerheight;
+
+  @media (min-width: $break-desktop) {
+    display: none;
+  }
+}
+
+@import 'layouts';
+
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
 
-.under-construction {
-	background: yellow;
-}
-
-.under-construction p {
-	padding-top: 1em;
-	color: $darkbrown;
-}
-
-.under-construction a {
-	font-weight: bold;
-	text-decoration: underline;
-}
+'modules/button',
+'modules/contentblock',
+'modules/copyright',
+'modules/ctafeature',
+'modules/footer',
+'modules/fourup',
+'modules/masthead',
+'modules/menu',
+'modules/menuitem',
+'modules/small',
+'modules/social',
+'modules/spotlight',
+'modules/tableofcontents',
+'modules/tableofcontentsitem',
+'modules/tableofcontentstrigger',
+'modules/title',
+'modules/visuallyhidden';

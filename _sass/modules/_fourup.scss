@@ -1,0 +1,120 @@
+.fourup {
+  background: $color-solid;
+  border-radius: $borderradius;
+  margin-bottom: $gridspacing * 2;
+  margin-top: $gridspacing * 2;
+  overflow: hidden;
+
+  a {
+    border-bottom: 1px solid $color-border;
+    display: block;
+    padding: $gridspacing;
+    position: relative;
+    text-decoration: none;
+    transition: background $transition-duration $transition-easing;
+
+    &:hover {
+      background: $color-highlight;
+      color: $color-solid;
+
+      p {
+        color: $color-solid;
+      }
+    }
+
+    &::before {
+      background-repeat: no-repeat;
+      background-size: contain;
+      content: '';
+      display: block;
+      height: 100px;
+      margin: 0 auto;
+      max-width: 300px;
+      transition: background $transition-duration $transition-easing;
+      width: 100%;
+    }
+  }
+
+  li:last-of-type {
+    border: 0;
+  }
+
+  p {
+    color: $color-body;
+    line-height: $lineheight-body;
+  }
+
+  @media (min-width: $break-tablet) {
+    a {
+      align-items: center;
+      display: flex;
+      text-align: left;
+
+      div {
+        flex-grow: 2;
+      }
+    }
+  }
+
+  @media (min-width: $break-desktop) {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: $gridspacing * 3;
+    margin-top: $gridspacing * 3;
+
+    li {
+      width: 50%;
+    }
+
+    a {
+      border-right: 1px solid $color-border;
+      flex-direction: column;
+      padding: $gridspacing * 2;
+      text-align: center;
+    }
+
+    div {
+      width: 304px;
+    }
+  }
+}
+
+.fourup-earn {
+  &::before {
+    background-image: url('images/earn.svg');
+  }
+
+  &:hover::before {
+    background-image: url('images/earn-hover.svg');
+  }
+}
+
+.fourup-issue {
+  &::before {
+    background-image: url('images/issue.svg');
+  }
+
+  &:hover::before {
+    background-image: url('images/issue-hover.svg');
+  }
+}
+
+.fourup-display {
+  &::before {
+    background-image: url('images/display.svg');
+  }
+
+  &:hover::before {
+    background-image: url('images/display-hover.svg');
+  }
+}
+
+.fourup-understand {
+  &::before {
+    background-image: url('images/understand.svg');
+  }
+
+  &:hover::before {
+    background-image: url('images/understand-hover.svg');
+  }
+}

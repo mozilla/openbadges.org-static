@@ -1,0 +1,15 @@
+.button {
+  background: $color-interactive;
+  border-radius: $borderradius-small;
+  color: $color-solid;
+  display: inline-block;
+  font-weight: bold;
+  padding: 12px $gridspacing;
+  text-decoration: none;
+  transition: background $transition-duration $transition-easing;
+
+  &:hover {
+    background: $color-highlight;
+    color: $color-solid;
+  }
+}

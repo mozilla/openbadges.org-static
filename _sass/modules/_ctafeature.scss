@@ -1,0 +1,79 @@
+.ctafeature {
+  margin-top: $gridspacing;
+
+  li {
+    border: 1px solid $color-border;
+    border-radius: $borderradius;
+    margin-bottom: $gridspacing;
+    overflow: hidden;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  a {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: $gridspacing;
+    text-decoration: none;
+    transition: background $transition-duration $transition-easing;
+
+    &::before {
+      background-repeat: no-repeat;
+      background-size: contain;
+      content: '';
+      display: block;
+      height: 64px;
+      margin-bottom: $gridspacing;
+      transition: background $transition-duration $transition-easing;
+      width: 64px;
+    }
+
+    &:hover {
+      background: $color-highlight;
+      color: $color-solid;
+    }
+  }
+
+  @media (min-width: $break-tablet) {
+    display: flex;
+
+    li {
+      border-radius: $borderradius 0 0 $borderradius;
+      margin-bottom: 0;
+      width: 50%;
+
+      &:last-child {
+        border-left: 0;
+        border-radius: 0 $borderradius $borderradius 0;
+      }
+    }
+
+    a {
+      border-radius: 0;
+      text-align: center;
+    }
+  }
+}
+
+.ctafeature-communitycalls {
+  &::before {
+    background: url('images/icon-community-calls.svg');
+  }
+
+  &:hover::before {
+    background: url('images/icon-community-calls-hover.svg');
+  }
+}
+
+.ctafeature-slack {
+  &::before {
+    background: url('images/icon-slack.svg');
+  }
+
+  &:hover::before {
+    background: url('images/icon-slack-hover.svg');
+  }
+}

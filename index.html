@@ -1,23 +1,93 @@
 ---
 layout: default
 ---
+    <main>
+      <div style="width:100%;background:yellow;text-align:center;color:darkbrown;padding:10px 0">
+        <p>
+          <strong>Please note</strong>: This website is currently under construction. Please visit <a href="http://openbadges.org">http://openbadges.org</a> for more.
+        </p>
+      </div>
+      <section class="spotlight l-containerhorizontal l-containervertical-offset">
+        <h1 class="title title-fill title-large">Get Recognition for Skills Earned Anywhere</h1>
 
-<div class="home">
+        <ul class="fourup">
+          <li>
+            <a href="/interior.html#earn" class="fourup-earn">
+              <div>
+                <h2 class="title title-fill-inherit">Earn</h2>
+                <p>Earn badges for skills you learn online and in person.</p>
+              </div>
+            </a>
+          </li>
 
-  <h1 class="page-heading">Posts</h1>
+          <li>
+            <a href="/interior.html#issue" class="fourup-issue">
+              <div>
+                <h2 class="title title-fill-inherit">Issue</h2>
+                <p>Anyone can issue Open Badges to recognize the achievements of others.</p>
+              </div>
+            </a>
+          </li>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <li>
+            <a href="#" class="fourup-display">
+              <div>
+                <h2 class="title title-fill-inherit">Display</h2>
+                <p>Share your badges in places that matter as verifiable records of your learning.</p>
+              </div>
+            </a>
+          </li>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+          <li>
+            <a href="#" class="fourup-understand">
+              <div>
+                <h2 class="title title-fill-inherit">Understand</h2>
+                <p>Verify Open Badges and accept them as records of achievement.</p>
+              </div>
+            </a>
+          </li>
+        </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        <p class="title title-fill-partial title-thin title-narrow">Open Badges may be issued, earned, or authenticated by anyone. They can represent any skill or achievement, from event attendance to professional certification.</p>
+      </section>
 
-</div>
+      <div class="l-twocol l-containerhorizontal l-containervertical-offsetlarge">
+        <article class="contentblock">
+          <h1 class="title">Not all Badges are Open Badges</h1>
+          <p>A digital badge is an online representation of a skill you’ve earned, and Open Badges are a subset of digital badges that have powerful additional features. Open Badges are:</p>
+          <ul>
+            <li><strong>Free and open</strong>: Anyone can use the Open Badges standard to create, issue, and verify digital badges.</li>
+            <li><strong>Transferable</strong>: Collect and display your skills and achievements anywhere.</li>
+            <li><strong>Stackable</strong>: No matter where they are earned, badges can build upon each other and be stacked.</li>
+            <li><strong>Evidence-based</strong>: Each badge has important data encoded into the badge image file that provides verifying evidence.</li>
+          </ul>
+
+          <a href="#" class="button">Open Badges</a>
+        </article>
+
+        <div>
+          <article class="contentblock contentblock-borderdesktop">
+            <h1 class="title">The Badge Alliance</h1>
+            <p>The <a href="#">Open Badges Specification</a> was developed by the Mozilla Foundation and is maintained by the Badge Alliance,  which brings a focus on the shared values of openness, learner agency, and innovation.</p>
+
+            <a href="#" class="button">The Badge Alliance</a>
+          </article>
+
+          <article>
+            <h2 class="title">Join the Conversation</h2>
+            <ul class="ctafeature">
+              <li>
+                <a href="#" class="ctafeature-communitycalls">
+                  <p class="small">Community Calls</p>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="ctafeature-slack">
+                  <p class="small">Slack Channel</p>
+                </a>
+              </li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </main>

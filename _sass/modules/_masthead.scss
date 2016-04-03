@@ -1,0 +1,42 @@
+.masthead {
+  align-items: center;
+  background: $color-primary;
+  display: flex;
+  height: $headerheight;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+  .masthead-x-logo {
+    background: url('images/logo-ob-small.png') no-repeat;
+    background-size: contain;
+    display: block;
+    height: 50px;
+    text-indent: -9999em;
+    width: 44px;
+  }
+
+  .masthead-x-menu {
+    background: url('images/icon-menu.svg') no-repeat;
+    background-size: contain;
+    height: 28px;
+    text-indent: -9999em;
+    width: 48px;
+  }
+
+  @media (min-width: $break-phonelarge) {
+    .masthead-x-logo {
+      background: url('images/logo-ob.png') no-repeat;
+      width: 216px;
+    }
+  }
+
+  @media (min-width: $break-desktop) {
+    position: relative;
+
+    .masthead-x-menu {
+      display: none;
+    }
+  }
+}

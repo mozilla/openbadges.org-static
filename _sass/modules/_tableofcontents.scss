@@ -1,0 +1,32 @@
+.tableofcontents {
+  background: $color-solid;
+  border: 1px solid $color-interactive;
+  border-radius: 0 0 $borderradius-small $borderradius-small;
+  border-top: 0;
+  overflow: hidden;
+
+  &[aria-hidden='true'] {
+    display: none;
+  }
+
+  &[aria-hidden='false'] {
+    display: block;
+  }
+
+  @media (min-width: $break-desktop) {
+    border: 0;
+    border-radius: 0;
+
+    &[aria-hidden='true'] {
+      display: block;
+    }
+  }
+}
+
+.tableofcontents-small {
+  margin-bottom: $gridspacing;
+
+  @media (min-width: $break-desktop) {
+    padding-left: $gridspacing;
+  }
+}
