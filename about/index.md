@@ -81,7 +81,8 @@ Backpacks and Open Badge Displayers are websites, organizations, or services tha
 Much of badge system design involves Consumer perspectives, ensuring that badges in a system have currency among a target Consumer group.
 
 <h2 class="title title-content" id="technology">Open Badges Technology</h2>
-So, how’s all this implemented? A range of software and programming tools help people adopt badging systems. The Open Badges ecosystem consists of deployments of the underlying technology that supports badge issuing, collection, and display. The OBI is defined by two aspects: the Open Badge Specification, which technically describes an Open Badge standard; and a badge backpack, a service that provides badge recipients a way to collect and manage badges. 
+So, how’s all this implemented? A range of software and programming tools help people adopt badging systems. The Open Badges ecosystem consists of deployments of the underlying technology that supports badge issuing, collection, and display. The OBI is defined by two aspects: the [Open Badge Specification](https://openbadgespec.org), which technically describes how to construct badges; and a web-connected software that implements it as issuers, backpacks, verifiers, and displayers.
+A backpack is the key recipient-facing application, a service that provides badge recipients a way to collect and manage their badges. Because Open Badges are built on an open data specification, there are multiple software options for each part of the ecosystem; users don't get locked into working with a single provider.
 
 A badge is a digital image and its metadata. The data can be baked into the badge, meaning that it’s embedded into the image file and travels with it wherever the image goes. The individuals and organizations who issue badges create the badge metadata - which is designed to support verification of badges so that a Recipient's badges can be checked for authenticity. The data includes information about:
 
