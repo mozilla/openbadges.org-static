@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Issue
-permalink: /issue/
-order: 3
+permalink: /get-started/
 ---
 
 This page intentionally left blank for now...

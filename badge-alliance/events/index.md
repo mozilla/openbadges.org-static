@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Specification
-permalink: /specification/
-order: 2
+title: Badge Alliance
+permalink: /badge-alliance/events/
 ---
 
 This page intentionally left blank for now...
