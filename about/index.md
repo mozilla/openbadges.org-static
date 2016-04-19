@@ -3,7 +3,7 @@ layout: page-twocol
 title: About Open Badges
 permalink: /about/
 navitems:
-    - url: "#top"
+    - url: "#"
       title: Start Learning About Badges
     - url: "#digital-vs-open"
       title: Digital Badges vs Open Badges
@@ -28,14 +28,14 @@ See [Definitions and Learning Resources »](resources)
 Badges contain detailed metadata about the issuer, recipient, and achievements.
 
 <div class="contentblock-x-imagecontainer">
-  <img src="openbadges-anatomy-kyle-bowen.png" alt="A picture of metadata under the surface of a badge, using the metaphor of human skeleton and organs underneath the skin" />
+  <img src="{{ site.baseurl}}/images/openbadges-anatomy-kyle-bowen.png" alt="A picture of metadata under the surface of a badge, using the metaphor of human skeleton and organs underneath the skin" />
   <p class="contentblock-x-imagecaption">Open Badges Anatomy, by Kyle Bowen (Used under CC-BY-SA License)</p>
 </div>
 
 Issuers award badges to Recipients by giving them portable image files. Recipients store and share them in their backpacks or display software, which can be used to verify their authenticity.
 
 <div class="contentblock-x-imagecontainer">
-  <img src="badges-ecosystem-infographic.jpg" alt="An infographic showing the different users and services in the badges ecosystem. Issuers award badges to recipients who store them in displayers which verify authenticity and make it possible to share with consumers." />
+  <img src="{{ site.baseurl}}/images/badges-ecosystem-infographic.jpg" alt="An infographic showing the different users and services in the badges ecosystem. Issuers award badges to recipients who store them in displayers which verify authenticity and make it possible to share with consumers." />
   <p class="contentblock-x-imagecaption">The Open Badges Ecosystem (by Erik Knutson for the Badge Alliance, licensed CC-BY)</p>
 </div>
 
@@ -57,13 +57,13 @@ Badges can be used in professional contexts, such as certificate of professional
 * Unlike traditional qualifications, badges describe the path a particular learner took along the way.
 * Badges use technologies which make them inherently interoperable with a range of existing and future applications.
 
-<h2 class="title title-content">Roles in a Badging System</h2>
+<h2 class="title title-content" id="system-roles">Roles in a Badging System</h2>
 Participants in a badging system fall into three main roles: Issuer, Recipient, and Consumer. The Issuers provide badges, Recipients store them, then compose representations of their learning to share with relevant Consumers. 
 
 <h3 id="issue" class="title title-secondary">Badge Issuers</h3>
 Badge Issuers are organizations or individuals who create and award badges. Issuers are responsible for defining badges, making them available to recipients, and handling applications. This may involve a range of complex tasks, such as assessment and comparing evidence against criteria. Alternatively, it may be lightweight when a badge is issued for attending an event. 
 
-Depending on the level of complexity, badge issuing can involve several people operating within a larger organization or one individual. At minimum, an Issuer has to host some JSON-LD files at a persistent online location. See More information for educators and employers who want to issue badges: [Get started issuing badges »]({{ site.baseurl }}/get-started/issuing-badges)</a>. 
+Depending on the level of complexity, badge issuing can involve several people operating within a larger organization or one individual. At minimum, an Issuer has to host some JSON-LD files at a persistent online location. See More information for educators and employers who want to issue badges: [Get started issuing badges »]({{ site.baseurl }}/get-started/issuing-badges). 
 
 <h3 class="title title-secondary">Badge Recipients</h3>
 A Recipient is someone who earns a badge (either by applying or being directly issued it). A Recipient can use an account at an Open Badges-compatible backpack service to manage and share badges. Recipients can earn Open Badges in various ways. For example:
