@@ -31,11 +31,13 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
-  toctrigger.addEventListener('click', toggleMenu);
-  window.addEventListener('scroll', scrollMenu);
+  if (!!toctrigger) {
+    toctrigger.addEventListener('click', toggleMenu);
+    window.addEventListener('scroll', scrollMenu);
 
-  window.addEventListener('resize', function() {
-    windowwidth = window.innerWidth;
-  });
-
+    window.addEventListener('resize', function() {
+      windowwidth = window.innerWidth;
+    });
+  }
+  
 });
