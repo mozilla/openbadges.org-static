@@ -35,7 +35,7 @@
     }
   }
 
-  li:last-of-type {
+  li:last-of-type, .fourup-x-item:last-of-type {
     border: 0;
   }
 
@@ -62,7 +62,7 @@
     margin-bottom: $gridspacing * 3;
     margin-top: $gridspacing * 3;
 
-    li {
+    li, .fourup-x-item {
       width: 50%;
     }
 
