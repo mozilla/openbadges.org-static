@@ -11,17 +11,17 @@ Members and a broader ecosystem of collaborating organizations implement the Ope
 
 BA members support the work of the Badge Alliance directly via financial contributions appropriate for their size and level of commitment. The financial and technical contributions from its membership helps the Badge Alliance develop the Open Badges Specification and deliver free resources and communication channels that support Open Badges Ecosystem participants bringing the benefits of portable, verifiable credentials to their communities.
 
-<div class="fourup">
+<div class="fourup fourup-members">
     <div class="fourup-x-item">
-        <a href="{{ site.baseurl }}/about/earn" class="fourup-earn">
+        <a href="http://collectiveshift.org" class="fourup-lrng">
             <div>
                 <h2 class="title title-fill-inherit">Collective Shift</h2>
-                <p>Built on more than 10 years of research, design, and implementation in learning and education, Collective Shift is dedicated to redesigning social systems for the connected age. Its first endeavor is LRNG.</p>
+                <p>Built on more than 10 years of research, design, and implementation in learning and education, Collective Shift is dedicated to redesigning social systems for the connected age. Its first endeavor is LRNG, dedicated to connecting youth to career opportunities.</p>
             </div>
         </a>
     </div>
     <div class="fourup-x-item">
-        <a href="{{ site.baseurl }}/get-started/issuing-badges" class="fourup-issue">
+        <a href="http://mozillafoundation.org" class="fourup-mozilla">
           <div>
             <h2 class="title title-fill-inherit">Mozilla</h2>
             <p>Mozilla Foundation - a global community and public interest initiative that believes the web should be open and accessible to all. </p>
@@ -30,7 +30,7 @@ BA members support the work of the Badge Alliance directly via financial contrib
     </div>
 
     <div class="fourup-x-item">
-        <a href="{{ site.baseurl }}/get-started/displaying-badges" class="fourup-display">
+        <a href="https://www.imsglobal.org/" class="fourup-ims">
           <div>
             <h2 class="title title-fill-inherit">IMS Global</h2>
             <p>IMS Global Learning Consortium - a non-profit member collaborative inventing the future of educational and learning technology. Its mission is to advance technology that can affordably scale and improve educational participation and attainment. </p>
@@ -39,7 +39,7 @@ BA members support the work of the Badge Alliance directly via financial contrib
     </div>
 
     <div class="fourup-x-item">
-        <a href="{{ site.baseurl }}/get-started/#consuming-badges" class="fourup-understand">
+        <a href="https://www.macfound.org" class="fourup-macfound">
           <div>
             <h2 class="title title-fill-inherit">MacArthur Foundation</h2>
             <p>The John D. and Catherine T. MacArthur Foundation - supports creative people, effective institutions, and influential networks. One of the nation's largest independent foundations, the MacArthur Foundation addresses some of the world’s most pressing social challenges.</p>
