@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Issue
+title: Badge System Design
 permalink: /get-started/badge-system-design/
 ---
 
