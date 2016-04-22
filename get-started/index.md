@@ -33,7 +33,7 @@ Another role some participants fill in the Open Badges ecosystem is that of Disp
 
 Several services and applications are available to help Recipients display and share their badges. Displaying means integrating Open Badges displayer tools with your website or learning how to build your own display-oriented tool.
 
-<a href="display-badges" class="button">Learn more about displaying Open Badges »</a>
+<a href="displaying-badges" class="button">Learn more about displaying Open Badges »</a>
 
 <h2 class="title title-content" id="understand">Understand Open Badges</h2>
 
