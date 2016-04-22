@@ -1,11 +1,18 @@
 ---
-layout: page
+layout: page-twocol
 title: Get Started Displaying Badges
 permalink: /get-started/displaying-badges/
+navitems:
+    - url: "#apps"
+      title: Displayer Applications
+    - url: "#recipients"
+      title: For Recipients
+    - url: "#developers"
+      title: For Developers
 ---
 Badges are meant to be shared. Through the process of badge Recipients sharing information about their achievements with selected Consumers, those Recipients can turn their badges into new opportunities, promotions, informal recognition, and other forms of value in their work and recreational relationships.
 
-<h2 class="title title-content">Displayer Applications</h2>
+<h2 class="title title-content" id="apps">Displayer Applications</h2>
 Badge Displayers create opportunities for Recipients to share the badges they’ve earned. With the Recipient’s email address, the Displayer can retrieve badges the Recipient’s been awarded and chosen to make public. 
 How the Displayer processes a badge is determined by how it was retrieved and what form its Assertion takes. The Displayer can parse the data associated with each badge, verify it for authenticity, and display it in websites, applications, or social media posts.
 
@@ -13,7 +20,7 @@ This page will orient you to the various display platforms available and give yo
 
 The displaying of badges can benefit and connect Recipients and Consumers. For example, a Recipient’s badges can signal achievement to a potential employer, which may be seeking an individual with the credentials and skills displayed by the Recipient. 
 
-<h2 class="title title-content">For Badge Recipients</h2>
+<h2 class="title title-content" id="recipients">For Badge Recipients</h2>
 Open Badges makes it possible for Recipients to display badges acquired in various contexts, painting a more detailed, complete picture of their skills and experiences.
 Badges are not siloed or limited to one site but can be combined with badges from multiple Issuers and then shared for different audiences and purposes.
 Each Recipient controls how and where his/her badges are displayed through a Backpack. See Backpack Services in Participating Services
@@ -25,7 +32,7 @@ If a site has a Recipient's email address and knows the Recipient uses the Mozil
 * Badgr - Badgr provides Open Badges issuing and earner badge management all from one account. Free accounts are available on https://badgr.io, and the software is also available open source for users who wish to run their own server. With Badgr, users may upload badges they have earned via multiple confirmed email addresses and share them by making collections.
 * Open Badge Passport - Badges issued from Open Badges Factory are automatically transferred into Open Badge Passport if the Recipient’s email address used for issuing the badge was saved to the Recipient’s Open Badge Passport account setting. Other badges can be uploaded as files from a computer or imported from a Mozilla Backpack. The application backing OBP is available open source as Salava by Discendum. Users can share their badges by building pages that include badges, text, and portfolio items.
 
-<h2 class="title title-content">For Developers</h2>
+<h2 class="title title-content" id="developers">For Developers</h2>
 To display badges in your own applications you need:
 
 * A web server able to make Internet requests
