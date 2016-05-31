@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/earn/
 ---
-#**Get Started by Earning a Badge**
+# **Get Started by Earning a Badge**
 
 With Open Badges, people of all ages and backgrounds can demonstrate the skills they’ve gained through a wide variety of learning experiences. Recipients may be awarded Open Badges directly from Issuers or following an application process. 
 
@@ -11,7 +11,7 @@ Answer a few [questions](http://openbadges.learningassistant.com/) to earn a qui
 
 Earn Badges from Badge Alliance or Other Issuers 
 
-###What to do with a Badge once you’ve Earned it 
+### What to do with a Badge once you’ve Earned it 
 
 You can share badges across digital contexts including:
 
@@ -23,7 +23,7 @@ You can share badges across digital contexts including:
 
 For badges requiring assessment, the Recipient may need to submit evidence in support of his/her application. The Issuer will then review the Recipient’s application, comparing the submitted evidence to the criteria for the badge. If the Issuer decides to award the badge, this will be communicated with the Recipient, who may have follow-up tasks. These include pushing the badge to a Backpack (a personal badge repository).
 
-###Open Badges-Compatible Backpacks
+### Open Badges-Compatible Backpacks
 
 Recipients can use the Mozilla Backpack or another Backpack to manage the badges they’ve earned. Within the Mozilla Backpack, Recipients can group badges into collections, share the collections, and choose whether to make them publicly discoverable.
 
@@ -37,7 +37,7 @@ Other storage options include:
 
 Display Your Open Badges
 
-###Who’s Using Open Badges
+### Who’s Using Open Badges
 
 [Badges in Action](http://www.reconnectlearning.org/case-studies) - A set of case studies looking at how badges are used to capture learning and achievements in higher education, professional training, and after-school programs. 
 
