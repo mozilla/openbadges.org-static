@@ -33,9 +33,9 @@ The open specification means improvements are created through a multi-stakeholde
 
 The Open Badges project at the Mozilla Foundation kicked off with the [Open Badges Working Paper by Erin Knight] (https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf), in collaboration with Peer 2 Peer University. It sketches out the promise of an open ecosystem of verifiable digital learning credentials.
 
-[Intro to Open Badges Slide Deck](https://wiki.mozilla.org/images/8/84/Open_Badges_Presentation_-_General.pdf)
+[Intro to Open Badges Slide Deck] (https://wiki.mozilla.org/images/8/84/Open_Badges_Presentation_-_General.pdf)
 
-[YouTube Video - What is a Badge?](https://www.youtube.com/watch?v=HgLLq7ybDtc)
+[YouTube Video - What is a Badge?] (https://www.youtube.com/watch?v=HgLLq7ybDtc)
 
 
 
