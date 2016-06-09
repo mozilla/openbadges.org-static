@@ -24,6 +24,8 @@ You can get a quick start to your badge collection by earning a really simple ba
   <p class="contentblock-x-imagecaption">Super Girl and the Navigator Badge, a quick learning experience provided by Atul Varma <br /><br /><a href="http://toolness.github.io/hackasaurus-parable/navigator-badge" class="button">Earn a Navigator Badge</a></p>
 </div>
 
+There are hundreds of organizations that issue Open Badges. See a list of some of some [Participating Issuers](../participating-issuers).
+
 <h2 class="title title-content" id="what-to-do">What can you do with a Badge once you’ve Earned it?</h2>
 
 You can share badges across digital contexts including:
