@@ -8,26 +8,21 @@ permalink: /badge-alliance/events/
 
 If you're looking for ways to get involved or stay involved with the Open Badges community, you’ve come to the right place. Here you'll find details about worldwide opportunities, including upcoming calls, events, and programs. 
 
-<header>
-<h3>Calls:</h3>
+Calls:
 
 The weekly community call occurs every Wednesday (unless otherwise notified) at 12 pm ET / 9 am PT / 5pm BST (4pm UTC) [Conference location](https://www.uberconference.com/badgealliance)
 
 The Etherpad link will be displayed on Twitter and the Badge Alliance mailing list. All are welcome to participate in the calls and learn more about the global impact of Open Badges.
 
-<header>
-<h3>Working Group Calls</h3>
+Working Group Calls
 
-<header>
-<h3>Archived Open Badges Community Calls</h3>
+Archived Open Badges Community Calls
 
-<header>
-<h3>Save the Date:</h3>
+Save the Date:
 
 Subscribe to the BA calendar to stay up-to-date on events in the Open Badges community. Copy relevant events to your personal calendar to ensure you receive notifications. 
 
-<header>
-<h3>Upcoming Events:</h3>
+Upcoming Events:
 
 + 21st Century Badge Pathways, Riverside CA: July 25-26, 2016
  + Third Annual Summer Institute on Digital Badging  
