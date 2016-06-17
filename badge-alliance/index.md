@@ -38,6 +38,7 @@ Funding & Membership
 The Badge Alliance receives its funding primarily from its member organizations, with additional support from direct grants. Collective Shift is the BA’s fiscal sponsor, providing a core piece of the annual budget and supporting key back-office capabilities.
 
 Funding considerations for Open Badges
+
 + Staff (writers, designers, content experts)
 + Tech (software, services, other computing resources)
 + Operations (office, promotional, and logistics)
