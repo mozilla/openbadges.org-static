@@ -3,22 +3,21 @@ layout: page
 title: Badge Alliance
 permalink: /badge-alliance/
 ---
-<ul>
-<h1>About the Badge Alliance (BA)</h3>
+About the Badge Alliance (BA)
 
 The Badge Alliance is the premier destination for connecting the Open Badges community and collaboratively advancing badging. A nonprofit global standards organization, the BA supports the community of Issuers, Recipients, and Consumers by facilitating regular calls, special events, and ongoing direct and peer-to-peer assistance. 
 
-<h3>Mailing Lists</h3>
+Mailing Lists
 
 [Open Badges Mailing List](https://groups.google.com/forum/#!forum/openbadges)
 
 Comment, discuss, and read about ideas and happenings in the Open Badges community.
 
-<h3>Working Groups</h3>
+Working Groups
 
 See the current collaborative work of the Badge Alliance and archival resources produced by past Working Groups on the Working Groups page.
 
-<h3>Community Calls</h3>
+Community Calls
 
 Running since 2012 in an almost unbroken weekly series, the Open Badges community call has been a great resource for the badges community. 
 
@@ -26,7 +25,7 @@ The community call occurs every Wednesday, with rare exceptions for holidays and
 
 The Badge Alliance Operations Coordinator organizes and moderates the weekly calls and welcomes suggested topics. These calls are a great way to stay abreast of developments in the Open Badges ecosystem. Listen to presentations from invited experts on case studies and open questions in the world of Open Badges. Contribute to discussions identifying and prioritizing actions to move the Open Badges ecosystem forward. 
 
-<h3>Slack</h3>
+Slack
 
 Members of the BA community idle in our official Slack channel. Communicate with the Badge Alliance community via Slack messenger, the BA’s instant messaging and communication system. Here, we exchange thoughts, ideas, questions, and documents to push toward our goals in the badge community. 
 
@@ -34,7 +33,7 @@ Members of the BA community idle in our official Slack channel. Communicate with
 
 Already registered? Check in [here](https://badgealliance.slack.com/messages/general/whats_new/).
 
-<h3>Funding & Membership</h3>
+Funding & Membership
 
 The Badge Alliance receives its funding primarily from its member organizations, with additional support from direct grants. Collective Shift is the BA’s fiscal sponsor, providing a core piece of the annual budget and supporting key back-office capabilities.
 
@@ -44,13 +43,13 @@ Funding considerations for Open Badges
 + Operations (office, promotional, and logistics)
 + Events (conferences, hackathons, presentations, and key organizing opportunities)
 
-<h3>Organizational Model</h3>
+Organizational Model
 
 The Badge Alliance consists of a constellation of Working Groups made up of representatives from member organizations and is supported by a small internal staff. [The Constellation Model of Collaborative Social Change](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1010&context=lien_research) by Tonya Surman & Mark Surman is a framework designed to support multi-organization partnerships and networks within complex systems. It’s a way to bring together multiple groups or sectors to work toward joint outcomes and serve social change.
 
 Constellations of Working Groups enable networks to harness the power of loose coupling, connecting the right partners based on their own interests and assets. This creates stronger action teams that are harnessing the power of self-interest within a shared vision.
 
-<h3>History of Open Badges</h3>
+History of Open Badges
 
 2010:
 + The Badge Alliance is an evolution of the work begun during the [2010 Mozilla Festival](https://wiki.mozilla.org/Drumbeat/events/Festival) (then, the “Mozilla Drumbeat Festival”) in Barcelona, under the banner "Learning, Freedom, and the Web". At this festival, [Mozilla](http://www.mozilla.org/en-US/), [P2PU](https://p2pu.org/en/), [DML](http://dmlcentral.net/), and [Remix Learning](http://remixlearning.com/) hosted a [Badge Lab](https://wiki.mozilla.org/Drumbeat/events/Festival/program/activities#Badge_lab) that invited participants to test, critique, and improve badges and tools that recognized informal online learning.
