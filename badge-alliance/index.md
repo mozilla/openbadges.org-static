@@ -52,24 +52,31 @@ Constellations of Working Groups enable networks to harness the power of loose c
 History of Open Badges
 
 2010:
+
 + The Badge Alliance is an evolution of the work begun during the [2010 Mozilla Festival](https://wiki.mozilla.org/Drumbeat/events/Festival) (then, the “Mozilla Drumbeat Festival”) in Barcelona, under the banner "Learning, Freedom, and the Web". At this festival, [Mozilla](http://www.mozilla.org/en-US/), [P2PU](https://p2pu.org/en/), [DML](http://dmlcentral.net/), and [Remix Learning](http://remixlearning.com/) hosted a [Badge Lab](https://wiki.mozilla.org/Drumbeat/events/Festival/program/activities#Badge_lab) that invited participants to test, critique, and improve badges and tools that recognized informal online learning.
 
 2011:
+
 + The fourth [Digital Media and Learning Competition](http://www.hastac.org/dml-competitions/2012) (2011-2013) provided up to $2 million in grants for 30 innovative badge systems and two research projects as part of the Badges for Lifelong Learning Competition, administered by [HASTAC](http://hastac.org/) and supported by the [John D. and Catherine T. MacArthur Foundation](http://www.macfound.org/), with additional support from the [Gates Foundation](http://www.gatesfoundation.org/) and in partnership with the Mozilla Foundation.
 
 2012:
+
 + In October 2012, Mozilla released the [Public Beta of the Open Badge Infrastructure](https://blog.mozilla.org/blog/2012/04/10/mozilla-open-badges-beta/), making the technical infrastructure supporting Open Badges publicly available for use.
 
 2013:
+
 + Mozilla launched [Open Badges 1.0](https://blog.mozilla.org/blog/2013/03/14/open_badges/) at the 2013 Digital Media and Learning Conference, followed by a full launch of Mozilla Open Badges.
 
 2014:
+
 + The Summit to Reconnect Learning, held in Silicon Valley, was the first event to focus on moving Open Badges from the edges of innovation to the mainstream. At the summit, a wave of business and education partners made public pledges committing to help accelerate the spread and scale of digital badges for learning, and the Badge Alliance Working Groups were soft-launched. Erin Knight, who had previously led the Open Badges project at Mozilla, was announced as Executive Director of the Badge Alliance.
 
 2015:
+
 + 2014-2015 proved that the interest in verifiable, shareable, portable badges is strong. The partners focused on completing the ecosystem and identifying the problems that needed to be solved. This involved investigating the original core assumptions and weeding out practices that didn’t meet the needs of badge users. 
 
 Today:
+
 + The Badge Alliance has a new set of technical resources and committed partners to ensure the right and complete ecosystem is built to enable the use cases first outlined by Erin Knight’s team at Mozilla and its first collaborators in 2011. 
 
 
