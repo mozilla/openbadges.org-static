@@ -48,6 +48,6 @@ Want to issue badges from within your platform or application? Or offer a servic
 
 * [Open Badges Specification](https://openbadgespec.org): If you’re already issuing digital badges, you can align your badge system with the Open Badges spec or figure out how to start offering badges with the full benefits of verifiability and portability for your users. Here you’ll find the technical details about data formats, required properties, verification procedures, and more.
 * [Current Participating Issuers, Platforms, and Services]({{ site.baseurl }}/about/participating-services): Get information on existing services offering Open Badges integrations.
-* [Tools and Code](https://openbadgespec.org/tools): Open source applications and libraries to add Open Badges to your websites and applications or to serve as examples for your own custom application.
+* [Tools and Code]({{ site.baseurl}}/about/participating-services/#open-source): Open source applications and libraries to add Open Badges to your websites and applications or to serve as examples for your own custom application.
 * [Open Badges Developers Mailing List]({{ site.baseurl}}/badge-alliance/community/#mailing-lists): Seek help from our developer community.
 * [Contact the Badge Alliance]({{ site.baseurl }}/contact/): Get in touch with the Badge Alliance team. We’re here to help!

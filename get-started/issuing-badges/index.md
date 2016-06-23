@@ -43,7 +43,6 @@ A single Open Badge (a "Badge Instance") consists of a unique set of one each of
 The techniques described here work for building one or two complete badges, but when you want to scale up to offering hundreds, you can embed these practices into code or start working with a hosted platform or web application software to handle creating badges.
 
 * [New Issuers: Give Yourself a Badge](https://github.com/mozilla/openbadges-backpack/wiki/New-Issuers:-Give-Yourself-a-Badge) - This tutorial includes step-by-step instructions to create a badge, award it, bake it, then upload it into a backpack. 
-* Or, if you’re familiar with JSON-LD syntax, try your hand at creating badges with [Badge Lab](https://github.com/mozilla/openbadges-backpack/wiki/New-Issuers:-Give-Yourself-a-Badge). It’s a customized tutorial that walks you through creating your own Open Badge by hand.
 
 <div class="contentblock-x-imagecontainer">
   <img src="{{ site.baseurl}}/images/openbadges-flow-diagram-mozilla.png" alt="Issuers deliver a Recipient baked Open Badge images, which she stores in a Backpack and displays to many Consumers who are interested in her accomplishments." />
@@ -107,7 +106,7 @@ Verification is the process of ensuring that a badge meets the requirements of t
 
 The identity section of a badge Assertion includes the Recipient’s email address, a hash of the Recipient’s email address, or a salted hash of the Recipient’s email address. A Displayer can compare this value to the (hashed) expected input email of the Recipient claiming the badge to establish authenticity. This facilitates verification, while preventing the need to store the earner’s email explicitly within the badge Assertion, providing protection against routine forms of unauthorized access.
 
-For signed Assertions, validators use the public key to carry out a verification check. Issuers can also revoke signed badges, in which case a revocation list is created, including the UIDs for revoked badges - Displayers can check this list in case a badge has been revoked. See [Revoking Issued Signed Badges](revoking-a-signed-badge).
+For signed Assertions, validators use the public key to carry out a verification check. Issuers can also revoke signed badges, in which case a revocation list is created, including the UIDs for revoked badges - Displayers can check this list in case a badge has been revoked. See [Revoking Issued Signed Badges](https://openbadgespec.org/#revoking).
 
 <h2 class="title title-content" id="insignia">Issuer Insignia</h2>
 Declare your support for Open Badges with Issuer insignia for your website. Show the world your badges align with the Open Badges and that they should expect the full range of Open Badges features when they see badges referenced on your site. 
