@@ -48,6 +48,7 @@ Some Issuers will have just one badge system while others will have many. Some p
 * [3d GameLab](http://3dgamelab.com/)
 * [4-H/USDA](http://www.fyflnet.org/4hbadges/)
 * [Acclaim](https://www.youracclaim.com/)
+* [Badgecraft](https://www.badgecraft.eu/en/use-cases)
 * [Badges Work for Vets](https://badgesforvets.org/)
 * [Badg.us](http://badg.us/)
 * [Bestr](https://bestr.it/)
@@ -84,6 +85,7 @@ Some Issuers will have just one badge system while others will have many. Some p
 * [Fedora Project](https://badges.fedoraproject.org/)
 * [Focused on Learning](http://www.focusedonlearning.com/2014/04/open-badges/)
 * [El Gabinete de Tele-Educación (GATE)](http://serviciosgate.upm.es/gate/)<a name="gtok"></a>
+* [European Badge Alliance](http://ebawebsite.net/)
 * [GRASS](http://grass.fon.bg.ac.rs/)
 * [Groningen](http://www.groningendeclaration.org/)
 * [HAML](http://www.hamk.fi/english/Sivut/default.aspx)
