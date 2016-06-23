@@ -3,9 +3,7 @@ layout: page
 title: Frequently Asked Questions
 permalink: /faq/
 ---
-Open Badges FAQs
-
-What’s a Badge?
+<h2 class="title title-content">What’s a Badge?</h2>
 
 A badge is any visual token of achievement, affiliation, authorization, or other trust relationship. Open Badges applies this concept to the web, with connected, verifiable credentials. See [definitions and resources].
 
@@ -29,11 +27,11 @@ A badge is typically represented as an image file with JSON or JSON-LD metadata 
  
 What Does a Badge Issuer Do?
  
-A badge Issuer creates, offers, and awards badges. See [Issue Badges].
+A badge Issuer creates, offers, and awards badges. See [Issue Badges](../get-started/issuing-badges/).
   
 What Does a Badge Displayer Do?
 
-Badge Displayers create opportunities for Recipients to share badges. Visit [Display Badges].
+Badge Displayers create opportunities for Recipients to share badges. Visit [Display Badges](../get-started/displaying-badges).
  
 Who Can Issue Badges?
 
@@ -57,9 +55,10 @@ What’s the OBI?
 
 You may see references to the “Open Badge Infrastructure (OBI)”, a predecessor to the more open architecture of the updated term “Open Badges ecosystem”. The OBI was the Mozilla Foundation badges team’s original architecture and API design that connected Issuer and Displayer applications with badge Recipients’ Mozilla Backpack accounts.
 
-![mozilla obi graphic](https://cloud.githubusercontent.com/assets/16788321/16207511/7b9c2f08-36fb-11e6-84ea-bf47668ab648.png)
-
-A depiction of the OBI model for connecting badge-aware applications (Mozilla Foundation, 2012).
+<div class="contentblock-x-imagecontainer">
+  <img src="{{ site.baseurl}}/images/openbadges-obi-original.png" alt="Original model of the Mozilla Open Badges Ecosystem (OBI) of connected services" />
+  <p class="contentblock-x-imagecaption">A depiction of the OBI model for connecting badge-aware applications (Mozilla Foundation, 2012).</p>
+</div>
 
 The OBI architecture remains functional but the Open Badges ecosystem has outgrown the dependency on specific applications’ APIs for performing badge operations. Formal updates to issuing and displaying protocols that support “federated” discovery of Backpack providers are in the works for late 2016 through the Badge Alliance. 
 
@@ -158,11 +157,9 @@ What are my Responsibilities as an Issuer if I wish to Enable Recipients to Send
 
 As an Issuer, you grant badge Recipients a worldwide, royalty-free license to use badges (including all the content and code in them) in Backpacks and spaces they want to share their accomplishments on the web. You grant Open Badges enabled services the right to inspect and republish badge components with consent of the Recipient. If you’re an Issuer of badges and enable Recipients to send badges to their Mozilla Backpack, you also agree that:
 
-1. You’ll comply with all laws and regulations, including having a legally compliant privacy policy describing your role and interaction with the Mozilla Backpack and other Open Badges services as well as your collection, use, retention, or disclosure of information used in badges as well as the [Mozilla Backpack Terms of Use](https://backpack.openbadges.org/tou.html).
-
-2. You won’t send the Mozilla Backpack the information of any user under the age of 13. For more information, see the COPPA FAQ below. Some specification updates are underway.
-
-3. None of your badges will contain content or other information that infringes the rights of any 3rd party (including intellectual property, privacy, or publicity rights).
+* You’ll comply with all laws and regulations, including having a legally compliant privacy policy describing your role and interaction with the Mozilla Backpack and other Open Badges services as well as your collection, use, retention, or disclosure of information used in badges as well as the [Mozilla Backpack Terms of Use](https://backpack.openbadges.org/tou.html).
+* You won’t send the Mozilla Backpack the information of any user under the age of 13. For more information, see the COPPA FAQ below. Some specification updates are underway.
+* None of your badges will contain content or other information that infringes the rights of any 3rd party (including intellectual property, privacy, or publicity rights).
 
 If you’re an educational institution, the criteria for earning badges may list required grades or minimum grades but the badge itself may not contain any information indicating the actual grade received by that Recipient. For more information, see FERPA below. Consult qualified legal advisors for your specific obligations under COPPA, FERPA, and other regulations that may be in force in your jurisdiction.
 
@@ -196,11 +193,11 @@ What “Best Practices” Should I Consider Implementing When Disclosing Student
 
 It’s your responsibility to discuss FERPA compliance obligations with your legal counsel in connection with OBI. Regardless of how you classify data, we recommend that students and/or parents or legal guardians have as much transparency and choice as possible when it comes to sharing student data. You may want to ask qualified legal advisers about some of the following best practices:
 
-1. Make sure your Privacy and Directory Information policies provide notice of your disclosure practices associated with issuing a badge.
-2. Don’t include actual grades or individual test scores in a badge.
-3. Don’t include sensitive information such as social security numbers, health, medical, or disability information in a badge.
-4. Don’t allow users who are under 13 to send badges to the Mozilla Backpack.
-5. Only include the minimal amount of data that must be embedded in a badge under the OBI specification.
+* Make sure your Privacy and Directory Information policies provide notice of your disclosure practices associated with issuing a badge.
+* Don’t include actual grades or individual test scores in a badge.
+* Don’t include sensitive information such as social security numbers, health, medical, or disability information in a badge.
+* Don’t allow users who are under 13 to send badges to the Mozilla Backpack.
+* Only include the minimal amount of data that must be embedded in a badge under the OBI specification.
 
 
 

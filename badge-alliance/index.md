@@ -10,9 +10,10 @@ permalink: /badge-alliance/
 
 The Badge Alliance is the premier destination for connecting the Open Badges community and collaboratively advancing badging. A nonprofit global standards organization, the BA supports the community of Issuers, Recipients, and Consumers by facilitating regular calls, special events, and ongoing direct and peer-to-peer assistance. 
 
-<h3 class="title title-secondary">Mailing Lists</h3>
+<h3 class="title title-secondary" id="mailing-lists">Mailing Lists</h3>
 
-[Open Badges Mailing List](https://groups.google.com/forum/#!forum/openbadges)
+* [Open Badges Mailing List](https://groups.google.com/forum/#!forum/openbadges) - The official main mailing list for the Open Badges community. News, questions and discussion on general badges topics.
+* [Open Badges Dev List](https://groups.google.com/forum/#!forum/openbadges-dev) - Technical development and Open Badges Specification discussion. Technical questions about Open Badges implementation and official discussions on proposals advancing the Open Badges Specification. This is the official mailing list of the [BA Standard Working Group](working-groups/standard/).
 
 Comment, discuss, and read about ideas and happenings in the Open Badges community.
 
