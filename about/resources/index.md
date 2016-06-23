@@ -7,6 +7,8 @@ navitems:
       title: Definition
     - url: "#resources"
       title: Resources
+    - url: "#getting-started"
+      title: Getting Started Guides
 ---
 The Badge Alliance aims to publish a set of up-to-date resources that help community members understand badges well. We welcome [contributions](https://github.com/openbadges/openbadges.org-static/blob/gh-pages/about/resources/index.md) to this library, just submit a pull request.
 
@@ -48,3 +50,14 @@ The Open Badges project at the Mozilla Foundation kicked off with the [Open Badg
 [10 Million Better Futures](http://www.10mbetterfutures.org) - This Clinton Global Initiative aimed to help 10 million workers and students succeed using Open Badges by 2016. #BadgeChatK12 co-founder Noah Geisel joined leaders in the initiative’s commitment to unlock two million better futures with digital badges. 
 
 [Cities of Learning / LRNG](https://www.lrng.org/) - The first citywide badging initiative, launched in Chicago in 2013, was so successful that six cities launched badge systems for learning in 2014. Eight cities were named winners in the 2016 LRNG City Challenge, receiving grants to begin networking learning opportunities in their communities. 
+
+<h2 class="title title-content" id="getting-started">Getting Started Guides</h2>
+Here are a few guides developed by the Badge Alliance to get started as a badge Issuer, Earner, Displayer, or Consumer. These guides provide a technical introduction to the processes involved and showcase tools and services that help you with each step.
+
+* [Get started issuing Open Badges](../../get-started/issuing-badges/). Also see our guide on [Badge System Design](../../get-started/badge-system-design/) for information on factors to consider when issuing badges.
+* [Get started earning Open Badges](../../get-started/earning-badges/)
+* [Get started displaying Open Badges](../../get-started/issuing-badges/)
+* [Get started consuming Open Badges](../../get-started/consuming-badges/)
+
+<a href="../../get-started/" class="button">Get started with Open Badges &raquo;</a>
+

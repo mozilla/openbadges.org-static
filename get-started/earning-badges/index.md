@@ -1,7 +1,7 @@
 ---
 layout: page-twocol
 title: Earning Badges
-permalink: /about/earn/
+permalink: /get-started/earning-badges/
 navitems:
     - url: "#"
       title: How to Earn Badges
