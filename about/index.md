@@ -14,13 +14,12 @@ navitems:
     - url: "#history"
       title: History
 ---
-Open Badges are visual symbols of accomplishments packed with verifiable metadata according to the Open Badges Specification. The Open Badges Specification defines the properties necessary to define an achievement and award it to a recipient, as well as procedures for verifying badge authenticity and “baking” badge information into portable image files.
+Open Badges are visual symbols of accomplishments packed with verifiable learner data and evidence according to the Open Badges Specification. The Open Badges Specification defines the properties required to create a Badge and award it to a recipient, as well as procedures for verifying badge authenticity and "baking" the data into portable badge image files. These data-rich badge-images can be collected by the learner and moved across all Open Badges-compatible platforms.
 
 The Open Badges project was built upon groundbreaking work initiated by Mozilla and the [MacArthur Foundation](https://www.macfound.org/). The Badge Alliance (BA) formed in 2014 to expand upon the work and organize cooperative development of a distributed ecosystem around Open Badges. [History »](#history)
 
 In 2016, the [Badge Alliance]({{ site.baseurl }}/badge-alliance) is working to define the continuing vision for Open Badges, turning this vision into a new version release of the specification, and ensuring broad support for this evolution in the open source libraries and compatible services developed by the BA members. 
 
-<h2 class="title title-content">Start Learning About Badges</h2>
 If you're new to Open Badges, the amount of information may seem overwhelming. Although the technical aspects of badging can be complex, the concepts in a badging system are mostly intuitive. 
 
 <h2 class="title title-content">What is an Open Badge?</h2>
