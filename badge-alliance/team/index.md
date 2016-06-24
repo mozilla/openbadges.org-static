@@ -34,4 +34,4 @@ This position is currently vacant. See job posting when the call opens in the co
 The Operations Coordinator connects with the Open Badges community over mailing lists and social media, helps the BA stay organized through a schedule of weekly calls, and makes sure community members can find the resources they need. Manages Badge Alliance membership program and the forthcoming official BA badge system.
 
 <h2 class="title title-content" id="strategic-advisor">Timothy Cook, Strategic Adivsor</h2>
-lorem ipsum dolor sit amet.
+Tim provides strategic and operational support for the Badge Alliance’s operation. He is responsible for administrative oversight and the development of the strategic plan for the organization.
