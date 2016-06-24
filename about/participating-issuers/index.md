@@ -144,6 +144,7 @@ Some Issuers will have just one badge system while others will have many. Some p
 * [Valamis](http://valamis.arcusys.com/why-choose-us)
 * [VIF International Education](http://www.vifprogram.com/)
 * [Volunteer Centre Blackpool, Wyre and Fylde](http://www.volunteercentrebwf.org.uk/)
+* [YOBOX Esperienze Formative](http://www.yobox.org)
 * [Young Adult Library Services Association (YALSA)](http://www.ala.org/yalsa/badges-learning)
 * [YMCA of Greater New York](http://www.ymcanyc.org/association/pages/y-mvp)
 
