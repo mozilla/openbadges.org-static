@@ -31,14 +31,14 @@ Badges contain detailed metadata about the issuer, recipient, and achievements.
   <p class="contentblock-x-imagecaption">Open Badges Anatomy, by Kyle Bowen (Used under CC-BY-SA License)</p>
 </div>
 
-Issuers award badges to Recipients by giving them portable image files. Recipients store and share them in their backpacks or display software, which can be used to verify their authenticity.
+Issuers award badges to Recipients by giving them portable badge image files that contain their earned badge information. Recipients store and share their earned badges in a badge backpack or on their badging platform of choice.
 
 <div class="contentblock-x-imagecontainer">
   <img src="{{ site.baseurl}}/images/badges-ecosystem-infographic.jpg" alt="An infographic showing the different users and services in the badges ecosystem. Issuers award badges to recipients who store them in displayers which verify authenticity and make it possible to share with consumers." />
   <p class="contentblock-x-imagecaption">The Open Badges Ecosystem (by Erik Knutson for the Badge Alliance, licensed CC-BY)</p>
 </div>
 
-The Open Badges Specification is designed to make badging flexible enough to represent a full range of online and offline learning experiences. While initially most attractive within the formal and informal education market, open badging is spreading to many industries and disciplines, across a range of formal and informal learning environments. Empowering recipients to use their badges as legitimate credentials also requires support for sharing badges across many display sites and services. Building a credential issuing, management, and verification system within a single company would be easier than the Open Badges model, but the distributed nature of Open Badges embeds the values of the web into learning credentials, ensuring users in every role have choices about which software and services they want to use.
+The Open Badges Specification is designed to make badging flexible enough to represent a full range of online and offline learning experiences. While initially most attractive within the formal and informal education market, open badging is spreading to many industries and disciplines, across a range of formal and informal learning environments. Empowering recipients to use their badges as legitimate credentials also requires support for sharing badges across many display sites and services. The distributed nature of the Open Badges ecosystem that users in every role have choices about which software and services they want to use.
 
 <h2 class="title title-content" id="digital-vs-open">Digital Badges vs. Open Badges</h2>
 Not all digital badges are Open Badges. A digital badge is an online representation of a skill you’ve earned, and Open Badges are a subset of digital badges that have powerful additional features and benefits: 
@@ -60,15 +60,17 @@ Badges can be used in professional contexts, such as certificate of professional
 Participants in a badging system fall into three main roles: Issuer, Recipient, and Consumer. The Issuers provide badges, Recipients store them, then compose representations of their learning to share with relevant Consumers. 
 
 <h3 id="issue" class="title title-secondary">Badge Issuers</h3>
-Badge Issuers are organizations or individuals who create and award badges. Issuers are responsible for defining badges, making them available to recipients, and handling applications. This may involve a range of complex tasks, such as assessment and comparing evidence against criteria. Alternatively, it may be lightweight when a badge is issued for attending an event. 
+Badge Issuers are organizations or individuals who create and award badges. Issuers are responsible for defining badges, making them available to recipients, and handling applications. This may involve a range of complex tasks, such as assessment and comparing evidence against criteria. Alternatively, it may be a very lightweight process, such as when a badge is issued for attending an event. 
 
-Depending on the level of complexity, badge issuing can involve several people operating within a larger organization or one individual. At minimum, an Issuer has to host some JSON-LD files at a persistent online location. See More information for educators and employers who want to issue badges: [Get started issuing badges »]({{ site.baseurl }}/get-started/issuing-badges). 
+Depending on the level of complexity, badge issuing can involve several people operating within a larger organization. At minimum, an Issuer has to host some JSON-LD files at a persistent online location. See More information for developers who want to learn the technical background behind issuing badges: [Get started issuing badges »]({{ site.baseurl }}/get-started/issuing-badges)
+
+For educators, employers or anybody looking to get started with an easy-to-use solution, check out available issuing platforms, partners and consultants who can help you get started, including free and open source options: [Participating platforms &raquo;](./participating-services/)
 
 <h3 class="title title-secondary">Badge Recipients</h3>
-A Recipient is someone who earns a badge (either by applying or being directly issued it). A Recipient can use an account at an Open Badges-compatible backpack service to manage and share badges. Recipients can earn Open Badges in various ways. For example:
+A Recipient is someone who earns a badge (either by applying or being directly issued it). A Recipient can use an account at an Open Badges-compatible backpack service to manage and share badges. Recipients can earn Open Badges in various ways. For example, a badge application workflow may look like this:
 
-* Martin sees a badge on a website and decides to apply for it.
-* He submits an application, which may include evidence.
+* Martin sees a badge on an online education provider's website and decides to apply for it.
+* He completes the instructions set out in the criteria, submits an application, which includes his evidence.
 * Martin receives feedback from the badge issuer, detailing whether or not his application was successful.
 * Martin is offered the badge and decides whether or not to accept it.
 * He can download a portable badge image or is offered the ability to push his new badge to his backpack account directly.
@@ -86,10 +88,10 @@ A backpack is the key recipient-facing application, a service that provides badg
 A badge is a digital image and its metadata. The data can be baked into the badge, meaning that it’s embedded into the image file and travels with it wherever the image goes. The individuals and organizations who issue badges create the badge metadata - which is designed to support verification of badges so that a Recipient's badges can be checked for authenticity. The data includes information about:
 
 * What achievement the badge represents: name, description, and a link to detailed criteria
-* Who earned it, when, and an optional link to evidence of the Recipient’s achievement
+* Who earned it, when, and an optional link to evidence of their achievement
 * Who issued it, their name, description, website, and contact email address
 
-Many of the applications that drive the Open Badge Infrastructure are released under open source licenses. See some of the tools and code and learn how to contribute to their development [here](participating-services).
+Many of the applications that drive the Open Badge Infrastructure are released under open source licenses. See some of the tools and code and learn how to contribute to their development [here](participating-services/#open-source).
 
 <h2 class="title title-content" id="history">History of Open Badges</h2>
 The Open Badges Project began during the 2010 Mozilla Festival. The next year, the Digital Media and Learning Competition provided $2 million in grants for innovative badge systems. In 2012, the Mozilla Foundation released the Public Beta of the Open Badge Infrastructure, followed by Open Badges 1.0 in 2013. The Summit to Reconnect Learning, held in 2014, was the first event to focus on moving Open Badges from the edges of innovation to the mainstream. There, the [Badge Alliance]({{ site.baseurl }}/badge-alliance) launched to disseminate the work and facilitate collaboration between a growing set of Open Badges ecosystem stakeholders. Today, the BA has a new set of technical resources and committed partners to ensure the right and complete ecosystem is built.
