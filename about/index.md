@@ -41,20 +41,17 @@ Issuers award badges to Recipients by giving them portable badge image files tha
 The Open Badges Specification is designed to make badging flexible enough to represent a full range of online and offline learning experiences. While initially most attractive within the formal and informal education market, open badging is spreading to many industries and disciplines, across a range of formal and informal learning environments. Empowering recipients to use their badges as legitimate credentials also requires support for sharing badges across many display sites and services. The distributed nature of the Open Badges ecosystem that users in every role have choices about which software and services they want to use.
 
 <h2 class="title title-content" id="digital-vs-open">Digital Badges vs. Open Badges</h2>
-Not all digital badges are Open Badges. A digital badge is an online representation of a skill you’ve earned, and Open Badges are a subset of digital badges that have powerful additional features and benefits: 
+Not all digital badges are _Open Badges_. A digital badge is a generic acheivement that may not represent a substantial achievement or contain evidence. Open Badges are a robust type of digital badges that have a specific definition and set of features to best recognize serious learning accomplishments:
 
-* Open Badges can demonstrate a wider range of achievements than many traditional forms of accreditation, representing these experiences in a more detailed way. Each badge can include a description of the accomplishment, together with the evidence used to support the badge award, packaged in a portable,verifiable digital object.
-* Open Badges can be used to unlock learning and career pathways. The diverse nature of badges can help employers and educators better match individuals to opportunities.
-* Recipients can use Open Badges to convey achievements in a variety of contexts rather than traditional types of accreditation, which tend to be siloed to separate environments.
-* Although individual badges can be granular and detailed in nature, they can accumulate to represent larger scale achievements like degrees and certificates.
-* Open Badges can evolve faster than traditional models, allowing them to represent emerging specialties and innovations which are valuable to further education and employment, but aren’t always quantified.
-* Badges can represent many of the personal attributes that matter to employers, but traditional education makes little or no attempt to measure.
-* Badges have the potential to aid the motivation process in learning environments, encouraging engagement, and reinforcing the sense of reward.
-* The granular nature of badges encourages varying pathways to learning, allowing learners to discover their own strengths, rather than following strict, recognized routes.
-Badges can be used in professional contexts, such as certificate of professional development programs and professional associations.
-* Badges give recipients control over their online identity, integrating with web channels for building community links via social media.
-* Unlike traditional qualifications, badges describe the path a particular learner took along the way.
-* Badges use technologies which make them inherently interoperable with a range of existing and future applications.
+* Open Badges can demonstrate a wider range and greater detail of achievements than many traditional forms of accreditation. Beyond a pass/fail, letter grade, or certificate of completion, badges can include a description of the accomplishment, machine-readable meta-data of the achievement, and with the evidence used to support the badge award. All of this is packaged in a portable, verifiable digital object that can be shared and understood across platforms.
+* Open Badges can be used to unlock learning and career pathways. By showcasing all kinds of achievements can help employers and educators better match individuals with non-traditional experiences to relevant opportunities.
+* Recipients can use Open Badges to convey achievements in a variety of contexts rather than traditional types of accreditation, which tend to be siloed to single institutions or platforms.
+* Although individual badges are designed to be small-sized credentials, they can accumulate to represent the aggregate accomplishments of learners, much like degrees and certificates but with a greater level of detail. A portfolio of badges complete with rich metadata and a portfolio of evidence can offer a more powerful picture of a learner's accomplishments than a single diploma.
+* Open Badges can evolve faster than traditional models, allowing them to represent emerging specialties and innovations which are valuable to further education and employment, but cannot be quickly translated into more traditional certification models.
+* For certain types of learners, Badges have the potential to aid the motivation process in learning environments, encouraging engagement, and reinforcing the sense of reward.
+* Badges encourage varying pathways to learning, allowing learners to discover their own strengths by following their passions, rather than following strict, recognized routes to obtain competencies.
+* Badges can be used in professional contexts, such as certificate of professional development programs and professional associations. At their simplest, they represent a significant digital improvement over traditional professional certifications.
+* Badges give recipients control over their online learner-identity, integrating with web channels for building community links via social media.
 
 <h2 class="title title-content" id="system-roles">Roles in a Badging System</h2>
 Participants in a badging system fall into three main roles: Issuer, Recipient, and Consumer. The Issuers provide badges, Recipients store them, then compose representations of their learning to share with relevant Consumers. 
