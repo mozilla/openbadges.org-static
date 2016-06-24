@@ -26,7 +26,10 @@ When the Badge Alliance soft-launched at the Summit to Reconnect Learning, 10 in
 Currently, groups operate on a short-term basis as they’re needed, strive for broad representation across the globe, and are one of the primary means by which the Open Badges ecosystem work is advanced. Details on current and past working groups can be found here. 
 
 <h2 class="title title-content" id="active-groups">Active Working Groups</h2>
-There are ... 
+There are two currently active groups for the 2016 cycle. These groups hold active meetings and are producing deliverables scheduled for release at roadmap points in 2016.
+
+* [Standard Working Group](./standard/) - The official standards body for the [Open Badges Specification](https://openbadgespec.org)
+* [Higher Ed Working Group](./higher-ed) - Investigating and promoting uses of Open Badges in Higher Education settings.
 
 <h2 class="title title-content" id="archived-groups">Archived Working Groups</h2>
 
