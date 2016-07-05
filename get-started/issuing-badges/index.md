@@ -66,7 +66,7 @@ You can design a badge issuing flow to suit your organization and community of b
 When a badge is awarded to an earner, these steps may be carried out:
 
 * Issuer creates and hosts (or cryptographically signs) a badge Assertion.
-* Issuer delivers the badge to the Recipient, either as a baked image file or by offering to push the Recipient’s badge to his/her backpack account. The Mozilla Backpack [Issuer API](https://github.com/mozilla/openbadges-backpack/wiki/Using-the-Issuer-API) will bake the image automatically for the Recipient. Other backpack platforms’ capabilities vary. See open source bakery software in [Tools and Code »](.../tools and code).
+* Issuer delivers the badge to the Recipient, either as a baked image file or by offering to push the Recipient’s badge to his/her backpack account. The Mozilla Backpack [Issuer API](https://github.com/mozilla/openbadges-backpack/wiki/Using-the-Issuer-API) will bake the image automatically for the Recipient. Other backpack platforms’ capabilities vary. See open source bakery software in [Tools and Code »](.../participating-services/open-source).
 * From within the backpack, the Recipient decides whether to make the badge part of a public collection or page.
 * Many badge Recipients use the [Mozilla Backpack](https://backpack.openbadges.org) to store their badges, which features a Displayer API to integrate with external applications who may query the Recipient’s backpack account for badge Assertion info and other options for Recipients to share their badges with Consumers like employers, college admissions offices, managers, and peers.
 * Sharing, embedding, and display options vary slightly for users of different backpack platforms.
