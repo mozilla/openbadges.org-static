@@ -8,15 +8,13 @@ navitems:
     - url: "#whoissuing"
       title: Who's Issuing Open Badges?
     - url: "#atof"
-      title: Issuers A - F 
+      title: Issuers A - F
     - url: "#gtok"
-      title: Issuers G - K 
+      title: Issuers G - K
     - url: "#ltoq"
       title: Issuers L - Q
     - url: "#rtoz"
-      title: Issuers R - Z     
-  
-      
+      title: Issuers R - Z 
 ---
 <h2 class="title title-content">Who Can Issue Badges?</h2>
 Any individual or organization may award Open Badges. All they need to do is use a compatible service or application to define and award badges. See a list of compatible Open Badges issuing platforms [here](../participating-services). Common types of issuers include:
