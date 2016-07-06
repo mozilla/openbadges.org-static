@@ -39,6 +39,9 @@ Upcoming Events:
  
 + Mozfest 2016, London: October 28-30
  + Mozilla’s annual festival celebrating the open web
- + Questions about the development of the program for this year's festival or themes/ideas you'd like to put forward, [email Mozilla] (festival@mozilla.org)
+ + Questions about the development of the program for this year's festival or themes/ideas you'd like to put forward, [email Mozilla](festival@mozilla.org)
 
- 
+<h2 class="title title-content" id="calendar">Events Calendar</h2>
+Subscribe to this calendar to stay up to date on events in the Open Badges community. We recommend copying relevant events to your personal calendar to ensure you get notifications for those most relevant to you. (<a title="Badge Alliance Open Badges Events Calendar in iCal format" href="https://calendar.google.com/calendar/ical/ifjuqevurkfqqgnj6ecnh9g9ho%40group.calendar.google.com/public/basic.ics">iCal link</a>)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://calendar.google.com/calendar/embed?src=ifjuqevurkfqqgnj6ecnh9g9ho%40group.calendar.google.com&ctz=America/Los_Angeles' style='border:0'></iframe></div>

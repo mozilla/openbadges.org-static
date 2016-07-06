@@ -32,6 +32,11 @@ If a site has a Recipient's email address and knows the Recipient uses the Mozil
 * [Badgr](https://badgr.io) - Badgr provides Open Badges issuing and earner badge management all from one account. Free accounts are available on https://badgr.io, and the software is also available open source for users who wish to run their own server. With Badgr, users may upload badges they have earned via multiple confirmed email addresses and share them by making collections.
 * [Open Badge Passport](https://openbadgepassport.com/) - Badges issued from Open Badges Factory are automatically transferred into Open Badge Passport if the Recipient’s email address used for issuing the badge was saved to the Recipient’s Open Badge Passport account setting. Other badges can be uploaded as files from a computer or imported from a Mozilla Backpack. The application backing OBP is available open source as Salava by Discendum. Users can share their badges by building pages that include badges, text, and portfolio items.
 
+**Display badges on a LinkedIn Profile**:
+Doug Belshaw recorded this video to show a method for displaying Open Badges on a LinkedIn profile
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/jo4Wdj5sRa4' frameborder='0' allowfullscreen></iframe></div>
+
 <h2 class="title title-content" id="developers">For Developers</h2>
 To display badges in your own applications you need:
 

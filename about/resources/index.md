@@ -56,7 +56,7 @@ Here are a few guides developed by the Badge Alliance to get started as a badge 
 
 * [Get started issuing Open Badges](../../get-started/issuing-badges/). Also see our guide on [Badge System Design](../../get-started/badge-system-design/) for information on factors to consider when issuing badges.
 * [Get started earning Open Badges](../../get-started/earning-badges/)
-* [Get started displaying Open Badges](../../get-started/issuing-badges/)
+* [Get started displaying Open Badges](../../get-started/displaying-badges/)
 * [Get started consuming Open Badges](../../get-started/consuming-badges/)
 
 <a href="../../get-started/" class="button">Get started with Open Badges &raquo;</a>
