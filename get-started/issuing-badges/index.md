@@ -51,8 +51,8 @@ The techniques described here work for building one or two complete badges, but 
 
 <h3 class="title title-secondary">A Typical Issuing Scenario</h3>
 Several staffers at an after-school club get together. They want to recognize learning that’s happening in their program with Open Badges. They:
-Set some general goals they hope to accomplish using badges to guide their design decisions;
 
+* Set some general goals they hope to accomplish using badges to guide their design decisions;
 * Decide to recognize a specific skill with a particular badge and come to agreement on how they will embed issuing this badge into their day-to-day practices. [See Badge System Design »](../badge-system-design);
 * Design the badge and define the badge metadata in their Open Badges Issuer application;
 * Publish the Issuer Profile and BadgeClass, start assessing students’ achievement, and awarding the badge to individual Recipients.
@@ -64,12 +64,12 @@ You can design a badge issuing flow to suit your organization and community of b
 
 When a badge is awarded to an earner, these steps may be carried out:
 
-* Issuer creates and hosts (or cryptographically signs) a badge Assertion
-* Issuer delivers the badge to the Recipient, either as a baked image file or by offering to push the Recipient’s badge to his/her backpack account. The Mozilla Backpack [Issuer API](https://github.com/mozilla/openbadges-backpack/wiki/Using-the-Issuer-API) will bake the image automatically for the Recipient. Other backpack platforms’ capabilities vary. See open source bakery software in [Tools and Code »](https://openbadgespec.org/tools).
+* Issuer creates and hosts (or cryptographically signs) a badge Assertion.
+* Issuer delivers the badge to the Recipient, either as a baked image file or by offering to push the Recipient’s badge to his/her backpack account. The Mozilla Backpack [Issuer API](https://github.com/mozilla/openbadges-backpack/wiki/Using-the-Issuer-API) will bake the image automatically for the Recipient. Other backpack platforms’ capabilities vary. See open source bakery software in [Tools and Code »](../../about/participating-services/#open-source).
 * From within the backpack, the Recipient decides whether to make the badge part of a public collection or page.
 * Many badge Recipients use the [Mozilla Backpack](https://backpack.openbadges.org) to store their badges, which features a Displayer API to integrate with external applications who may query the Recipient’s backpack account for badge Assertion info and other options for Recipients to share their badges with Consumers like employers, college admissions offices, managers, and peers.
 * Sharing, embedding, and display options vary slightly for users of different backpack platforms.
-* Displayers can only query for badges the Recipient has chosen to make public
+* Displayers can only query for badges the Recipient has chosen to make public.
 * Identity can be verified by Consumers, as can signatures where appropriate.
 
 Displayers may choose to prominently display Open Badges features by linking to a validator service to allow Consumers to check on demand to ensure that a badge has proper integrity. Because Open Badges are verifiable, Consumers should have easy access to these capabilities whenever they encounter badges.
@@ -78,7 +78,7 @@ Displayers may choose to prominently display Open Badges features by linking to 
 <h2 class="title title-content" id="requirements">Issuing Requirements</h2>
 Issuer organizations may use one of the available issuing platforms or establish their own Issuer service by running open source code or building their own application. To act as an Issuer service, you need:
 
-* A web server where you can serve your JSON-LD files for your Issuer Profile, BadgeClasses and Assertions at stable URLs
+* A web server where you can serve your JSON-LD files for your Issuer Profile, BadgeClasses, and Assertions at stable URLs
 * Recipient email addresses (other Recipient identification options are coming as of Q3 2016)
 
 Additionally, for signed Assertions, you need to:

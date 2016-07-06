@@ -54,7 +54,6 @@ Some Issuers will have just one badge system while others will have many. Some p
 * [Bestr](https://bestr.it/)
 * [Beuth University of Applied Sciences Berlin](http://www.beuth-hochschule.de/)
 * [Books@Work](http://www.booksatwork.org/employees/)
-* [Borders College](http://www.bolt.ac.uk/moodle.html)
 * [BuzzMath](https://www.buzzmath.com/badges)
 * [Catalyst](http://www.catalyst-eu.net/)
 * [Center for Educational Technologies at Wheeling Jesuit University](http://badges.cet.edu/)
@@ -83,7 +82,6 @@ Some Issuers will have just one badge system while others will have many. Some p
 * [EduOpen](http://www.eduopen.org/)
 * [Estrato Media](http://www.estratomedia.es/)
 * [Fedora Project](https://badges.fedoraproject.org/)
-* [Focused on Learning](http://www.focusedonlearning.com/2014/04/open-badges/)
 * [El Gabinete de Tele-Educación (GATE)](http://serviciosgate.upm.es/gate/)<a name="gtok"></a>
 * [European Badge Alliance](http://ebawebsite.net/)
 * [GRASS](http://grass.fon.bg.ac.rs/)
