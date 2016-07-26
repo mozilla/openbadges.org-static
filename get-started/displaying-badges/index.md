@@ -23,13 +23,14 @@ The displaying of badges can benefit and connect Recipients and Consumers. For e
 <h2 class="title title-content" id="recipients">For Badge Recipients</h2>
 Open Badges makes it possible for Recipients to display badges acquired in various contexts, painting a more detailed, complete picture of their skills and experiences.
 Badges are not siloed or limited to one site but can be combined with badges from multiple Issuers and then shared for different audiences and purposes.
-Each Recipient controls how and where his/her badges are displayed through a Backpack. See Backpack Services in Participating Services
+Each Recipient controls how and where his/her badges are displayed through a Backpack. See more about [Backpack Services &raquo;](../../about/participating-services/#backpacks)
+
 If a site has a Recipient's email address and knows the Recipient uses the Mozilla Backpack, it can query the person's Backpack account for public badges. The response is a JSON representation of the badges.
 
 <h3 class="title title-secondary">Ways to Display Open Badges from Backpacks:</h3>
 
 * [Mozilla Backpack](https://backpack.openbadges.org/) - You can upload badges, create groups of related badges, then share them through websites, blogs, and social media sites. The Mozilla Backpack is also available as open source software. Users can share their badges by including them in collections and sharing via URL.
-* [Badgr](https://badgr.io) - Badgr provides Open Badges issuing and earner badge management all from one account. Free accounts are available on https://badgr.io, and the software is also available open source for users who wish to run their own server. With Badgr, users may upload badges they have earned via multiple confirmed email addresses and share them by making collections.
+* [Badgr](https://badgr.io) - Badgr provides Open Badges issuing and earner badge management all from one account. Free accounts are available on badgr.io, and the software is also available open source for users who wish to run their own server. With Badgr, users may upload badges they have earned via multiple confirmed email addresses and share them by making collections.
 * [Open Badge Passport](https://openbadgepassport.com/) - Badges issued from Open Badges Factory are automatically transferred into Open Badge Passport if the Recipient’s email address used for issuing the badge was saved to the Recipient’s Open Badge Passport account setting. Other badges can be uploaded as files from a computer or imported from a Mozilla Backpack. The application backing OBP is available open source as Salava by Discendum. Users can share their badges by building pages that include badges, text, and portfolio items.
 
 **Display badges on a LinkedIn Profile**:
