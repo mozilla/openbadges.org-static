@@ -24,13 +24,6 @@ Subscribe to the BA calendar to stay up-to-date on events in the Open Badges com
 
 Upcoming Events:
 
-+ 21st Century Badge Pathways, Riverside CA: July 25-26, 2016
- + Third Annual Summer Institute on Digital Badging  
- 
-+ The Association for Authentic, Experiential and Evidence-Based Learning (AAEEBL)
- + [AAEEBL Annual Conference, Boston, MA: August 1-4, 2016](http://www.aaeebl.org/page/annual_conf_2016)
- + Beyond the Box: Liberating Pedagogical Creativity with ePortfolios (Innovations in Learning, Assessment, Endorsement of Learning, and Career Building) 
-
 + ePIC 2016
  + [14th Conference, Bologna, Italy: October 27-29, 2016](http://www.openepic.eu)
  + Making learners and citizens the leaders of educational and social innovation
