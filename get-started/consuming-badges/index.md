@@ -14,6 +14,6 @@ A good Open Badges validator ensures a number of checks pass:
 * Validation of expiration: Open Badges may have expiration dates, allowing organizations to issue badges for skills or authorizations which are only valid for a set period of time. Validators will check that a badge hasn’t expired.
 * Validation of Structural validity: Badge metadata should be properly structured according to the Open Badges Specification, including relationships between components to detect integrity problems that may indicate foul play.
 * Validation of Issuer identity: Open Badges contain profile information about the Issuer who awarded the credential, including contact information if additional questions arise. Good validators make it easy for Consumers to see the relevant information about the Issuer profile and the issuing platform, software, or service used by the Issuer.
-* Validation of cryptographic integrity: For badges containing cryptographic signatures, these signatures are validatecnd and information is displayed about the provided public key and relationship to the Issuer profile.
+* Validation of cryptographic integrity: For badges containing cryptographic signatures, these signatures are validated and information is displayed about the provided public key and relationship to the Issuer profile.
 
 [Read more about validation in the Open Badges Specification](https://openbadgespec.org/#badge-verification) and see a list of [available validation tools](https://openbadgespec.org/tools/#verification).
