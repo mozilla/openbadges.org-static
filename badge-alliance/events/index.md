@@ -21,7 +21,7 @@ Third Annual Summer Institute on Digital Badging
 
 **ePIC 2016**
 
-* [14th ePic Conference, Bologna, Italy: October 27-29, 2016](http://www.openepic.eu)
+* [14th ePic Conference, Bologna, Italy: October 26-28, 2016](http://www.openepic.eu)
 * Making learners and citizens the leaders of educational and social innovation
 * ePortfolios, Open Badges, Personal Ledgers, Identities, Trust, Blockchains
 * [#OpenEpic](https://twitter.com/search?q=%23openepic)
