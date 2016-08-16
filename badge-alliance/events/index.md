@@ -21,13 +21,13 @@ Third Annual Summer Institute on Digital Badging
 
 **ePIC 2016**
 
-* [14th Conference, Bologna, Italy: October 27-29, 2016](http://www.openepic.eu)
+* [14th ePic Conference, Bologna, Italy: October 27-29, 2016](http://www.openepic.eu)
 * Making learners and citizens the leaders of educational and social innovation
 * ePortfolios, Open Badges, Personal Ledgers, Identities, Trust, Blockchains
 * [#OpenEpic](https://twitter.com/search?q=%23openepic)
  
 **Mozfest 2016, London: October 28-30**
-The [Mozilla Festival](https://mozillafestival.org) is Mozilla’s annual festival celebrating the open web. Questions about the development of the program for this year's festival or themes/ideas you'd like to put forward, [email Mozilla](mailto:festival@mozilla.org). Call for submissions now [open](https://mozillafestival.org/proposals). 
+The [Mozilla Festival](https://mozillafestival.org) is Mozilla’s annual festival celebrating the open web. Questions about the development of the program for this year's festival or themes/ideas you'd like to put forward, [email Mozilla](mailto:festival@mozilla.org). See the [71 submitted submissions for the Open Badges space](https://github.com/MozillaFoundation/mozfest-program-2016/issues?page=1&q=is%3Aopen+is%3Aissue+label%3A%22%5BSpace%5D+Open+badges%22) this year. 
 
 <h2 class="title title-content" id="calendar">Events Calendar</h2>
 Subscribe to this calendar to stay up to date on events in the Open Badges community. We recommend copying relevant events to your personal calendar to ensure you get notifications for those most relevant to you. (<a title="Badge Alliance Open Badges Events Calendar in iCal format" href="https://calendar.google.com/calendar/ical/ifjuqevurkfqqgnj6ecnh9g9ho%40group.calendar.google.com/public/basic.ics">iCal link</a>)
