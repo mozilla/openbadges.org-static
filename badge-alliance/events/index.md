@@ -8,16 +8,13 @@ If you're looking for ways to get involved or stay involved with the Open Badges
 <h3 class="title title-content">Community Call</h3>
 The weekly community call occurs every Wednesday (unless otherwise notified) at 12 pm ET / 9 am PT / 5pm BST (4pm UTC) [Conference location](https://www.uberconference.com/badgealliance)
 
-The Etherpad link will be displayed on Twitter (see the #openbadges hashtag) and the Badge Alliance mailing list. All are welcome to participate in the calls and learn more about the global impact of Open Badges.
+The Etherpad link will be displayed on Twitter (see the [#openbadges](https://twitter.com/search?q=%23openbadges) hashtag) and the Badge Alliance mailing list. All are welcome to participate in the calls and learn more about the global impact of Open Badges.
 
-<h3 class="title title-content">Upcoming Major Events</h3>
-**21st Century Badge Pathways, Riverside CA: July 25-26, 2016**
-Third Annual Summer Institute on Digital Badging  
- 
-**The Association for Authentic, Experiential and Evidence-Based Learning (AAEEBL)**
+**Southern California Open Badges Symposium at UC Irvine: October 8, 2016**
 
-* [AAEEBL Annual Conference, Boston, MA: August 1-4, 2016](http://www.aaeebl.org/page/annual_conf_2016)
-* Beyond the Box: Liberating Pedagogical Creativity with ePortfolios (Innovations in Learning, Assessment, Endorsement of Learning, and Career Building) 
+* [Info & Registration](http://openbadgessymposium2016.eventbrite.com): FREE
+* As of mid-August, organizers still looking for more presenters, both regular presentations and 5-minute ignite talks
+* Follows DML2016: If you're in town for DML Conference http://dml2016.dmlhub.net consider staying another day and join the symposium.
 
 **ePIC 2016**
 
