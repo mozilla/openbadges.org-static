@@ -66,7 +66,7 @@ An Erasmus + project which brings together organizations from across Europe to s
 <h3 class="title title-secondary">Remake Learning</h3>
 A resource for people, organizations, and ideas shaping the future of teaching and learning in Pittsburgh. Members include teachers, techies, researchers, designers, civic leaders, and learning innovators from the greater Pittsburgh region.
 
-<h3 class="title title-secondary">10 Million Beter Futures</h3>
+<h3 class="title title-secondary">10 Million Better Futures</h3>
 A Clinton Global Initiative commitment to improve the futures of 10 million students and workers worldwide.
 
 <h3 class="title title-secondary">Digital Promise</h3>
