@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
         menu.setAttribute('aria-hidden', 'true');
         button.parentNode.classList.remove(active);
       }
+
     }
   }
 
