@@ -22,5 +22,6 @@ Get Started with [Open Badges](https://docs.google.com/document/d/1r2PoGQaGr-Exo
 Thousands of organisations around the world are issuing Open Badges. [Discover](https://docs.google.com/document/d/1NvtZKxqGz6fhdmuWqzpig9k7IXpHlR3_LBtRcCzsWx8/edit) how you can start issuing badges.
 
 **Developers**
+
 See [developer section](https://docs.google.com/document/d/1Q9lqa2Jd9ihTc_2m_fvX8oidGy-xnTDSG3l62IyRYVM/edit) for details of how applications access and read the metadata within badges.  
 
