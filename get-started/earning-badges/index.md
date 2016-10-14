@@ -1,6 +1,6 @@
 ---
 layout: page-twocol
-title: Earning Badges
+title: Earning Open Badges
 permalink: /get-started/earning-badges/
 navitems:
     - url: "#"
@@ -12,41 +12,49 @@ navitems:
     - title: Backpacks
       url: #backpacks
 ---
-With Open Badges, people of all ages and backgrounds can demonstrate the skills they’ve gained through a wide variety of learning experiences. Recipients may be awarded Open Badges directly from Issuers or following an application process. 
+<h2 class="title title-content">Why earn Open Badges?</h2>
+Open Badges are for everyone to recognise skills gained through a variety of experiences, regardless of your age or background.They allow you to follow your interests and passions and unlock opportunities in life and work by standing out from the crowd. 
 
-<h2 class="title title-content">How to earn badges</h2>
-Any organization can issue Open Badges, and the hundreds who are already offering badges are doing it in many different ways. That means there is no one way to earn a badge. Some Issuers award badges for completion of formal education programs; others award badges for simple participation. Sometimes you need to submit an application with evidence, and sometimes earning a badge happens after passing a quiz. 
+Organisations create and issue Open Badges for you to earn, enabling you to build up your own unique collection and share them across the web. Each badge you earn contains data about your skills and the issuing organisation within a portable image file. This data can be viewed when you display and share your badges, helping people find out more about you. 
 
-<h3 id="quickstart" class="title title-secondary">Earn a quick badge:</h3>
-You can get a quick start to your badge collection by earning a really simple badge.
+You can share your badges in: 
+* Blogs, websites, ePortfolios, and professional networks
+* Job Applications
+* Social media sites - Twitter, Google+, Facebook, LinkedIn 
+* Even in your email signature!
+
+<h2 class="title title-content">Where can I earn badges?</h2>
+You can earn Open Badges from over 3,000 organizations across the world who want to recognise learning in new ways. 
+
+Wherever you see Open Badges offered online or as part of a learning program you can be sure that you are earning a credential that you can keep, manage, and share along with others to tell the full story of your achievements.  
+
+<h3 id="quickstart" class="title title-secondary">Getting started</h3>
+Organizations issuing Open Badges can provide an online space for you to display and share your badge collections. There are also free services called backpacks available to anyone earning Open Badges. A backpack lets you store and transfer your badges between different platforms, wherever you earn them. 
+
 <div class="contentblock-x-imagecontainer">
-  <a href="http://toolness.github.io/hackasaurus-parable/navigator-badge"><img src="{{ site.baseurl}}/images/navigator-badge-supergirl.png" alt="Super Girl and the Navigator Badge" /></a>
-  <p class="contentblock-x-imagecaption">Super Girl and the Navigator Badge, a quick learning experience provided by Atul Varma <br /><br /><a href="http://toolness.github.io/hackasaurus-parable/navigator-badge" class="button">Earn a Navigator Badge</a></p>
+  <img src="{{ site.baseurl}}/images/openbadges-flow-diagram-mozilla.png" alt="Flow Diagram" />
+  <p class="contentblock-x-imagecaption">Collect Open Badges from many issuers, combine them in a backpack account, and share them with opportunity providers to give a verifiable record of your skills and experience. (Image: Mozilla Foundation, 2012-13)
+</p>
 </div>
 
-There are hundreds of organizations that issue Open Badges. See a list of some of some [Participating Issuers](../participating-issuers).
+* Mozilla created the first Open Badges Backpack, which is integrated with many issuing platforms. You can set up your Mozilla Backpack [here.](https://backpack.openbadges.org) 
+* Other providers are now creating new Backpack services. See [Displaying Badges] ({{ site.baseurl }}/get-started/displaying-badges/) for more information.
 
-<h2 class="title title-content" id="what-to-do">What can you do with a Badge once you’ve Earned it?</h2>
-
-You can share badges across digital contexts including:
+Start earning badges from one of these badge issuers. [Open Badges Issuers.]({{ site.baseurl }}/get-started/participating-issuers)
 
 * Blogs, websites, ePortfolios, and professional networks;
 * Job Applications;
 * Social media sites - Twitter, Google+, Facebook, LinkedIn; and 
 * Your email signature. 
 
-<h2 class="title title-content" id="backpacks">Open Badges-Compatible Backpack Services</h2>
+<h2 class="title title-content" id="backpacks">Earn a quick badge:</h2>
 
-Open Badges can be used all in all these places, because they can be viewed as image files. But they have a lot more to them than your average kitten meme, because they're packed with verifiable metadata. It requires a special application that knows how to look for Open Badges metadata to extract and verify this information, and that's why Open Badges Backpack Services and Displayers exist.
+You can get a quick start to your badge collection by earning a really simple badge.
 
-Recipients can use the Mozilla Backpack or another Backpack to manage the badges they’ve earned. Within the Mozilla Backpack, Recipients can group badges into collections, share the collections, and choose whether to make them publicly discoverable. Similar features are available in other options.
+<div class="contentblock-x-imagecontainer">
+  <a href="http://toolness.github.io/hackasaurus-parable/navigator-badge"><img src="{{ site.baseurl}}/images/navigator-badge-supergirl.png" alt="Super Girl and the Navigator Badge" /></a>
+  <p class="contentblock-x-imagecaption">Super Girl and the Navigator Badge, a quick learning experience provided by Atul Varma</a></p>
+</div>
 
-Set up your [Mozilla Backpack](http://backpack.openbadges.org/) to start managing and sharing your badges across the web.
+<a href="http://toolness.github.io/hackasaurus-parable/navigator-badge" class="button">Earn a Navigator Badge</a>
 
-Other storage options include:
-
-* [Open Badge Passport](https://openbadgepassport.com/)
-* [Badgr](http://info.badgr.io/)
-
-<h2 class="title title-content" id="what-to-do">Next Steps</h2>
-Learn where you can earn more badges by checking out the list of [participating issuers](../participating-services/).
