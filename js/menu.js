@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (state == 'false') {
         menu.setAttribute('aria-hidden', 'true');
         button.parentNode.classList.remove(active);
-        menu.onoutclick = function () {hide(menu)};
+        menu.addEventListener('mousemove', function () {hide(menu)};
       }
     }
   }
