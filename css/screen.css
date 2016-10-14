@@ -32,7 +32,6 @@ a:hover,
 button:hover {
   color: #0f8ddc;
 }
-
 :target::before {
   content: '';
   display: block;
