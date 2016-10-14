@@ -14,12 +14,12 @@ document.addEventListener('DOMContentLoaded', function() {
       if (state == 'false') {
         menu.setAttribute('aria-hidden', 'true');
         button.parentNode.classList.remove(active);
-        menu.addEventListener('mousemove', function () {hide(menu)};
+        menu.onmouseover = function() {
+          menu.setAttribute('aria-hidden', 'true');
+        }
       }
     }
   }
-
-
 
   function openMenu(event) {
 
