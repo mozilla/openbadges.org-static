@@ -11,13 +11,20 @@ document.addEventListener('DOMContentLoaded', function() {
       var menu = document.getElementById(menuId);
       var state = menu.getAttribute('aria-hidden');
 
+      var menu = document.getElementById('menuId')
+
+      menu.onoutclick = function () {
+        hide(menu)
+      }
+      
       if (state == 'false') {
         menu.setAttribute('aria-hidden', 'true');
         button.parentNode.classList.remove(active);
       }
-
     }
   }
+
+
 
   function openMenu(event) {
 

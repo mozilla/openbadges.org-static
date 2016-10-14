@@ -12,12 +12,14 @@ navitems:
     - url: "#other-services"
       title: "Other Services"
 ---
-The open structure of the badges ecosystem was designed to encourage development throughout the community. Many applications and services implement Open Badges to serve several core functions for issuers, earners and consumers. Each service and application may be specialized to focus on a particular aspect of the digital credentialing ecosystem, with appropriate features, and target audiences.
 
-The Badge Alliance maintains the following lists of services and applications to help you find the right solution to integrate Open Badges into your businesses and lives. The BA attempts to verify that each of the services that appears on this page is compatible with the [Open Badges Specification](https://openbadgespec.org) to the extent that is appropriate for its function. If you have any questions about this list or would like to suggest that your service be added, please [contact](../../contact) the Badge Alliance.
+The Open Badges ecosystem was designed under an open structure to encourage community development and serve core functions for issuers, earners and consumers. 
+Effective January 1, 2017, the Open Badges Specification, will continue to evolve under the stewardship of [IMS Global Learning Consortium](https://www.imsglobal.org/), who will provide ongoing open governance with inputs from the community. 
 
 <h2 class="title title-content" id="issuing-services">Issuing Services</h2>
-Here you can find services, software, and technical partners to help you start awarding Open Badges. 
+There are a number of platforms and applications using the Open Badges Specification, listed below. Here you can find services, software, and technical partners to help you start issuing Open Badges.
+
+
 
 <h3 class="title title-secondary" id="Acclaim">Acclaim</h3>
 [Acclaim](http://youracclaim.com/) partners with recognized brands to issue badges employers value.
