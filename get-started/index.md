@@ -20,15 +20,15 @@ Each Open Badge is associated with an image and information about the badge, its
 
 <h2 class="title title-content" id="issue">What do badges mean?</h2>
 Badges may represent many different types of achievements and claims
-<ul>
-<li>Hard skills such as proficiency in a programming language</li>
-<li>Soft skills like collaboration</li>
-<li>Participation</li>
-<li>Official certification</li>
-<li>Authorization</li>
-<li>Community involvement</li>
-<li>New skills and literacies not recognized by traditional education providers</li>
-</ul>
+
+* Hard skills such as proficiency in a programming language
+* Soft skills like collaboration
+* Participation
+* Official certification
+* Authorization
+* Community involvement
+* New skills and literacies not recognized by traditional education providers
+
 Because the system is based on an open standard, recipients can combine multiple badges from different Issuers to tell the complete story of their verifiable achievements—both online and off. Open Badges can be displayed wherever recipients want them on the web, including on social media profiles and through services that store and display badges. Badges can be shared for employment, education, or lifelong learning.
 
 Anyone can Issue a badge, receive one, verify that a badge is real, or see the detailed evidence from the issuer. Badge issuers can certify that their badges are technically compliant with the specification and therefore, can be readily moved among Backpacks and display sites. Badges can be used to set goals, motivate behaviors, connect learning environments, and communicate achievements across many contexts.
