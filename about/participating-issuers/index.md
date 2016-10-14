@@ -4,11 +4,11 @@ title: Who's Issuing Open Badges?
 permalink: /about/participating-issuers/
 navitems:
     - url: "#"
-      title:Who Can Issue Open Badges?
+      title: Who Can Issue Open Badges?
     - url: "#whosissuingopen"
       title: Who’s issuing Open Badges?
     - url: "#doyouwanttoissue"
-      title:Do you want to issue Open Badges?
+      title: Do you want to issue Open Badges?
     - url: "#atof"
       title: Issuers A - F
     - url: "#gtok"
