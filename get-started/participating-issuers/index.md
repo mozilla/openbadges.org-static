@@ -1,7 +1,7 @@
 ---
 layout: page-twocol
 title: Who's Issuing Open Badges?
-permalink: /about/participating-issuers/
+permalink: /get-started/participating-issuers/
 navitems:
     - url: "#"
       title: Who Can Issue Open Badges?

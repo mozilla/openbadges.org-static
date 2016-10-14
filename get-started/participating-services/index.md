@@ -1,7 +1,7 @@
 ---
 layout: page-twocol
 title: Open Badges Services and Software
-permalink: /about/participating-services/
+permalink: /get-started/participating-services/
 navitems:
     - url: "#issuing-services"
       title: "Issuing Services"
@@ -19,7 +19,7 @@ Effective January 1, 2017, the Open Badges Specification, will continue to evolv
 <h2 class="title title-content" id="issuing-services">Issuing Services</h2>
 There are a number of platforms and applications using the Open Badges Specification, listed below. Here you can find services, software, and technical partners to help you start issuing Open Badges.
 
-
+[Contact us]({{ site.baseurl }}/contact) if you have an Open Badges service you would like to be included in this list. 
 
 <h3 class="title title-secondary" id="Acclaim">Acclaim</h3>
 [Acclaim](http://youracclaim.com/) partners with recognized brands to issue badges employers value.
@@ -203,6 +203,18 @@ Contact: [John Foster](http://www.nocti.org/PresidentsMessage.cfm), CEO, NOCTI
 * Current features include: milestone badges; evidence uploads to OBF server; user role management (admin, creator, Issuer); simple badge creation and issuing interface; integration with Moodle, Mahara, and TotaraLMS, as well as open API for third-party plugins; extensive reporting features.
 
 Contact: [Eric Rousselle](mailto:eric.rousselle@discendum.com), CEO, Discendum Inc.
+
+<h3 class="title title-secondary" id="OpenBadgeAcademy">Open Badge Academy</h3>
+[Open Badge Academy](https://www.openbadgeacademy.com/) provides an end-to-end badge discovery, evidencing and display service. 
+
+**Details**:
+
+* Organisations can create their own academy to launch badges into the public library or their own dedicated space
+* Track progress through badges and review and assess evidence via a built in assessment workflow 
+* Individuals can evidence badges on the move via mobile and build up a sharable badge profile
+* Professionals can verify skills by leaving evidence-based endorsements    
+
+Contact: [hello@openbadgeacademy.com](mailto:hello@openbadgeacademy.com)
 
 <h3 class="title title-secondary" id="P2PU">Peer 2 Peer University Badges</h3>
 [P2PU Badges](http://badges.p2pu.org/) are free, open, and community-driven, featuring badges from Mozilla, Wikimedia, Creative Commons, and the National Writing Project.

@@ -120,7 +120,7 @@ body > footer {
 }
 @media (min-width: 992px) {
   .l-containerhorizontal.l-containerhorizontal-small {
-    padding-left: calc(50vw - 480px);
+    /*padding-left: calc(50vw - 480px);*/
     padding-right: calc(50vw - 480px);
   }
 }

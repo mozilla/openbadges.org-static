@@ -3,23 +3,24 @@ layout: page
 title: Understanding Open Badges
 permalink: /get-started/consuming-badges/
 ---
-The powerful tools in the Open Badges Ecosystem are designed to put the power of verifiable, portable credentials in the hands of Recipients and the Consumers they want to talk about their achievements with. Consumers and the tools designed to support them fulfill important roles turning Open Badges back into valuable real-world opportunities.
+* Open Badges provide portable and verifiable information about skills and achievements. Individuals can unlock opportunities by sharing collections of badges representing desired skill sets in a dynamic, evidence-based way. 
 
-<h2 class="title title-content">Verifying a Badge</h2>
-To determine the credibility of an Open Badge, Consumers can inspect and validate the badge with an Open Badges validator tool, often one built into the display platform where they see a badge, to determine whether it’s valid, and that it belongs to the expected Recipient.
+Open Badges represent legitimate, authenticated achievements, described within  badge and linked to the awarding organization.
 
-A good Open Badges validator ensures a number of checks pass: 
+Individuals and organizations who accept badges and offer opportunities in exchange, play a critical role in the ecosystem. Through this process Open Badges can be turned into new collaborations, jobs, internships, and richer connections between lifelong learners.
 
-* Validation that the badge is awarded to the expected email address of the Recipient: Badge verification tools can inform a Consumer whether a badge matches an expected Recipient, but it’s up to the Consumer to determine that the expected email address belongs to the person presenting the badge to them.
-* Validation of expiration: Open Badges may have expiration dates, allowing organizations to issue badges for skills or authorizations which are only valid for a set period of time. Validators will check that a badge hasn’t expired.
-* Validation of Structural validity: Badge metadata should be properly structured according to the Open Badges Specification, including relationships between components to detect integrity problems that may indicate foul play.
-* Validation of Issuer identity: Open Badges contain profile information about the Issuer who awarded the credential, including contact information if additional questions arise. Good validators make it easy for Consumers to see the relevant information about the Issuer profile and the issuing platform, software, or service used by the Issuer.
-* Validation of cryptographic integrity: For badges containing cryptographic signatures, these signatures are validated and information is displayed about the provided public key and relationship to the Issuer profile.
+Things you can verify and explore in a badge:
+* Details about the organization issuing the badge
+* What the individual has done to earn the badge 
+* The criteria that the badge has been assessed against 
+* That the badge was issued to the expected recipient
+* The badge earner’s unique evidence (optionally included)
+* When the badge was issued and whether it has expired
 
-[Read more about validation in the Open Badges Specification](https://openbadgespec.org/#badge-verification).
 
-Here are some available validation tools:
+Get Started with [Open Badges](https://docs.google.com/document/d/1r2PoGQaGr-ExoCM9pg_P2VdUmz59fhl1tob7b0DvRAs/edit)
+Thousands of organisations around the world are issuing Open Badges. [Discover](https://docs.google.com/document/d/1NvtZKxqGz6fhdmuWqzpig9k7IXpHlR3_LBtRcCzsWx8/edit) how you can start issuing badges.
 
-* [Mozilla Open Badges Validator](http://validator.openbadges.org/) - This software is available open source [here](https://github.com/mozilla/openbadges-validator).
-* [BadgeCheck](https://badgecheck.io/) - BadgeCheck also allows you to check the recipient of badge.
+**Developers**
+See [developer section](https://docs.google.com/document/d/1Q9lqa2Jd9ihTc_2m_fvX8oidGy-xnTDSG3l62IyRYVM/edit) for details of how applications access and read the metadata within badges.  
 
