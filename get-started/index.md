@@ -2,15 +2,6 @@
 layout: page-onecol
 title: What’s an Open Badge?
 permalink: /get-started/
-<!--navitems:
-    - url: "#issue"
-      title: Issue Open Badges
-    - url: "#display"
-      title: Display Open Badges
-    - url: "#understand"
-      title: Understand Badges
-    - url: "#developers"
-      title: Developers-->
 ---
 Open Badges are verifiable, portable digital badges with embedded metadata about skills and achievements. They comply with the Open Badges global specification and are shareable across the web. 
 
