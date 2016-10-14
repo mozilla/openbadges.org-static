@@ -14,10 +14,20 @@ document.addEventListener('DOMContentLoaded', function() {
       if (state == 'false') {
         menu.setAttribute('aria-hidden', 'true');
         button.parentNode.classList.remove(active);
-        menu.onmouseover = function() {
-          menu.setAttribute('aria-hidden', 'true');
-        }
       }
+    }
+  }
+
+  function mouseOverclosed() {
+    var button = event.target;
+    var menuId = button.getAttribute('aria-controls');
+    var menu = document.getElementById(menuId);
+    var state = menu.getAttribute('aria-hidden');
+    var menu = document.getElementById('menuId');
+
+    menu.onmouseover = function () {
+      menu.setAttribute('aria-hidden', 'false');
+      button.parentNode.classList.add(active);
     }
   }
 
@@ -32,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
       menu.setAttribute('aria-hidden', 'true');
       button.parentNode.classList.remove(active);
     } else {
-      closeMenus();
+      mouseOverclosed();
 
       menu.setAttribute('aria-hidden', 'false');
       button.parentNode.classList.add(active);
