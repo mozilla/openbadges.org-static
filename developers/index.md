@@ -153,7 +153,7 @@ To display badges in your own applications you need:
 The Mozilla Backpack [Displayer API](https://github.com/mozilla/openbadges-backpack/wiki/Using-the-Displayer-API) is a good example of display capabilities available to developers. With the Mozilla Backpack Displayer API, you can query that Backpack for public badges awarded to a particular Recipient. Information about the badges is returned in JSON, which you can use to render a wide variety of displays. Other Backpack have their own APIs for retrieving badge data for display in connected applications, though community members hope to converge on some simple functionality to be available from all backpacks in 2017 in order to enable developers of display applications to work with any compliant backpack service where badges are stored.
 To access development documentation and build your own application:
 * Seek help from our [developer community](http://bit.ly/badgesdevgroup).
-* Get in touch with the IMS working group team. We’re here to help! Contact us at. OpenBadgesInfo@imsglobal.org
+* Get in touch with the IMS working group team. We’re here to help! Contact us at. [OpenBadgesInfo@imsglobal.org](mailto:OpenBadgesInfo@imsglobal.org)
 
 <h3 class="title title-secondary">Ways to Display Open Badges from Backpacks:</h3>
 
