@@ -4,9 +4,11 @@ title: Who's Issuing Open Badges?
 permalink: /about/participating-issuers/
 navitems:
     - url: "#"
-      title: Who Can Issue badges?
-    - url: "#whoissuing"
-      title: Who's Issuing Open Badges?
+      title:Who Can Issue Open Badges?
+    - url: "whosissuingopen"
+      title: Who’s issuing Open Badges?
+    - url: "#doyouwanttoissue"
+      title:Do you want to issue Open Badges?
     - url: "#atof"
       title: Issuers A - F
     - url: "#gtok"
@@ -16,8 +18,10 @@ navitems:
     - url: "#rtoz"
       title: Issuers R - Z 
 ---
-<h2 class="title title-content">Who Can Issue Badges?</h2>
-Any individual or organization may award Open Badges. All they need to do is use a compatible service or application to define and award badges. See a list of compatible Open Badges issuing platforms [here](../participating-services). Common types of issuers include:
+<h2 class="title title-content">Who Can Issue Open Badges?</h2>
+Any individual or organization may issue Open Badges through a compatible service or application. See a list of compatible platforms [here]({{ site.baseurl }}/about/participating-services).
+
+Common types of issuers include:
 
 * After-school programs 
 * Communities of practice 
@@ -31,23 +35,15 @@ Any individual or organization may award Open Badges. All they need to do is use
 * Professional associations 
 * Teachers, tutors, coaches
 
-<h3 class="title title-secondary">Do you want to award badges yourself?</h3>
-See **[Get started Issuing Open Badges &raquo;](../../get-started/issuing-badges)** for loads of information on what technical steps it takes to issue badges, selecting tools to automate the process, badge system design, and how to operate an Open Badges program.
-
-See **[Open Badges Services and Software &raquo;](../participating-services)**
-
-<h2 class="title title-content" id="whoissuing">Who’s Issuing Open Badges?</h2>
-Here is a list of organizations that have been identified by the Badge Alliance as issuers of Open Badges. It's not comprehensive, and if you don't see your organization or an issuer you know, please [contact](../../contact) the Badge Alliance so we can verify that they are awarding badges compliant with the [Open Badges Specification](https://openbadgespec.org/) and add them to the list.
-
-Some Issuers will have just one badge system while others will have many. Some programs may be open to the general public, while others may be closed to members or commercial partners. While this list doesn't include hundreds of other schools, courses and organizations who have started to award Open Badges, it begins to represent the breadth and variety of the growing Open Badges ecosystem.
-
-<a name="atof"></a>
+<h3 class="title title-secondary" id="whosissuingopen">Who’s issuing Open Badges?</h3>
+Hundreds of educational institutions, programmes and organizations have started to issue Open Badges, representing the breadth and variety of the ecosystem. The list below represents many of the organizations currently issuing Open Badges. If you don’t see your organization or an issuer you know, please [contact]({{ site.baseurl }}/contact) us so we can add to this list. 
 
 * [3d GameLab](http://3dgamelab.com/)
 * [4-H/USDA](http://www.fyflnet.org/4hbadges/)
 * [Acclaim](https://www.youracclaim.com/)
 * [Badgecraft](https://www.badgecraft.eu/en/use-cases)
 * [Badges Work for Vets](https://badgesforvets.org/)
+* [Badgr](http://info.badgr.io/)
 * [Badg.us](http://badg.us/)
 * [Bestr](https://bestr.it/)
 * [Beuth University of Applied Sciences Berlin](http://www.beuth-hochschule.de/)
@@ -63,6 +59,7 @@ Some Issuers will have just one badge system while others will have many. Some p
 * [Corporation for Public Broadcasting](http://www.americangraduate.org/)
 * [CourseSites by Blackboard](http://www.coursesites.com/)
 * [Coursolve](https://www.coursolve.org/about-badges)
+* [Credly](https://credly.com)
 * [Cybersociety Observatory](http://cibersociedad.net/)
 * [Dallas Museum of Art](https://www.dma.org/visit/dma-friends)
 * [David Wiley, Introduction to Open Education course](https://learn.canvas.net/courses/4)
@@ -144,4 +141,10 @@ Some Issuers will have just one badge system while others will have many. Some p
 * [Young Adult Library Services Association (YALSA)](http://www.ala.org/yalsa/badges-learning)
 * [YMCA of Greater New York](http://www.ymcanyc.org/association/pages/y-mvp)
 
+You can also see the global reach of badges through [Badge the World](http://www.badgetheworld.org/). 
 
+<h2 class="title title-content" id="doyouwanttoissue">Do you want to issue Open Badges? </h2>
+
+See [Get started Issuing Open Badges »](http://openbadges.github.io/openbadges.org-static/get-started/issuing-badges) for information on the technical steps to issue badges, selecting tools to automate the process, badge system design, and how to operate an Open Badges program.
+
+See [Open Badges Services and Software »](http://openbadges.github.io/openbadges.org-static/about/participating-services)

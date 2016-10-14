@@ -62,7 +62,7 @@ This document, which features important aspects of badge creation and design, is
 * [DPD Project: Design Principles Card Deck](http://dpdproject.info/cards/)
 The DPD card deck was created by Nate Otto using the design principles from Dr. Daniel T. Hickey’s Design Principles Documentation Project, to which he contributed. It turns the building of a badge system into a game.
 
-Who’s issuing Open Badges? 
+<strong>Who’s issuing Open Badges?</strong> 
 
 A diverse range of organizations and communities, including:
 
