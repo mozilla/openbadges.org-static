@@ -3,22 +3,20 @@ layout: page-twocol
 title: What’s an Open Badge?
 permalink: /get-started/
 navitems:
-    - url: "#issue"
-      title: Issue Open Badges
-    - url: "#display"
-      title: Display Open Badges
-    - url: "#understand"
-      title: Understand Badges
-    - url: "#developers"
-      title: Developers
+    - url: "#"
+      title: What’s an Open Badge?
+    - url: "#whatdobadges"
+      title: What do badges mean?
+    - url: "#getstarted"
+      title: Get Started
 ---
 Open Badges are verifiable, portable digital badges with embedded metadata about skills and achievements. They comply with the Open Badges global specification and are shareable across the web. 
 
 Each Open Badge is associated with an image and information about the badge, its recipient, the issuer, and any supporting evidence. All this information may be packaged within a badge image file that can be displayed via online CVs and social networks. Thousands of organizations across the world issue badges in accordance with the Open Badges specification, from non-profits to major employers to educational institutions at all levels.
 
-<iframe width="940" height="529" src="https://www.youtube.com/embed/HgLLq7ybDtc" frameborder="0" allowfullscreen></iframe>
+<iframe width="670" height="500" src="https://www.youtube.com/embed/HgLLq7ybDtc" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="title title-content" id="issue">What do badges mean?</h2>
+<h2 id="whatdobadges" class="title title-content">What do badges mean?</h2>
 Badges may represent many different types of achievements and claims
 
 * Hard skills such as proficiency in a programming language
@@ -33,7 +31,7 @@ Because the system is based on an open standard, recipients can combine multiple
 
 Anyone can Issue a badge, receive one, verify that a badge is real, or see the detailed evidence from the issuer. Badge issuers can certify that their badges are technically compliant with the specification and therefore, can be readily moved among Backpacks and display sites. Badges can be used to set goals, motivate behaviors, connect learning environments, and communicate achievements across many contexts.
 
-<h2 class="title title-content" id="issue">Get Started</h2>
+<h2 id="getstarted" class="title title-content">Get Started</h2>
 * [Earn Open Badges]({{ site.baseurl }}/get-started/earning-badges/)  By earning Open Badges you can organize and share your skills across the web in a dynamic portable way, to unlock opportunities in life and work. 
 
 * [Issue]({{ site.baseurl }}/get-started/issuing-badges/) Over 3,000 organisations already issue Open Badges to nurture talent, build capability and recognise achievement, providing direct connections between earners and issuers. See also: [Developer’s guide to issuing badges.]({{ site.baseurl }}/developers) 
