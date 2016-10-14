@@ -9,8 +9,6 @@ navitems:
       title: Active Working Groups
     - url: "standard"
       title: "&#8627; Standard"
-    - url: "higher-ed"
-      title: "&#8627; Higher Ed"
     - url: "#archived-groups"
       title: Archived Working Groups
     - url: "#operations"
