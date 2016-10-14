@@ -5,7 +5,7 @@ permalink: /about/participating-issuers/
 navitems:
     - url: "#"
       title:Who Can Issue Open Badges?
-    - url: "whosissuingopen"
+    - url: "#whosissuingopen"
       title: Who’s issuing Open Badges?
     - url: "#doyouwanttoissue"
       title:Do you want to issue Open Badges?
