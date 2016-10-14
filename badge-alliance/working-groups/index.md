@@ -29,7 +29,6 @@ Currently, groups operate on a short-term basis as they’re needed, strive for 
 There are two currently active groups for the 2016 cycle. These groups hold active meetings and are producing deliverables scheduled for release at roadmap points in 2016.
 
 * [Standard Working Group](./standard/) - The official standards body for the [Open Badges Specification](https://openbadgespec.org)
-* [Higher Ed Working Group](./higher-ed) - Investigating and promoting uses of Open Badges in Higher Education settings.
 
 <h2 class="title title-content" id="archived-groups">Archived Working Groups</h2>
 
@@ -39,14 +38,12 @@ There are two currently active groups for the 2016 cycle. These groups hold acti
 * [Research Working Group](./research/)
 * [Open Badges Policy ](./policy/)
 * [Taxonomies Working Group](./taxonomies)
-* [Cities & Network-Wide Badge Systems Working Group](./city-network/)
+* [Cities & Network-wide Badge Systems Working Group](./city-network/)
 * [Digital & Web Literacies Working Group](./digital-web-lit/)
 * [Globalization, Localization & Badge the World Working Group](./globalization/)
 * [Workforce & Acceptance by Employers Working Group](./workforce/)
-
-
-<h3 class="title title-secondary">Working Groups that Focused on Ecosystem</h3>
-The broader open badging ecosystem encompasses all the different sectors and industries developing and implementing badge systems. These working groups were driven by community leaders in specific areas, including digital and web literacies, educator professional development, workforce, and citywide badge systems. 
+* [Educator Professional Development Working Group](./educator-pd/)
+* [Higher Ed Working Group](./higher-ed)
 
 <h2 class="title title-content" id="operations">Operations and Communication Channels</h2>
 Most working groups hold a conference call every other week, where the chair/cabinet gathers feedback from the participants on important proposals, plans, and deliverables related to the group’s goals. In between meetings, the broader working group community can weigh in on these and other issues asynchronously in the working group forums and mailing lists.
@@ -61,5 +58,3 @@ Each working group includes a:
 
 An individual Badge Alliance member or representative of a BA member organization serves as chair. With the assistance of the BA staff and other community members, the chair organizes synchronous meetings, sets the agenda, and pursues goals. The outcomes of Badge Alliance working groups are openly published for the benefit of the entire Open Badges community.
 
-<h3 class="title title-secondary">Charter a New Working Group</h3>
-To recommend a new working group to the Badge Alliance membership, please email your ideas and suggestions to [badges@badgealliance.org](mailto:badges@badgealliance.org)

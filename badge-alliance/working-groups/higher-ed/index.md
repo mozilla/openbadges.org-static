@@ -14,7 +14,9 @@ navitems:
 
     
 ---
-This group finds ways to include badges in the admissions evaluation process for higher education, as well as credentialing course content and informal learning experiences. Since 2014, its members have informed and supported institutions of further and higher education to recognize badges earned by students at the secondary level and beyond. The group explores related issues such as supporting disciplinary research into badges.
+The Higher Ed Working Group was active from 2014-2016 as part of the Badge Alliance and Open Badges in Higher Education project.
+
+This group was targeting ways to include badges in the admissions evaluation process for higher education, as well as credentialing course content and informal learning experiences. Since 2014, its members have informed and supported institutions of further and higher education to recognize badges earned by students at the secondary level and beyond. The group explores related issues such as supporting disciplinary research into badges.
 
 Chair: James Willis, Indiana University School of Education
 BA Liaison: Nate Otto, BA Director of Technology

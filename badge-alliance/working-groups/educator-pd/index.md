@@ -1,7 +1,7 @@
 ---
 layout: page-twocol
 title:  Educators & Professional Development Working Group
-permalink: /badge-alliance/working-groups/edpro-development/
+permalink: /badge-alliance/working-groups/educator-pd/
 navitems:
     - url: "../"
       title: "&#8624; See All Groups"
