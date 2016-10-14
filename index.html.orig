@@ -1,0 +1,133 @@
+---
+layout: default
+---
+    <main>
+      <div style="width:100%;background:yellow;text-align:center;color:darkbrown;padding:10px 0">
+        <p>
+          <strong>Please note</strong>: See live draft at: <a href="http://openbadges.github.io/openbadges.org-static/">http://openbadges.github.io/openbadges.org-static/</a>
+        </p>
+      </div>
+      <section class="spotlight l-containerhorizontal l-containervertical-offset">
+        <h1 class="title title-fill title-large">Discover Open Badges</h1>
+
+        <ul class="fourup">
+          <li>
+            <a href="{{ site.baseurl }}/get-started/earning-badges" class="fourup-earn">
+              <div>
+                <h2 class="title title-fill-inherit">Earn</h2>
+                <p>Earn Open Badges for skills you learn online and in person</p>
+              </div>
+            </a>
+          </li>
+
+          <li>
+            <a href="{{ site.baseurl }}/get-started/issuing-badges" class="fourup-issue">
+              <div>
+                <h2 class="title title-fill-inherit">Issue</h2>
+                <p>Anyone can create & issue Open Badges to recognize the achievements of others</p>
+              </div>
+            </a>
+          </li>
+
+          <li>
+            <a href="{{ site.baseurl }}/get-started/displaying-badges" class="fourup-display">
+              <div>
+                <h2 class="title title-fill-inherit">Display</h2>
+                <p>Share your Open Badges as verifiable records of your learning</p>
+              </div>
+            </a>
+          </li>
+
+          <li>
+            <a href="{{ site.baseurl }}/get-started/#consuming-badges" class="fourup-understand">
+              <div>
+                <h2 class="title title-fill-inherit">Understand</h2>
+                <p>Verify Open Badges and accept them as records of achievement.</p>
+              </div>
+            </a>
+          </li>
+        </ul>
+
+        <p class="title title-fill-partial title-thin title-narrow">Thousands of organizations across the world issue Open Badges, from non-profits to major employers to educational institutions at every level.</p>
+      </section>
+
+      <div class="l-onecol l-containerhorizontal l-containervertical-offsetlarge">
+        <article class="contentblock">
+          <h1 class="title">Connected, verifiable credentials represented in portable image files</h1>
+          <p>Open Badges are visual tokens of achievement, affiliation, authorization, or other trust relationship sharable across the web. Open Badges represent a more detailed picture than a CV or résumé as they can be presented in ever-changing combinations, creating a constantly evolving picture of a person’s lifelong learning.
+          </p>
+          <h2>Learn more about how badges are being used and how you can start earning, issuing and displaying Open Badges in your programs.
+          </h2>
+        </article>
+        <article>
+          <h2 class="title">Join the Conversation</h2>
+          <ul class="ctafeature">
+            <li>
+              <a href="{{ site.baseurl }}/badge-alliance/community/#community-calls" class="ctafeature-communitycalls">
+                <p class="small">Community Calls</p>
+              </a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/badge-alliance/community/#slack" class="ctafeature-slack">
+                <p class="small">Slack Channel</p>
+              </a>
+            </li>
+<<<<<<< HEAD
+          </ul>
+        </article>
+      </div>
+      <div class="l-onecol l-containerhorizontal company-logos">
+        <article>
+          <ul>
+            <li>
+              <img src="images/members/mozillafoundation-logo.png" alt="Mozilla">
+            </li>
+            <li>
+              <img src="images/members/macaurthurfoundation-logo.png" alt="MacArthur Foundation">
+            </li>
+            <li>
+              <img src="images/members/lrng-logo.png" alt="LRNG">
+            </li>
+            <li>
+              <img src="images/members/imsglobal-logo.png" alt="IMS Global">
+            </li>
+          </ul>
+        </article>
+      </div>
+=======
+          </ul>
+        </article>
+      </div>
+      <div class="l-onecol l-containerhorizontal company-logos">
+        <article>
+          <ul class="ctafeature">
+            <li>
+              <img src="images/members/mozillafoundation-logo.png" alt="Mozilla">
+            </li>
+            <li>
+              <img src="images/members/macaurthurfoundation-logo.png" alt="MacArthur Foundation">
+            </li>
+            <li>
+              <img src="images/members/lrng-logo.png" alt="LRNG">
+            </li>
+            <li>
+              <img src="images/members/imsglobal-logo.png" alt="IMS Global">
+            </li>
+          </ul>
+        </article>
+      </div>
+>>>>>>> 869f2c3951f298d2eae16d1b63e1025472605890
+    </main>
+
+<style type="text/css">
+  .company-logos {
+    border-top: 1px solid rgba(24, 40, 51, 0.1);
+  }
+  .company-logos img{
+    width: 90%;
+  }
+  .company-logos ul {
+    display: flex;
+    padding: 20px 0;
+  }
+</style>
