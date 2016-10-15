@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-Contact the Badge Alliance for questions about badges, how to get started, to be connected with partners or information about joining or supporting the Open Badges movement.
+Contact us for questions about how to get started, to be connected with partners, or information about joining or supporting the Open Badges movement.
 
 <form action="https://formspree.io/badges@badgealliance.org" method="POST">
 	<h3 class="title title-secondary"><legend>Send us an email!</legend></h3>
