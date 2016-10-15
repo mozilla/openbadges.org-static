@@ -16,12 +16,14 @@ Open Badges are for everyone to recognise skills gained through a variety of exp
 Organisations create and issue Open Badges for you to earn, enabling you to build up your own unique collection and share them across the web. Each badge you earn contains data about your skills and the issuing organisation within a portable image file. This data can be viewed when you display and share your badges, helping people find out more about you. 
 
 You can share your badges in: 
+
 * Blogs, websites, ePortfolios, and professional networks
 * Job Applications
 * Social media sites - Twitter, Google+, Facebook, LinkedIn 
 * Even in your email signature!
 
 <h2 id="wherecaniearn" class="title title-content">Where can I earn badges?</h2>
+
 You can earn Open Badges from over 3,000 organizations across the world who want to recognise learning in new ways. 
 
 Wherever you see Open Badges offered online or as part of a learning program you can be sure that you are earning a credential that you can keep, manage, and share along with others to tell the full story of your achievements.  
