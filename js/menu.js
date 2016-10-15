@@ -17,10 +17,10 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       var mouseDown = 0;
-      document.body.onmousedown = function() {
+      document.body.onclick = function() {
         ++mouseDown;
       }
-      document.body.onmouseup = function() {
+      document.body.onclick = function() {
         --mouseDown;
       }
       if (mouseDown)
