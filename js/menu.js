@@ -78,7 +78,7 @@
                 var menuId = $t.find('.menu-button').attr('aria-controls');
                 var menu = $('#' + menuId);
 
-               if( menu.attr('aria-hidden') == true){
+               if( menu.attr('aria-hidden') == 'true'){
                    window.menuOpen($t);
                }
                 else{
