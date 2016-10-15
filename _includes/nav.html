@@ -4,7 +4,7 @@
     <li class="menuitem menuitem-home"><a href="{{ site.baseurl }}/">Home</a></li>
 
     <li class="menuitem"><button class="menu-button" aria-controls="menugetstarted"><span class="visuallyhidden">Toggle</span> Get Started <span class="visuallyhidden">Menu</span></button>
-      <ul id="menugetstarted" class="menu-children" aria-hidden="true" onclick="toggle_visibility('menugetstarted');">
+      <ul id="menugetstarted" class="menu-children" aria-hidden="true" onmouseup="toggle_visibility('menugetstarted');">
         <li class="menuitem menuitem-child"><a href="{{ site.baseurl }}/get-started">Get Started</a></li>
         <li class="menuitem menuitem-child"><a href="{{ site.baseurl }}/get-started/earning-badges">Earn Badges</a></li>
         <li class="menuitem menuitem-child"><a href="{{ site.baseurl }}/get-started/issuing-badges">Get Started Issuing Badges</a></li>
@@ -24,12 +24,3 @@
     <li class="menuitem"><a href="{{ site.baseurl }}/about">About</a></li>
   </ul>
 </nav>
-<script type="text/javascript">
-  function toggle_visibility(menugetstarted) {
-    var e = document.getElementById(menugetstarted);
-    if(e.style.display == 'block')
-      e.style.display = 'none';
-    else
-      e.style.display = 'block';
-  }
-</script>
