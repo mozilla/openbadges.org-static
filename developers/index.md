@@ -1,10 +1,15 @@
 ---
 layout: page-twocol
-title: Developers
+title: Developers Guide
 permalink: /developers/
 navitems:
     - url: "#"
-      title: Get Started Issuing Badges
-    - url: "#issuingyourown"
+      title: Developer Guides
+    - url: "#HowtoIssueBadgesTechnicalGuide"
+      title: How to Issue Badges: Technical Guide
+    - url: "#verification"
+      title: Verification
+    - url: "#HowtoDisplayBadges"
+      title: How to Display Badges
 ---
-<h2 class="title title-content">Developers</h2>
+This section
