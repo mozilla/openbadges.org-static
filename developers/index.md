@@ -5,7 +5,7 @@ permalink: /developers/
 navitems:
     - url: "#"
       title: Developer Guides
-    - url: "#HowtoIssueBadgesTechnicalGuide"
+    - url: "#IssueBadgesTechnicalGuide"
       title: How to Issue Badges: Technical Guide
     - url: "#verification"
       title: Verification
@@ -17,7 +17,7 @@ This section provides a set of technical resources to guide you through the proc
 
 For a quick nontechnical introduction to Open Badges see [Get started with Open Badges »](http://openbadges.github.io/openbadges.org-static/get-started/)
 
-<h2 class="title title-content" id="HowtoIssueBadgesTechnicalGuide">How to Issue Badges: Technical Guide</h2>
+<h2 class="title title-content" id="IssueBadgesTechnicalGuide">How to Issue Badges: Technical Guide</h2>
 
 Issuing Open Badges requires constructing and publishing a set of interconnected resources that follow the structure and guidelines set out in the [Open Badges Specification](https://openbadgespec.org/). The properties that make up a badge’s metadata are split across these resources depending on where they apply. Together they form an Open Badge. For each badge awarded, there’s:
 * An Issuer Profile describing the individual or organization awarding badges. The information in the profile will appear in the metadata for all badges, including name, description, contact email address, and website URI. One Issuer profile is typically shared between all the badges an organization awards, though Issuers may choose to operate several Issuer profiles in order to serve specific audiences better. For example, a complex issuing organization like a university may choose to allow individual departments or staff to define their own issuing profiles so badges appear as awarded by a specific program or professor. [Read more about the required and optional properties of the Issuer profile »](https://openbadgespec.org/#Issuer).
@@ -109,7 +109,7 @@ See notes on [revocation](https://openbadgespec.org/#revoking) in the Open Badge
 Declare your support for Open Badges with Issuer insignia for your website. Show the world your badges align with the Open Badges and that they should expect the full range of Open Badges features when they see badges referenced on your site.
 
 <div class="contentblock-x-imagecontainer">
-  <img src="{{ site.baseurl}}/images/issuer-all.png" alt="Issuer Banner & Ribbon" />
+  <img src="{{ site.baseurl}}/images/issuer-all.png" alt="Issuer Banner Ribbon" />
 </div>
 
 <h2 class="title title-content" id="verification">Verification</h2>
