@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+/*document.addEventListener('DOMContentLoaded', function() {
 
   var buttons = document.querySelectorAll('.menu-button');
   var active = ('menuitem-is-open');
@@ -39,11 +39,27 @@ document.addEventListener('DOMContentLoaded', function() {
   for (var i = 0; i < buttons.length; i++) {
     buttons[i].addEventListener('click', openMenu);
   }
-
-
-
 });
+*/
+(function($) {
+  $(function () {
+    $('.menu-button').on('mouseenter', function (event) {
+      var $t = $(this);
+      var menuId = $t.attr('aria-controls');
+      var menu = $('#'+menuId);
 
+      menu.attr('aria-hidden', 'true');
 
+    });
 
+    $('.menu-button').on('mouseleave', function (event) {
+      var $t = $(this);
+      var menuId = $t.attr('aria-controls');
+      var menu = $('#'+menuId);
+
+      menu.attr('aria-hidden', 'false');
+    });
+  });
+
+})(jQuery);
 

@@ -105,15 +105,3 @@ layout: default
     padding: 20px 0;
   }
 </style>
-<script type="text/javascript">
-  $(document).ready(function () {
-    $('.menu-button').click(function (e) {
-      $('.menu-children').stop(true).slideToggle();
-    });
-    $(document).click(function (e) {
-      if (!$(e.target).closest('.menu-button, .menu-children').length) {
-        $('.menu-children').stop(true).slideUp();
-      }
-    });
-  });
-</script>
