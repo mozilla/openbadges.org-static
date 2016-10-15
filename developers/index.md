@@ -6,7 +6,7 @@ navitems:
     - url: "#"
       title: Developer Guides
     - url: "#HowtoIssueBadgesTechnicalGuide"
-      title: How to Issue Badges: Technical Guide
+      title: How to Issue Badges Technical Guide
     - url: "#verification"
       title: Verification
     - url: "#HowtoDisplayBadges"
