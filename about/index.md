@@ -4,94 +4,52 @@ title: About Open Badges
 permalink: /about/
 navitems:
     - url: "#"
-      title: Start Learning About Badges
-    - url: "#digital-vs-open"
-      title: Digital Badges vs Open Badges
-    - url: "#system-roles"
-      title: Roles in a Badging System
-    - url: "#technology"
-      title: Technology
-    - url: "#history"
-      title: History
+      title: About Open Badges
+    - url: "#HistoryofOpenBadges"
+      title: History of Open Badges
 ---
-Open Badges are visual symbols of accomplishments packed with verifiable learner data and evidence according to the Open Badges Specification. The Open Badges Specification defines the properties required to create a Badge and award it to a recipient, as well as procedures for verifying badge authenticity and "baking" the data into portable badge image files. These data-rich badge-images can be collected by the learner and moved across all Open Badges-compatible platforms.
+Open Badges communicate skills and achievements by providing visual symbols of accomplishments packed with verifiable data and evidence that can be shared across the web. Open Badges empower individuals to take their learning with them, wherever they go, building a rich picture of their lifelong learning journey. Thousands of organizations across the world already issue Open Badges, from non-profits to major employers to educational institutions at all levels. 
 
-The Open Badges project was built upon groundbreaking work initiated by Mozilla and the [MacArthur Foundation](https://www.macfound.org/). The Badge Alliance (BA) formed in 2014 to expand upon the work and organize cooperative development of a distributed ecosystem around Open Badges. [History »](#history)
-
-In 2016, the [Badge Alliance]({{ site.baseurl }}/badge-alliance) is working to define the continuing vision for Open Badges, turning this vision into a new version release of the specification, and ensuring broad support for this evolution in the open source libraries and compatible services developed by the BA members. 
-
-If you're new to Open Badges, the amount of information may seem overwhelming. Although the technical aspects of badging can be complex, the concepts in a badging system are mostly intuitive. 
-
-<h2 class="title title-content">What is an Open Badge?</h2>
-See [Definitions and Learning Resources »](resources)
-Badges contain detailed metadata about the issuer, recipient, and achievements.
+Badge the World see visual map of adoption from across the world (embed or a link)
 
 <div class="contentblock-x-imagecontainer">
-  <img src="{{ site.baseurl}}/images/openbadges-anatomy-kyle-bowen.png" alt="A picture of metadata under the surface of a badge, using the metaphor of human skeleton and organs underneath the skin" />
-  <p class="contentblock-x-imagecaption">Open Badges Anatomy, by Kyle Bowen (Used under CC-BY-SA License)</p>
+  <img src="{{ site.baseurl}}/images/about-image.jpg" alt="About" />
 </div>
 
-Issuers award badges to Recipients by giving them portable badge image files that contain their earned badge information. Recipients store and share their earned badges in a badge backpack or on their badging platform of choice.
+Mozilla created Open Badges in 2011 with support from the MacArthur Foundation and a network of partners committed to developing a new way to recognize learning wherever it happened – in and out of formal education and online.  As part of this effort, the Open Badges technical specification which defines the requirements for what a badge must represent for both issuers and earners was created. 
 
-<div class="contentblock-x-imagecontainer">
-  <img src="{{ site.baseurl}}/images/badges-ecosystem-infographic.jpg" alt="An infographic showing the different users and services in the badges ecosystem. Issuers award badges to recipients who store them in displayers which verify authenticity and make it possible to share with consumers." />
-  <p class="contentblock-x-imagecaption">The Open Badges Ecosystem (by Erik Knutson for the Badge Alliance, licensed CC-BY)</p>
-</div>
+A community of contributors has driven the Open Badges movement since then. Through these efforts, badges have gained widespread interest and adoption by policy, technology, and education stakeholders. As a disruptive innovation, Open Badges are reimagining ways to recognize learning beyond formal credentialing systems. Today, Open Badges are an emergent technology and require further development for widespread market development and adoption.
 
-The Open Badges Specification is designed to make badging flexible enough to represent a full range of online and offline learning experiences. While initially most attractive within the formal and informal education market, open badging is spreading to many industries and disciplines, across a range of formal and informal learning environments. Empowering recipients to use their badges as legitimate credentials also requires support for sharing badges across many display sites and services. The distributed nature of the Open Badges ecosystem that users in every role have choices about which software and services they want to use.
+To further this work, effective January 1, 2017, [IMS Global Learning Consortium](https://www.imsglobal.org/) will manage the evolution of the Open Badges Specification. As an open-governance, member-based standards consortium, IMS Global has deep experience with Open Badges and the expertise to lead the evolution of the specification, and also drive the adoption and portability of badges. The aim is to create a global skills currency based on the Open Badges Specification, under the leadership of IMS members with the support of the Open Badges community.  
 
-<h2 class="title title-content" id="digital-vs-open">Digital Badges vs. Open Badges</h2>
-Not all digital badges are _Open Badges_. A digital badge is a generic acheivement that may not represent a substantial achievement or contain evidence. Open Badges are a robust type of digital badges that have a specific definition and set of features to best recognize serious learning accomplishments:
+The ongoing development and governance of the Mozilla Backpack will be led by Digitalme, to maintain an open source, interoperable option for individuals to securely store and share their badges. 
 
-* Open Badges can demonstrate a wider range and greater detail of achievements than many traditional forms of accreditation. Beyond a pass/fail, letter grade, or certificate of completion, badges can include a description of the accomplishment, machine-readable meta-data of the achievement, and with the evidence used to support the badge award. All of this is packaged in a portable, verifiable digital object that can be shared and understood across platforms.
-* Open Badges can be used to unlock learning and career pathways. By showcasing all kinds of achievements can help employers and educators better match individuals with non-traditional experiences to relevant opportunities.
-* Recipients can use Open Badges to convey achievements in a variety of contexts rather than traditional types of accreditation, which tend to be siloed to single institutions or platforms.
-* Although individual badges are designed to be small-sized credentials, they can accumulate to represent the aggregate accomplishments of learners, much like degrees and certificates but with a greater level of detail. A portfolio of badges complete with rich metadata and a portfolio of evidence can offer a more powerful picture of a learner's accomplishments than a single diploma.
-* Open Badges can evolve faster than traditional models, allowing them to represent emerging specialties and innovations which are valuable to further education and employment, but cannot be quickly translated into more traditional certification models.
-* For certain types of learners, Badges have the potential to aid the motivation process in learning environments, encouraging engagement, and reinforcing the sense of reward.
-* Badges encourage varying pathways to learning, allowing learners to discover their own strengths by following their passions, rather than following strict, recognized routes to obtain competencies.
-* Badges can be used in professional contexts, such as certificate of professional development programs and professional associations. At their simplest, they represent a significant digital improvement over traditional professional certifications.
-* Badges give recipients control over their online learner-identity, integrating with web channels for building community links via social media.
+More information on how to contribute to the development of Open Badges can be found on the [Community](https://docs.google.com/document/d/176Sl21G06WFXRbBHlmFVvnyrnWKgLSkNqCqsljH7gJU/edit) page. And you can keep up to date with the latest [News](https://docs.google.com/document/d/17QDf5qvtADKz0Swrx6EwCtJyry8U1ijT22IgGarONOQ/edit).
 
-<h2 class="title title-content" id="system-roles">Roles in a Badging System</h2>
-Participants in a badging system fall into three main roles: Issuer, Recipient, and Consumer. The Issuers provide badges, Recipients store them, then compose representations of their learning to share with relevant Consumers. 
+<h2 class="title title-content" id="HistoryofOpenBadges">History of Open Badges</h2>
 
-<h3 id="issue" class="title title-secondary">Badge Issuers</h3>
-Badge Issuers are organizations or individuals who create and award badges. Issuers are responsible for defining badges, making them available to recipients, and handling applications. This may involve a range of complex tasks, such as assessment and comparing evidence against criteria. Alternatively, it may be a very lightweight process, such as when a badge is issued for attending an event. 
+<h3 class="title title-secondary">2010:</h3>
+* The concept of Open Badges originated among those working at the Mozilla and MacArthur foundations, and out of the research of Erin Knight, founding director of the Open Badges project at Mozilla. During the [2010 Mozilla Festival](https://wiki.mozilla.org/Drumbeat/events/Festival) (then titled the “Mozilla Drumbeat Festival”) in Barcelona, early Open Badges prototypes were initially developed under the banner “Learning, Freedom, and the Web.” The seminal white paper, [“Open Badges for Lifelong Learning,”](http://openbadges.github.io/openbadges.org-static/about/resources/#resources) by Knight and collaborators at Peer2Peer University and the MacArthur Foundation, described the aims and potential of the Open Badges movement. 
 
-Depending on the level of complexity, badge issuing can involve several people operating within a larger organization. At minimum, an Issuer has to host some JSON-LD files at a persistent online location. See More information for developers who want to learn the technical background behind issuing badges: [Get started issuing badges »]({{ site.baseurl }}/get-started/issuing-badges)
+<h3 class="title title-secondary">2011:</h3>
+* The fourth [Digital Media and Learning Competition](http://www.hastac.org/dml-competitions/2012) (2011-2013) provided up to $2 million in grants for 30 innovative badge systems and two research projects as part of the Badges for Lifelong Learning Competition. This work was administered by [HASTAC](http://hastac.org/) and supported by the  MacArthur Foundation, with additional support from the Gates Foundation and in partnership with Mozilla.
 
-For educators, employers or anybody looking to get started with an easy-to-use solution, check out available issuing platforms, partners and consultants who can help you get started, including free and open source options: [Participating platforms &raquo;](./participating-services/)
+<h3 class="title title-secondary">2012:</h3>
+* In October 2012, Mozilla released the [Public Beta of the Open Badge Infrastructure](https://blog.mozilla.org/blog/2012/04/10/mozilla-open-badges-beta/), making the technical infrastructure supporting Open Badges publicly available for use.
 
-<h3 class="title title-secondary">Badge Recipients</h3>
-A Recipient is someone who earns a badge (either by applying or being directly issued it). A Recipient can use an account at an Open Badges-compatible backpack service to manage and share badges. Recipients can earn Open Badges in various ways. For example, a badge application workflow may look like this:
+<h3 class="title title-secondary">2013:</h3>
+* Mozilla launched [Open Badges 1.0](https://blog.mozilla.org/blog/2013/03/14/open_badges/) at the 2013 Digital Media and Learning Conference, followed by a full launch of Mozilla Open Badges.
+* The first Chicago Summer of Learning provided a constellation of learning programs for youth, offered by dozens of the city’s cultural and educational institutions and connected through the use of Open Badges.
+* [Clinton Global Initiative](https://www.macfound.org/press/press-releases/better-futures-2-million-americans-through-open-badges/)- At the CGI in June 2013, President Bill Clinton announced a Commitment to Action to massively expand access to a new method of academic and technical skills assessment known as Open Badges – online representations of earned knowledge and skills – to improve the futures of 2 million of students and U.S. workers. By the following year, this goal was exceeded, and a new commitment was made for [10 Million Better Futures](http://www.10mbetterfutures.org/).
+* The Open Badges eco-system began to grow across Europe. Digitalme launched the Badge the UK campaign which grew into a network of over 120 organisations issuing 25,000 badges over the next two years.
 
-* Martin sees a badge on an online education provider's website and decides to apply for it.
-* He completes the instructions set out in the criteria, submits an application, which includes his evidence.
-* Martin receives feedback from the badge issuer, detailing whether or not his application was successful.
-* Martin is offered the badge and decides whether or not to accept it.
-* He can download a portable badge image or is offered the ability to push his new badge to his backpack account directly.
-* Martin can manage, collect, and display badges in the backpack.
+<h3 class="title title-secondary">2014:</h3>
+* The [Summit to Reconnect Learning](http://reconnectlearning.org), organized by the [Sprout Fund](http://www.sproutfund.org/) with funding from the MacArthur Foundation, was the first event to focus on moving Open Badges from the edges of innovation to the mainstream. At the summit, a wave of business and education partners made public pledges committing to help accelerate the spread and scale of digital badges for learning. Together, they formed the Badge Alliance to steward the Open Badges specification and community.  
+* 14 Badge Alliance working groups kicked off to guide different aspects of the work, from developing the standard itself, to advancing the acceptance of badges in workforce, to technical development of enhancements to the ecosystem, such as endorsement. In the 2014 cycle, these groups produced surveys, white papers, enhancements to the specification, and extensive documentation around how badges function in a broadening ecosystem. 
+* At Mozfest 2014, Mozilla and Digitalme launch the Badge the World map, a community project designed to map badge projects taking place around the world. 
 
-<h3 class="title title-secondary">Backpacks and Other Open Badge Displayers</h3>
-Backpacks and Open Badge Displayers are websites, organizations, or services that store or access Open Badges and display them on behalf of Recipients. The groupings and permissions affecting the display of badges is determined by the settings in the backpack, so the Recipient has control over how his/her badges are displayed. See [Open Badges backpack services and applications »](participating-services).
+<h3 class="title title-secondary">2015:</h3>
+* 2014-15 proved that the demand for verifiable, portable badges is strong. Corporations like IBM, Pearson and Microsoft begin to adopt Open Badges, joining thousands of cross-sector organisations around the world. Supported by the Badge Alliance, more than 650 individuals—educators, technologists, researchers, community leaders and strategists— participate in one or more Working Groups to increase support and collaboration across sectors, including higher education, digital and web literacies, educator professional development, workforce, and citywide badge systems.
 
-Much of badge system design involves Consumer perspectives, ensuring that badges in a system have currency among a target Consumer group.
-
-<h2 class="title title-content" id="technology">Open Badges Technology</h2>
-So, how’s all this implemented? A range of software and programming tools help people adopt badging systems. The Open Badges ecosystem consists of deployments of the underlying technology that supports badge issuing, collection, and display. The OBI is defined by two aspects: the [Open Badge Specification](https://openbadgespec.org), which technically describes how to construct badges; and a web-connected software that implements it as issuers, backpacks, verifiers, and displayers.
-A backpack is the key recipient-facing application, a service that provides badge recipients a way to collect and manage their badges. Because Open Badges are built on an open data specification, there are multiple software options for each part of the ecosystem; users don't get locked into working with a single provider.
-
-A badge is a digital image and its metadata. The data can be baked into the badge, meaning that it’s embedded into the image file and travels with it wherever the image goes. The individuals and organizations who issue badges create the badge metadata - which is designed to support verification of badges so that a Recipient's badges can be checked for authenticity. The data includes information about:
-
-* What achievement the badge represents: name, description, and a link to detailed criteria
-* Who earned it, when, and an optional link to evidence of their achievement
-* Who issued it, their name, description, website, and contact email address
-
-Many of the applications that drive the Open Badge Infrastructure are released under open source licenses. See some of the tools and code and learn how to contribute to their development [here](participating-services/#open-source).
-
-<h2 class="title title-content" id="history">History of Open Badges</h2>
-The Open Badges Project began during the 2010 Mozilla Festival. The next year, the Digital Media and Learning Competition provided $2 million in grants for innovative badge systems. In 2012, the Mozilla Foundation released the Public Beta of the Open Badge Infrastructure, followed by Open Badges 1.0 in 2013. The [Summit to Reconnect Learning](http://reconnectlearning.org/), held in 2014, was the first event to focus on moving Open Badges from the edges of innovation to the mainstream. There, the [Badge Alliance]({{ site.baseurl }}/badge-alliance) launched to disseminate the work and facilitate collaboration between a growing set of Open Badges ecosystem stakeholders. Today, the BA has a new set of technical resources and committed partners to ensure the right and complete ecosystem is built.
-
-<h3 class="title title-secondary">Ongoing Mozilla Partnership</h3>
-Open Badges were developed and piloted within the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2010 to 2014. Mozilla will continue to support the Open Badges ecosystem, taking on a smaller role working alongside peer members of the Badge Alliance. Mark Surman, Mozilla’s Executive Director, serves on the Badge Alliance Board along with Connie Yowell and Rob Abel. The Badge Alliance will continue to facilitate cooperation and organization between its members and adoption of the specification through events, meetings, publications, and communication channels.
+<h3 class="title title-secondary">Today:</h3>
+* Millions of Open Badges have been awarded to hundreds of thousands of recipients. The Mozilla Backpack alone hosts 967,966 badges on behalf of learners around the globe as of October 2016. The Open Badges community is actively working toward the release of Open Badges 2.0, the most significant upgrade to the specification since its release. This upgrade will make possible dozens of high-priority use cases that were identified by key stakeholders. IMS Global Learning Consortium, the world’s leading open standards consortium for education technology, in partnership with Mozilla Foundation and Collective Shift/LRNG, has agreed to become the home organization for the specification and community development effective January 1, 2017. The work of the Badge Alliance Standard Working Group will be taken up by a new working group within IMS. In addition, all existing efforts of Badge Alliance will also transition to IMS. See more about this in  the Transition FAQ
