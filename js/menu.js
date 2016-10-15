@@ -46,7 +46,7 @@
         $('.menu-button').parent()
             .on('mouseenter', function (event) {
                 var $t = $(this);
-                var menuId = $t.attr('aria-controls');
+                var menuId = $t.find('.menu-button').attr('aria-controls');
                 var menu = $('#' + menuId);
 
                 menu.attr('aria-hidden', 'false');
@@ -54,7 +54,7 @@
             })
             .on('mouseleave', function (event) {
                 var $t = $(this);
-                var menuId = $t.attr('aria-controls');
+                var menuId = $t.find('.menu-button').attr('aria-controls');
                 var menu = $('#' + menuId);
 
                 menu.attr('aria-hidden', 'true');
