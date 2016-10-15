@@ -31,8 +31,8 @@ Some consequential updates to this structure are coming with the next version of
 
 <h3 class="title title-secondary">Baking and Images</h3>
 
-<div class="contentblock-x-imagecontainer">
-  <img src="{{ site.baseurl}}/images/test-badge.png" width="164" height="165" alt="Test Badge" />
+<div>
+  <img src="{{ site.baseurl}}/images/test-badge.png" alt="Test Badge" />
 </div>
 
 A graphic image is an important component of a digital badge, because it carries much of the symbolic weight and branding of the achievement and its Issuer. The Open Badges Specification defines specific methods for embedding Open Badges metadata into PNG or SVG image files. The data must be encoded into these files precisely to avoid interrupting the image display in traditional renderers like web browsers but must be discoverable by badge-specific inspection tools. Badge images should have a square aspect ratio, and it is recommended to be greater than 90x90 pixels in size but under 256kb file size for maximum compatibility. “Bakery” tools are available open source in multiple languages and via HTTP API. [Read more about baking Open Badge images »](https://openbadgespec.org/#badge-baking)
@@ -108,8 +108,8 @@ See notes on [revocation](https://openbadgespec.org/#revoking) in the Open Badge
 
 Declare your support for Open Badges with Issuer insignia for your website. Show the world your badges align with the Open Badges and that they should expect the full range of Open Badges features when they see badges referenced on your site.
 
-<div class="contentblock-x-imagecontainer">
-  <img src="{{ site.baseurl}}/images/issuer-all.png" width="240" height="300" alt="Issuer Banner & Ribbon" />
+<div>
+  <img src="{{ site.baseurl}}/images/issuer-all.png" alt="Issuer Banner & Ribbon" />
 </div>
 
 <h2 class="title title-content" id="verification">Verification</h2>
