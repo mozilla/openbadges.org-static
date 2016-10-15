@@ -45,6 +45,10 @@
     $(function () {
         $('.menu-button').parent()
             .on('mouseenter', function (event) {
+                if (!window.abc) {
+                    window.clearTimeout(window.abc);
+                    window.abc = false;
+                }
                 var $t = $(this);
                 var menuId = $t.find('.menu-button').attr('aria-controls');
                 var menu = $('#' + menuId);
@@ -60,6 +64,7 @@
 
                     menu.attr('aria-hidden', 'true');
                     $t.removeClass('menuitem-is-open');
+                    window.abc = false;
                 }, 1000);
             });
     });
