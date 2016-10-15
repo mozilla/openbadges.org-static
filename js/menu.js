@@ -48,7 +48,7 @@
       var menuId = $t.attr('aria-controls');
       var menu = $('#'+menuId);
 
-      menu.attr('aria-hidden', 'true');
+      menu.attr('aria-hidden', 'false');
 
     });
 
@@ -57,7 +57,7 @@
       var menuId = $t.attr('aria-controls');
       var menu = $('#'+menuId);
 
-      menu.attr('aria-hidden', 'false');
+      menu.attr('aria-hidden', 'true');
     });
   });
 
