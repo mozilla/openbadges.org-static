@@ -15,16 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
         menu.setAttribute('aria-hidden', 'true');
         button.parentNode.classList.remove(active);
       }
-
-      var mouseDown = 0;
-      document.body.onclick = function() {
-        ++mouseDown;
-      }
-      document.body.onclick = function() {
-        --mouseDown;
-      }
-      if (mouseDown)
-      {
+      if (document.body.onclick){
         menu.setAttribute('aria-hidden', 'true');
         button.parentNode.classList.remove(active);
       }
