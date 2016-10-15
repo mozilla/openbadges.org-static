@@ -45,7 +45,7 @@
     $(function () {
         $('.menu-button').parent()
             .on('mouseenter', function (event) {
-                if (!window.abc) {
+                if (window.abc) {
                     window.clearTimeout(window.abc);
                     window.abc = false;
                 }
