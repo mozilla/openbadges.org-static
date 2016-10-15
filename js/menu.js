@@ -15,11 +15,6 @@ document.addEventListener('DOMContentLoaded', function() {
         menu.setAttribute('aria-hidden', 'true');
         button.parentNode.classList.remove(active);
       }
-      if (document.body.onclick){
-        menu.setAttribute('aria-hidden', 'true');
-        button.parentNode.classList.remove(active);
-      }
-
     }
   }
 
@@ -45,4 +40,13 @@ document.addEventListener('DOMContentLoaded', function() {
     buttons[i].addEventListener('click', openMenu);
   }
 
+  function close_box() {
+    if (menuId) menuId.style.display = "none";
+  }
+  close.onclick = document.onclick = close_box;
+
 });
+
+
+
+
