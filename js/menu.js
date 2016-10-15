@@ -14,11 +14,11 @@ document.addEventListener('DOMContentLoaded', function() {
       if (state == 'false') {
         menu.setAttribute('aria-hidden', 'true');
         button.parentNode.classList.remove(active);
-      }
-      if (document.body.onclick){
-        menu.setAttribute('aria-hidden', 'true');
-        button.parentNode.classList.remove(active);
-      }
+        if (document.body.onclick){
+          menu.setAttribute('aria-hidden', 'true');
+          button.parentNode.classList.remove(active);
+        } }
+      
 
     }
   }
