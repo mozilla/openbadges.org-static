@@ -50,14 +50,17 @@
                 var menu = $('#' + menuId);
 
                 menu.attr('aria-hidden', 'false');
-
+                $t.addClass('menuitem-is-open');
             })
             .on('mouseleave', function (event) {
-                var $t = $(this);
-                var menuId = $t.find('.menu-button').attr('aria-controls');
-                var menu = $('#' + menuId);
+                window.abc = window.setTimeout(function () {
+                    var $t = $('.menuitem-is-open');
+                    var menuId = $t.find('.menu-button').attr('aria-controls');
+                    var menu = $('#' + menuId);
 
-                menu.attr('aria-hidden', 'true');
+                    menu.attr('aria-hidden', 'true');
+                    $t.removeClass('menuitem-is-open');
+                }, 1000);
             });
     });
 
