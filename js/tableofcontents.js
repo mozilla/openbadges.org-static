@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+/*document.addEventListener('DOMContentLoaded', function() {
 
   var toctrigger = document.querySelector('.tableofcontentstrigger');
   var container = document.querySelector('.l-tableofcontents');
@@ -41,3 +41,4 @@ document.addEventListener('DOMContentLoaded', function() {
   }
   
 });
+*/
