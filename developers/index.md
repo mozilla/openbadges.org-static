@@ -111,7 +111,7 @@ Declare your support for Open Badges with Issuer insignia for your website. Show
 <div class="contentblock-x-imagecontainer">
   <img src="{{ site.baseurl}}/images/issuer-all.png" alt="Issuer Banner Ribbon" />
 </div>
-
+<!--
 <h2 class="title title-content" id="verification">Verification</h2>
 
 Verification is the process of ensuring that a badge meets the requirements of the Open Badges Specification. Although as an Issuer you may not be displaying earned badges, proper implementation of the Open Badges Specification allows those who seek to understand badges to justify placing trust in these records through strong verification.
@@ -162,3 +162,4 @@ Displayer capability from different backpacks varies per application.
 * [Mozilla Backpack](https://backpack.openbadges.org/) - Recipients upload badges, create groups of related badges, then share them through websites, blogs, and social media sites. The Mozilla Backpack is also available as open source software. Users can share their badges by including them in collections and sharing via URL.
 * [Badgr](https://badgr.io/) - Badgr provides Open Badges issuing and earner badge management all from one account. Free accounts are available on badgr.io, and the software is also available open source for users who wish to run their own server. With Badgr, users may upload badges they have earned via multiple confirmed email addresses and share them by making collections. All of these functions are available to connected applications who authenticate with recipient credentials.
 * [Open Badge Passport](https://openbadgepassport.com/) - Badges issued from Open Badges Factory are automatically transferred into Open Badge Passport if the Recipient’s email address used for issuing the badge was saved to the Recipient’s Open Badge Passport account setting. Other badges can be uploaded as files from a computer or imported from a Mozilla Backpack. The application backing OBP is available open source as Salava by Discendum. Users can share their badges by building pages that include badges, text, and portfolio items.
+-->
