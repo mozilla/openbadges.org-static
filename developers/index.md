@@ -1,7 +1,7 @@
 ---
 layout: page-twocol
 title: Developers
-permalink: /developers
+permalink: /developers/
 navitems:
     - url: "#"
       title: Get Started Issuing Badges
