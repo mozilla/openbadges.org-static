@@ -9,7 +9,7 @@ navitems:
       title: Issuing your own Open Badges
     - url: "#cloudbasedissuing"
       title: Cloud based issuing platforms
-    - url: "#designingopenbadges"
+    - url: "#design"
       title: Designing Open Badges
     - url: "#badgesystemdesign"
       title: Badge System Design Resources
@@ -39,7 +39,7 @@ Many platforms offer integrations with other applications or open APIs for new i
 
 <strong>Creating a new Open Badges issuer application:</strong> The [Open Badges specification](https://openbadgespec.org/) provides the information you need to create an Open Badges compliant issuer service. See also our [technical guide]({{ site.baseurl }}/developers) on how to get started issuing badges to understand the process and requirements.  
 
-<h2 class="title title-content" id="designingopenbadges">Designing Open Badges</h2>
+<h2 class="title title-content" id="design">Designing Open Badges</h2>
 
 The process of creating a badge typically involves three tasks:
 

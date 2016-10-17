@@ -5,11 +5,11 @@ permalink: /developers/
 navitems:
     - url: "#"
       title: Developer Guides
-    - url: "#HowtoIssueBadgesTechnicalGuide"
+    - url: "#issuing-badges"
       title: How to Issue Badges Technical Guide
     - url: "#verification"
       title: Verification
-    - url: "#HowtoDisplayBadges"
+    - url: "#displaying-badges"
       title: How to Display Badges
 ---
 
@@ -139,7 +139,7 @@ Here are some available validation tools:
 * [Mozilla Open Badges Validator](http://validator.openbadges.org/) - This software is available open source [here](https://github.com/mozilla/openbadges-validator).
 * [BadgeCheck](https://badgecheck.io/) - BadgeCheck also allows you to check the recipient of badge.
 
-<h2 class="title title-content" id="HowtoDisplayBadges">How to Display Badges</h2>
+<h2 class="title title-content" id="displaying-badges">How to Display Badges</h2>
 
 Badges are meant to be shared. Through the process of badge Recipients sharing information about their achievements with selected Consumers, those Recipients can turn their badges into new opportunities, promotions, informal recognition, and other forms of value in their work and recreational relationships.
 Badge Displayers create opportunities for Recipients to share the badges they’ve earned. With the Recipient’s email address, the Displayer can retrieve badges the Recipient’s been awarded and chosen to make public. How the Displayer processes a badge is determined by how it was retrieved and what form its Assertion takes. The Displayer can parse the data associated with each badge, verify it for authenticity, and display it in websites, applications, or social media posts.

@@ -76,7 +76,7 @@ A range of OBI tools and resources are available open source via GitHub, includi
 
 <h3 class="title title-secondary">What Does a Badging System Do?</h3>
 
-Badge systems are the collected result of many interrelated design decisions implemented by an individual or badging program in order to award badges to students, users, or other Recipients. A badge system encompasses the badge definitions and graphics themselves, as well as the technology and procedures put in place to assess, award, and deliver badges. See the [participating issuers] for links to more information about existing systems. See [Badge System Design]({{ site.baseurl }}/get-started/issuing-badges/#designingopenbadges) for information about the steps involved in designing your own badge system.
+Badge systems are the collected result of many interrelated design decisions implemented by an individual or badging program in order to award badges to students, users, or other Recipients. A badge system encompasses the badge definitions and graphics themselves, as well as the technology and procedures put in place to assess, award, and deliver badges. See the [participating issuers] for links to more information about existing systems. See [Badge System Design]({{ site.baseurl }}/get-started/issuing-badges/#design) for information about the steps involved in designing your own badge system.
 
 <h3 class="title title-secondary">What’s a Badge Backpack?</h3>
 
@@ -84,11 +84,11 @@ There are no costs associated with collecting Open Badges or sharing them. Issue
 
 <h3 class="title title-secondary">How are Badges Verified?</h3>
 
-A badge’s authenticity is verified when a Displayer confirms that an individual or organization issued a particular badge to a user and that it’s still valid. Badge authenticity may be reverified by any time using the verification procedure outlined in the Open Badges Specification. See [Developer's Guide to Displaying Badges]({{ site.baseurl }}/#HowtoDisplayBadges) for more information.
+A badge’s authenticity is verified when a Displayer confirms that an individual or organization issued a particular badge to a user and that it’s still valid. Badge authenticity may be reverified by any time using the verification procedure outlined in the Open Badges Specification. See [Developer's Guide to Displaying Badges]({{ site.baseurl }}/#displaying-badges) for more information.
 
 <h3 class="title title-secondary">How Does Assessment Fit in with Badging?</h3>
 
-Assessment is defined by the badge Issuer and should be tailored to the nature of the badge to determine if the Recipient is deserving of a badge. It’s important to have assessment practices in place that are a good fit for the learning claims made by a badge. For more information, visit [Badge System Design]({{ site.baseurl }}/get-started/issuing-badges/#designingopenbadges).
+Assessment is defined by the badge Issuer and should be tailored to the nature of the badge to determine if the Recipient is deserving of a badge. It’s important to have assessment practices in place that are a good fit for the learning claims made by a badge. For more information, visit [Badge System Design]({{ site.baseurl }}/get-started/issuing-badges/#design).
 
 <h3 class="title title-secondary">How Do Recipients Receive their Badges?</h3>
 

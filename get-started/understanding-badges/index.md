@@ -1,7 +1,7 @@
 ---
 layout: page-twocol
 title: Understanding Open Badges
-permalink: /get-started/consuming-badges/
+permalink: /get-started/understanding-badges/
 navitems:
     - url: "#"
       title: Understanding Open Badges
