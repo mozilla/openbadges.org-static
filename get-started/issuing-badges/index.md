@@ -42,6 +42,7 @@ Many platforms offer integrations with other applications or open APIs for new i
 <h2 class="title title-content" id="designingopenbadges">Designing Open Badges</h2>
 
 The process of creating a badge typically involves three tasks:
+
 * Offering a learning or other experience (often with an associated assessment)
 * Creating a badge to represent that experience within the Open Badges framework
 * Awarding the badge on successful completion of badge criteria

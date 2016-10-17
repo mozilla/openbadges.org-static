@@ -20,7 +20,7 @@ To further this work, effective January 1, 2017, [IMS Global Learning Consortium
 
 The ongoing development and governance of the Mozilla Backpack will be led by Digitalme, to maintain an open source, interoperable option for individuals to securely store and share their badges. 
 
-More information on how to contribute to the development of Open Badges can be found on the [Community](https://docs.google.com/document/d/176Sl21G06WFXRbBHlmFVvnyrnWKgLSkNqCqsljH7gJU/edit) page. And you can keep up to date with the latest [News](https://docs.google.com/document/d/17QDf5qvtADKz0Swrx6EwCtJyry8U1ijT22IgGarONOQ/edit).
+More information on how to contribute to the development of Open Badges can be found on the [Community]({{ site.baseurl }}/community) page. And you can keep up to date with the latest [News]({{ site.baseurl }}/news).
 
 <h2 class="title title-content" id="HistoryofOpenBadges">History of Open Badges</h2>
 
