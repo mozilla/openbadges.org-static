@@ -27,7 +27,7 @@ If your organization has a stake in the future of digital credentials, learn mor
 
 <h2 class="title title-content" id="active-working-groups">Active Working Groups</h2>
 
-[Standard Working Group](http://openbadges.github.io/openbadges.org-static/badge-alliance/working-groups/standard/) - The official standards body for the [Open Badges Specification](https://openbadgespec.org/). This group meets every two weeks and collaborates asynchronously via [GitHub](https://github.com/openbadges/openbadges-specification/issues) and the [Open Badges Dev](http://bit.ly/badgesdevgroup) mailing list.
+[Badge Alliance Standard Working Group]({{site.baseurl}}/badge-alliance/working-groups/standard/) - The official standards body for the [Open Badges Specification](https://openbadgespec.org/). This group meets every two weeks and collaborates asynchronously via [GitHub](https://github.com/openbadges/openbadges-specification/issues) and the [Open Badges Dev](http://bit.ly/badgesdevgroup) mailing list.
 Working group responsibility will transition to IMS Global members in January 2017. IMS member working groups also meet regularly and use similar, but in some cases different, tools to manage specification development and related technical work. Resulting specifications will be free and publicly available under open source license. IMS member Community Liaisons will be appointed to support the public community. These liaisons will be responsible for maintaining robust communications between the working groups and community, moderating the public online forum, and providing regular reports to the working group on community related topics.
 
 <h2 class="title title-content" id="mailing-lists">Mailing Lists</h2>

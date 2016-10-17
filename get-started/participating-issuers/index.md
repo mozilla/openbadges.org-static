@@ -19,7 +19,7 @@ navitems:
       title: Issuers R - Z 
 ---
 <h2 class="title title-content">Who Can Issue Open Badges?</h2>
-Any individual or organization may issue Open Badges through a compatible service or application. See a list of compatible platforms [here]({{ site.baseurl }}/about/participating-services).
+Any individual or organization may issue Open Badges through a compatible service or application. See a list of compatible platforms [here]({{ site.baseurl }}/get-started/participating-services).
 
 Common types of issuers include:
 
@@ -36,7 +36,7 @@ Common types of issuers include:
 * Teachers, tutors, coaches
 
 <h3 class="title title-secondary" id="whosissuingopen">Who’s issuing Open Badges?</h3>
-Hundreds of educational institutions, programmes and organizations have started to issue Open Badges, representing the breadth and variety of the ecosystem. The list below represents many of the organizations currently issuing Open Badges. If you don’t see your organization or an issuer you know, please [contact]({{ site.baseurl }}/contact) us so we can add to this list. 
+Hundreds of educational institutions, programs and organizations have started to issue Open Badges, representing the breadth and variety of the ecosystem. The list below represents many of the organizations currently issuing Open Badges. If you don’t see your organization or an issuer you know, please [contact]({{ site.baseurl }}/contact) us so we can add to this list. 
 
 * [3d GameLab](http://3dgamelab.com/)
 * [4-H/USDA](http://www.fyflnet.org/4hbadges/)
@@ -147,4 +147,4 @@ You can also see the global reach of badges through [Badge the World](http://www
 
 See [Get started Issuing Open Badges »](http://openbadges.github.io/openbadges.org-static/get-started/issuing-badges) for information on the technical steps to issue badges, selecting tools to automate the process, badge system design, and how to operate an Open Badges program.
 
-See [Open Badges Services and Software »](http://openbadges.github.io/openbadges.org-static/about/participating-services)
+See [Open Badges Services and Software »]({{ site.baseurl }}/get-started/participating-services)
