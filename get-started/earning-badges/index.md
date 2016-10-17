@@ -10,15 +10,15 @@ navitems:
     - url: "#earnaquick"
       title: Earn a quick badge
 ---
-<h2 class="title title-content">Why earn Open Badges?</h2>
-Open Badges are for everyone to recognise skills gained through a variety of experiences, regardless of your age or background. They allow you to follow your interests and passions and unlock opportunities in life and work by standing out from the crowd. 
+<h2 class="title title-content">Why Earn Open Badges?</h2>
+Open Badges are for everyone to recognize skills gained through a variety of experiences, regardless of your age or background. They allow you to follow your interests and passions and unlock opportunities in life and work by standing out from the crowd. 
 
-Oraganizations create and issue Open Badges for you to earn, enabling you to build up your own unique collection and share them across the web. Each badge you earn contains data about your skills and the issuing organisation within a portable image file. This data can be viewed when you display and share your badges, helping people find out more about you. 
+Organizations create and issue Open Badges for you to earn, enabling you to build up your own unique collection and share them across the web. Each badge you earn contains data about your skills and the issuing organization within a portable image file. This data can be viewed when you display and share your badges, helping people find out more about you. 
 
 You can share your badges in: 
 
 * Blogs, websites, ePortfolios, and professional networks
-* Job Applications
+* Job applications
 * Social media sites - Twitter, Google+, Facebook, LinkedIn 
 * Even in your email signature!
 
@@ -33,7 +33,7 @@ Organizations issuing Open Badges can provide an online space for you to display
 
 <div class="contentblock-x-imagecontainer">
   <img src="{{ site.baseurl}}/images/openbadges-flow-diagram-mozilla.png" alt="Flow Diagram" />
-  <p class="contentblock-x-imagecaption">Collect Open Badges from many issuers, combine them in a backpack account, and share them with opportunity providers to give a verifiable record of your skills and experience. (Image: Mozilla Foundation, 2012-13)
+  <p class="contentblock-x-imagecaption">Collect Open Badges from many issuers, combine them in a Backpack account, and share them with opportunity providers to give a verifiable record of your skills and experience. (Image: Mozilla Foundation, 2012-13)
 </p>
 </div>
 
@@ -41,11 +41,6 @@ Organizations issuing Open Badges can provide an online space for you to display
 * Other providers are now creating new Backpack services. See [Displaying Badges] ({{ site.baseurl }}/get-started/displaying-badges/) for more information.
 
 Start earning badges from one of these badge issuers. [Open Badges Issuers.]({{ site.baseurl }}/get-started/participating-issuers)
-
-* Blogs, websites, ePortfolios, and professional networks;
-* Job Applications;
-* Social media sites - Twitter, Google+, Facebook, LinkedIn; and 
-* Your email signature. 
 
 <h2 class="title title-content" id="earnaquick">Earn a quick badge:</h2>
 

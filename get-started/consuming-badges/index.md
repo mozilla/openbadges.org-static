@@ -24,7 +24,6 @@ Things you can verify and explore in a badge:
 * When the badge was issued and whether it has expired
 
 
-Get Started with [Open Badges](https://docs.google.com/document/d/1r2PoGQaGr-ExoCM9pg_P2VdUmz59fhl1tob7b0DvRAs/edit)
 Thousands of organisations around the world are issuing Open Badges. [Discover](https://docs.google.com/document/d/1NvtZKxqGz6fhdmuWqzpig9k7IXpHlR3_LBtRcCzsWx8/edit) how you can start issuing badges.
 
 <h3 class="title title-secondary" id="developers">Developers</h3>

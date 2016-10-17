@@ -36,7 +36,7 @@ Common types of issuers include:
 * Teachers, tutors, coaches
 
 <h3 class="title title-secondary" id="whosissuingopen">Who’s issuing Open Badges?</h3>
-Hundreds of educational institutions, programmes and organizations have started to issue Open Badges, representing the breadth and variety of the ecosystem. The list below represents many of the organizations currently issuing Open Badges. If you don’t see your organization or an issuer you know, please [contact]({{ site.baseurl }}/contact) us so we can add to this list. 
+Hundreds of educational institutions, programs and organizations have started to issue Open Badges, representing the breadth and variety of the ecosystem. The list below represents many of the organizations currently issuing Open Badges. If you don’t see your organization or an issuer you know, please [contact]({{ site.baseurl }}/contact) us so we can add to this list. 
 
 * [3d GameLab](http://3dgamelab.com/)
 * [4-H/USDA](http://www.fyflnet.org/4hbadges/)
