@@ -24,10 +24,8 @@ Things you can verify and explore in a badge:
 * When the badge was issued and whether it has expired
 
 
-Get Started with [Open Badges](https://docs.google.com/document/d/1r2PoGQaGr-ExoCM9pg_P2VdUmz59fhl1tob7b0DvRAs/edit)
-Thousands of organisations around the world are issuing Open Badges. [Discover](https://docs.google.com/document/d/1NvtZKxqGz6fhdmuWqzpig9k7IXpHlR3_LBtRcCzsWx8/edit) how you can start issuing badges.
+[Get Started with Open Badges](../): Thousands of organisations around the world are issuing Open Badges. [Discover](../issuing-badges) how you can start issuing badges or [earning your own](../earning-badges).
 
 <h3 class="title title-secondary" id="developers">Developers</h3>
 
-See [developer section](https://docs.google.com/document/d/1Q9lqa2Jd9ihTc_2m_fvX8oidGy-xnTDSG3l62IyRYVM/edit) for details of how applications access and read the metadata within badges.  
-
+See [developer section]({{ site.baseurl }}/developers/#verification) for details of how applications access and read the metadata within badges.  

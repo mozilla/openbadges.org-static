@@ -3,21 +3,21 @@ layout: page-twocol
 title: Developers Guide
 permalink: /developers/
 navitems:
-    - url: "#"
-      title: Developer Guides
     - url: "#issuing-badges"
-      title: How to Issue Badges Technical Guide
+      title: Guide to Issuing Badges
+    - url: "#badge-images"
+      title: Badge Images
     - url: "#verification"
-      title: Verification
+      title: Guide to Verifying Badges
     - url: "#displaying-badges"
-      title: How to Display Badges
+      title: Guide to Displaying Badges
 ---
 
 This section provides a set of technical resources to guide you through the processes of creating, issuing and displaying Open Badges. The specification provides technical documentation and code examples. These guides will build on those examples.
 
-For a quick nontechnical introduction to Open Badges see [Get started with Open Badges »](http://openbadges.github.io/openbadges.org-static/get-started/)
+For a quick nontechnical introduction to Open Badges see [Get started with Open Badges »]({{ site.baseurl }}/get-started/)
 
-<h2 class="title title-content" id="HowtoIssueBadgesTechnicalGuide">How to Issue Badges: Technical Guide</h2>
+<h2 class="title title-content" id="issuing-badges">How to Issue Badges: Technical Guide</h2>
 
 Issuing Open Badges requires constructing and publishing a set of interconnected resources that follow the structure and guidelines set out in the [Open Badges Specification](https://openbadgespec.org/). The properties that make up a badge’s metadata are split across these resources depending on where they apply. Together they form an Open Badge. For each badge awarded, there’s:
 
@@ -48,7 +48,7 @@ Issuers deliver a Recipient baked Open Badge images, which she stores in a Backp
 
 <div class="contentblock-x-imagecontainer">
   <img src="{{ site.baseurl}}/images/badges-ecosystem-infographic.jpg" alt="Badges Ecosystem Infographic" />
-  <p class="contentblock-x-imagecaption">The Open Badges Ecosystem (by Erik Knutson, licensed CC-BY)
+  <p class="contentblock-x-imagecaption">The Open Badges Ecosystem (by Erik Knutson, Concentric Sky, licensed CC-BY)
 </p>
 </div>
 
@@ -57,7 +57,7 @@ Issuers deliver a Recipient baked Open Badge images, which she stores in a Backp
 Several staffers at an after-school club get together. They want to recognize learning that’s happening in their program with Open Badges. They:
 
 * Set some general goals they hope to accomplish using badges to guide their design decisions;
-* Decide to recognize a specific skill with a particular badge and come to agreement on how they will embed issuing this badge into their day-to-day practices. [See Badge System Design »](http://openbadges.github.io/openbadges.org-static/get-started/badge-system-design);
+* Decide to recognize a specific skill with a particular badge and come to agreement on how they will embed issuing this badge into their day-to-day practices. [See Badge System Design »]({{ site.baseurl }}/get-started/issuing-badges/#design);
 * Design the badge and define the badge metadata in their Open Badges Issuer application;
 * Publish the Issuer Profile and BadgeClass, start assessing students’ achievement, and awarding the badge to individual Recipients.
 * Send the awarded badges to Recipients by email, following the instructions in the program’s chosen issuing software.
@@ -94,6 +94,8 @@ Additionally, for signed Assertions, you need to:
 See also the [Issuer Checklist](https://github.com/mozilla/openbadges/wiki/Issuer-Checklist) to ensure you’re not missing any steps or options in crafting your BadgeClasses and Assertions.
 Issuers should consider the following guidelines on badge images:
 
+<h3 class="title title-secondary" id="badge-images">Badge Images</h3>
+
 * Images should be PNGs (or SVGs).
 * Images should be square and not exceed 256kb for maximum compatibility. They should have dimensions not smaller than 90 x 90px. View badge images at small sizes to ensure that the content remains legible when scaled.
 * An image must exist for the BadgeClass.
@@ -111,8 +113,9 @@ See notes on [revocation](https://openbadgespec.org/#revoking) in the Open Badge
 Declare your support for Open Badges with Issuer insignia for your website. Show the world your badges align with the Open Badges and that they should expect the full range of Open Badges features when they see badges referenced on your site.
 
 <div>
-  <img src="{{ site.baseurl}}/images/issuer-all.png" alt="Issuer Banner & Ribbon" />
+  <a href="{{ site.baseurl}}/get-started/issuing-badges/#insignia"><img src="{{ site.baseurl}}/images/issuer-all.png" alt="Issuer Banner &amp; Ribbon" /></a>
 </div>
+<a class="button" href="{{ site.baseurl}}/get-started/issuing-badges/#insignia">Download Issuer Insignia &raquo;</a>
 
 <h2 class="title title-content" id="verification">Verification</h2>
 
@@ -144,8 +147,8 @@ Here are some available validation tools:
 Badges are meant to be shared. Through the process of badge Recipients sharing information about their achievements with selected Consumers, those Recipients can turn their badges into new opportunities, promotions, informal recognition, and other forms of value in their work and recreational relationships.
 Badge Displayers create opportunities for Recipients to share the badges they’ve earned. With the Recipient’s email address, the Displayer can retrieve badges the Recipient’s been awarded and chosen to make public. How the Displayer processes a badge is determined by how it was retrieved and what form its Assertion takes. The Displayer can parse the data associated with each badge, verify it for authenticity, and display it in websites, applications, or social media posts.
 The displaying of badges can benefit and connect Recipients and Consumers. For example, a Recipient’s badges can signal achievement to a potential employer, which may be seeking an individual with the credentials and skills displayed by the Recipients. 
-Open Badges makes it possible for Recipients to display badges acquired in various contexts, painting a more detailed, complete picture of their skills and experiences. Badges are not siloed or limited to one site but can be combined with badges from multiple Issuers and then shared for different audiences and purposes. Each Recipient controls how and where his/her badges are displayed through a Backpack. See more about [Backpack Services »](http://openbadges.github.io/openbadges.org-static/about/participating-services/#backpacks)
-If a site has a Recipient’s email address and knows the Recipient uses the Mozilla Backpack, it can query the person’s Backpack account for public badges. The response is a JSON representation of the badges.
+
+Open Badges makes it possible for Recipients to display badges acquired in various contexts, painting a more detailed, complete picture of their skills and experiences. Badges are not siloed or limited to one site but can be combined with badges from multiple Issuers and then shared for different audiences and purposes. Each Recipient controls how and where his/her badges are displayed through a Backpack. See more about [Backpack Services »]({{ site.baseurl }}/get-started/participating-services/#backpacks)
 
 To display badges in your own applications you need:
 
@@ -153,11 +156,12 @@ To display badges in your own applications you need:
 * Ability to make HTTP requests and read JSON/JSON-LD responses
 * To know the Recipient’s email address
 
+
 The Mozilla Backpack [Displayer API](https://github.com/mozilla/openbadges-backpack/wiki/Using-the-Displayer-API) is a good example of display capabilities available to developers. With the Mozilla Backpack Displayer API, you can query that Backpack for public badges awarded to a particular Recipient. Information about the badges is returned in JSON, which you can use to render a wide variety of displays. Other Backpack have their own APIs for retrieving badge data for display in connected applications, though community members hope to converge on some simple functionality to be available from all backpacks in 2017 in order to enable developers of display applications to work with any compliant backpack service where badges are stored.
 To access development documentation and build your own application:
 
 * Seek help from our [developer community](http://bit.ly/badgesdevgroup).
-* Get in touch with the IMS working group team. We’re here to help! Contact us at. [OpenBadgesInfo@imsglobal.org](mailto:OpenBadgesInfo@imsglobal.org)
+* As of January 2017, Open Badges will become an IMS standard! Get in touch with the IMS working group team. We’re here to help! Contact us at. [OpenBadgesInfo@imsglobal.org](mailto:OpenBadgesInfo@imsglobal.org)
 
 <h3 class="title title-secondary">Ways to Display Open Badges from Backpacks:</h3>
 
