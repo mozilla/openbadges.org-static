@@ -8,7 +8,7 @@ A badge is any visual token of achievement, affiliation, authorization, or other
 
 <h3 class="title title-secondary">What are the Benefits of Badges?</h3>
 
-Open Badges are a flexible and portable way to recognize learning and can sit alongside traditional qualifications and professional accreditation.  
+Open Badges are a flexible and portable way to recognize learning and can sit alongside traditional qualifications and professional accreditation. See more on [Get started issuing badges]({{ site.baseurl }}/get-started/issuing-badges/#why-issue).
 
 <h3 class="title title-secondary">What Skills or Achievements can Badges Represent?</h3>
 

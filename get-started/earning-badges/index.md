@@ -38,7 +38,7 @@ Organizations issuing Open Badges can provide an online space for you to display
 </div>
 
 * Mozilla created the first Open Badges Backpack, which is integrated with many issuing platforms. You can set up your Mozilla Backpack [here.](https://backpack.openbadges.org) 
-* Other providers are now creating new Backpack services. See [Displaying Badges] ({{ site.baseurl }}/get-started/displaying-badges/) for more information.
+* Other providers are now creating new Backpack services. See [Displaying Badges]({{ site.baseurl }}/get-started/displaying-badges/) for more information and [Backpack Services]({{ site.baseurl }}/get-started/participating-services/#backpacks) for a list of options.
 
 Start earning badges from one of these badge issuers. [Open Badges Issuers.]({{ site.baseurl }}/get-started/participating-issuers)
 

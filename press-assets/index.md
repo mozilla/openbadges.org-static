@@ -13,5 +13,5 @@ The logos on this page may be used, as provided with no changes, by members and 
 
 <img src="{{ site.baseurl}}/images/openbadges-logo-breakdown.png" alt="Open Badges Logo--expanded form." />
 
-Declare your support for Open Badges with Issuer insignia for your website. Show the world your badges align with the Open Badges and that they should expect the full range of Open Badges features when they see badges referenced on your site.
+Declare your support for Open Badges with [Issuer insignia]({{ site.baseurl }}/get-started/issuing-badges/#insignia) for your website. Show the world your badges align with the Open Badges and that they should expect the full range of Open Badges features when they see badges referenced on your site.
 

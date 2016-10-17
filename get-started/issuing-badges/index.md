@@ -6,17 +6,15 @@ navitems:
     - url: "#"
       title: Get Started Issuing Badges
     - url: "#issuingyourown"
-      title: Issuing your own Open Badges
-    - url: "#cloudbasedissuing"
       title: Cloud based issuing platforms
     - url: "#design"
       title: Designing Open Badges
-    - url: "#badgesystemdesign"
-      title: Badge System Design Resources
     - url: "#whosissuingopen"
       title: Who’s issuing Open Badges? 
+    - url: "#insignia"
+      title: Issuer Insignia
 ---
-<h2 class="title title-content">Why issue Open Badges? </h2>
+<h2 class="title title-content" id="why-issue">Why issue Open Badges? </h2>
 Open Badges provide a flexible way to recognize learning wherever it happens, in and out of formal education and the workplace. They can represent any achievement from simple participation to evidence-backed competency development.
 
 By adopting the Open Badges specification you are joining over 3,000 oraganizations across the world who believe in supporting a global specification that enables individuals to capture and share the richer picture of who they are. 
@@ -30,12 +28,12 @@ Benefits of issuing Open Badges:
 5. They provide a new way to <strong>identify talent</strong> based on competency and attitude, helping employers and educators better match individuals with non-traditional experiences to relevant opportunities.
 6. Open Badges support individuals for whom the traditional education system hasn’t worked. They provide an <strong>alternative</strong> way for them to get validation for their skills and achievements.
 
-<h2 class="title title-content" id="issuingyourown">Issuing your own Open Badges</h2>
+<h3 class="title title-secondary" id="issuingyourown">Issuing your own Open Badges</h3>
 Any individual or organization can create an Issuer profile and begin defining and issuing Open Badges. Any entity that can be described with a name, description, URL, image, and email address is a possible candidate to become an Issuer. To issue Open Badges you need a technology platform that supports the Open Badges specification. 
 
 <h2 class="title title-content" id="cloudbasedissuing">Cloud based issuing platforms</h2>
 Many companies have creating badge issuing platforms compliant with the Open Badges specification. They provide a wide range of services, which allow non-technical users issue Open Badges credentials. Platforms each offer a mix of custom services possibly including: online badge designers, badge discovery, issuing, assessment workflow, display, user profiles, social sharing and tools to integrate with existing learning systems. All Open Badges issuing platforms should allow recipients to export their badges to a backpack of choice. This allows users to stack and share their badges earned on different platforms and choose their own spaces to establish their identity on the web. A currently list of badge issuing platforms can be found here: [Participating services.]({{ site.baseurl }}/get-started/participating-services) 
-Many platforms offer integrations with other applications or open APIs for new integrations. Some platforms are also available as [open source]({{ site.baseurl }}/get-started/participating-services) software for issuers who wish to customize their badging applications further or get involved directly in collaborating to advance the implementation of Open Badges.
+Many platforms offer integrations with other applications or open APIs for new integrations. Some platforms are also available as [open source]({{ site.baseurl }}/get-started/participating-services/#open-source) software for issuers who wish to customize their badging applications further or get involved directly in collaborating to advance the implementation of Open Badges.
 
 <strong>Creating a new Open Badges issuer application:</strong> The [Open Badges specification](https://openbadgespec.org/) provides the information you need to create an Open Badges compliant issuer service. See also our [technical guide]({{ site.baseurl }}/developers) on how to get started issuing badges to understand the process and requirements.  
 
@@ -76,6 +74,7 @@ A diverse range of organizations and communities, including:
 * Companies and groups focused on professional development
 * See our [Participating Issuers page]({{ site.baseurl }}/get-started/participating-issuers/)
 
+<h2 class="title title-content" id="insignia">Issuer Insignia</h2>
 Already issuing Open Badges?: Use these insignia on your site and link back to us -Contact us, and we will add you to the list of issuers.
 
 <p style="text-align: center;">
