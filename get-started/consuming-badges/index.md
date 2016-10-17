@@ -4,9 +4,9 @@ title: Understanding Open Badges
 permalink: /get-started/consuming-badges/
 navitems:
     - url: "#"
-    title: Understanding Open Badges
+      title: Understanding Open Badges
     - url: "#developers"
-    title: Developers
+      title: Developers
 ---
 Open Badges provide portable and verifiable information about skills and achievements. Individuals can unlock opportunities by sharing collections of badges representing desired skill sets in a dynamic, evidence-based way. 
 
