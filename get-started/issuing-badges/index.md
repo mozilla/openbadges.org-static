@@ -19,12 +19,12 @@ navitems:
 <h2 class="title title-content">Why issue Open Badges? </h2>
 Open Badges provide a flexible way to recognize learning wherever it happens, in and out of formal education and the workplace. They can represent any achievement from simple participation to evidence-backed competency development.
 
-By adopting the Open Badges specification you are joining over 3,000 organisations across the world who believe in supporting a global specification that enables individuals to capture and share the richer picture of who they are. 
+By adopting the Open Badges specification you are joining over 3,000 oraganizations across the world who believe in supporting a global specification that enables individuals to capture and share the richer picture of who they are. 
 
 Benefits of issuing Open Badges:
 
 1. They can be used to recognize any kind of achievement in any setting, across the different stages of an individual’s life.
-2. They can be used to build <strong>pathways</strong> to support individuals to work towards learning goals, provide routes into employment and nurture and progress talent within organisations. 
+2. They can be used to build <strong>pathways</strong> to support individuals to work towards learning goals, provide routes into employment and nurture and progress talent within oraganizations. 
 3. They are based on an <strong>open standard</strong> which enables badges to be issued and transferred across the web and other digital exchanges, across different learning providers and across borders. 
 4. They have already been <strong>adopted widely</strong> across a range of sectors and are being used to recognize both accredited and non-accredited learning in formal, informal and non-formal settings.
 5. They provide a new way to <strong>identify talent</strong> based on competency and attitude, helping employers and educators better match individuals with non-traditional experiences to relevant opportunities.

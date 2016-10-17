@@ -10,11 +10,7 @@ navitems:
 ---
 Open Badges communicate skills and achievements by providing visual symbols of accomplishments packed with verifiable data and evidence that can be shared across the web. Open Badges empower individuals to take their learning with them, wherever they go, building a rich picture of their lifelong learning journey. Thousands of organizations across the world already issue Open Badges, from non-profits to major employers to educational institutions at all levels. 
 
-Badge the World see visual map of adoption from across the world (embed or a link)
-
-<div class="contentblock-x-imagecontainer">
-  <img src="{{ site.baseurl}}/images/about-image.jpg" alt="About" />
-</div>
+[Badge the World](http://www.badgetheworld.org/) see visual map of adoption from across the world.
 
 Mozilla created Open Badges in 2011 with support from the MacArthur Foundation and a network of partners committed to developing a new way to recognize learning wherever it happened – in and out of formal education and online.  As part of this effort, the Open Badges technical specification which defines the requirements for what a badge must represent for both issuers and earners was created. 
 

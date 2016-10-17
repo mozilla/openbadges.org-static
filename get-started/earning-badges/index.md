@@ -11,9 +11,9 @@ navitems:
       title: Earn a quick badge
 ---
 <h2 class="title title-content">Why earn Open Badges?</h2>
-Open Badges are for everyone to recognise skills gained through a variety of experiences, regardless of your age or background.They allow you to follow your interests and passions and unlock opportunities in life and work by standing out from the crowd. 
+Open Badges are for everyone to recognise skills gained through a variety of experiences, regardless of your age or background. They allow you to follow your interests and passions and unlock opportunities in life and work by standing out from the crowd. 
 
-Organisations create and issue Open Badges for you to earn, enabling you to build up your own unique collection and share them across the web. Each badge you earn contains data about your skills and the issuing organisation within a portable image file. This data can be viewed when you display and share your badges, helping people find out more about you. 
+Oraganizations create and issue Open Badges for you to earn, enabling you to build up your own unique collection and share them across the web. Each badge you earn contains data about your skills and the issuing organisation within a portable image file. This data can be viewed when you display and share your badges, helping people find out more about you. 
 
 You can share your badges in: 
 
@@ -28,8 +28,8 @@ You can earn Open Badges from over 3,000 organizations across the world who want
 
 Wherever you see Open Badges offered online or as part of a learning program you can be sure that you are earning a credential that you can keep, manage, and share along with others to tell the full story of your achievements.  
 
-<h3 class="title title-secondary">Getting started</h3>
-Organizations issuing Open Badges can provide an online space for you to display and share your badge collections. There are also free services called backpacks available to anyone earning Open Badges. A backpack lets you store and transfer your badges between different platforms, wherever you earn them. 
+<h2 id="wherecaniearn" class="title title-content">Getting started</h2>
+Organizations issuing Open Badges can provide an online space for you to display and share your badge collections. There are also free services called backpacks available to anyone earning Open Badges. A Backpack lets you store and transfer your badges between different platforms, wherever you earn them. 
 
 <div class="contentblock-x-imagecontainer">
   <img src="{{ site.baseurl}}/images/openbadges-flow-diagram-mozilla.png" alt="Flow Diagram" />
