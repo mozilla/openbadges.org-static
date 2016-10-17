@@ -3,9 +3,9 @@ layout: page-twocol
 title: About Open Badges
 permalink: /about/
 navitems:
-    - url: "#"
-      title: About Open Badges
-    - url: "#HistoryofOpenBadges"
+    - url: "#top"
+      title: About the Open Badges Movement
+    - url: "#history"
       title: History of Open Badges
 ---
 Open Badges communicate skills and achievements by providing visual symbols of accomplishments packed with verifiable data and evidence that can be shared across the web. Open Badges empower individuals to take their learning with them, wherever they go, building a rich picture of their lifelong learning journey. Thousands of organizations across the world already issue Open Badges, from non-profits to major employers to educational institutions at all levels. 
@@ -16,13 +16,18 @@ Mozilla created Open Badges in 2011 with support from the MacArthur Foundation a
 
 A community of contributors has driven the Open Badges movement since then. Through these efforts, badges have gained widespread interest and adoption by policy, technology, and education stakeholders. As a disruptive innovation, Open Badges are reimagining ways to recognize learning beyond formal credentialing systems. Today, Open Badges are an emergent technology and require further development for widespread market development and adoption.
 
-To further this work, effective January 1, 2017, [IMS Global Learning Consortium](https://www.imsglobal.org/) will manage the evolution of the Open Badges Specification. As an open-governance, member-based standards consortium, IMS Global has deep experience with Open Badges and the expertise to lead the evolution of the specification, and also drive the adoption and portability of badges. The aim is to create a global skills currency based on the Open Badges Specification, under the leadership of IMS members with the support of the Open Badges community.  
-
-The ongoing development and governance of the Mozilla Backpack will be led by Digitalme, to maintain an open source, interoperable option for individuals to securely store and share their badges. 
+To further this work, effective January 1, 2017, [IMS Global Learning Consortium](https://www.imsglobal.org/) will manage the evolution of the Open Badges Specification. As an open-governance, member-based standards consortium, IMS Global has deep experience with Open Badges and the expertise to lead the evolution of the specification, and also drive the adoption and portability of badges. The aim is to create a global skills currency based on the Open Badges Specification, under the leadership of IMS members with the support of the Open Badges community. The ongoing development and governance of the Mozilla Backpack will be led by Digitalme, to maintain an open source, interoperable option for individuals to securely store and share their badges. 
 
 More information on how to contribute to the development of Open Badges can be found on the [Community]({{ site.baseurl }}/community) page. And you can keep up to date with the latest [News]({{ site.baseurl }}/news).
 
-<h2 class="title title-content" id="HistoryofOpenBadges">History of Open Badges</h2>
+<a href="{{ site.baseurl }}" class="button">Get started using Open Badges</a>
+
+[Issue Badges]({{ site.baseurl }}/get-started/issuing-badges/)
+| [Earn Badges]({{ site.baseurl }}/get-started/earning-badges/)
+| [Understand Badge Awards]({{ site.baseurl }}/get-started/understanding-badges)
+
+<h2 class="title title-content" id="history">History of Open Badges</h2>
+Here is a brief history of the Open Badges movement and its key events.
 
 <h3 class="title title-secondary">2010:</h3>
 * The concept of Open Badges originated among those working at the Mozilla and MacArthur foundations, and out of the research of Erin Knight, founding director of the Open Badges project at Mozilla. During the [2010 Mozilla Festival](https://wiki.mozilla.org/Drumbeat/events/Festival) (then titled the “Mozilla Drumbeat Festival”) in Barcelona, early Open Badges prototypes were initially developed under the banner “Learning, Freedom, and the Web.” The seminal white paper, [“Open Badges for Lifelong Learning,”](http://openbadges.github.io/openbadges.org-static/about/resources/#resources) by Knight and collaborators at Peer2Peer University and the MacArthur Foundation, described the aims and potential of the Open Badges movement. 
