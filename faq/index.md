@@ -4,16 +4,15 @@ title: Frequently Asked Questions
 permalink: /faq/
 ---
 <h2 class="title title-content">What’s a Badge?</h2>
-
-A badge is any visual token of achievement, affiliation, authorization, or other trust relationship. Open Badges applies this concept to the web, with connected, verifiable credentials. Understand more about Open badges [here](https://docs.google.com/document/d/1kPEYQlcJ8E205c2dI7_tK6Gv8iLkBzFDFfZTc8uZIiI/edit). 
+A badge is any visual token of achievement, affiliation, authorization, or other trust relationship. Open Badges applies this concept to the web, with connected, verifiable credentials. Understand more about Open badges [here]({{ site.baseurl }}/get-started/). 
 
 <h3 class="title title-secondary">What are the Benefits of Badges?</h3>
 
-Open Badges are a flexible and portable way to recognise learning and can sit alongside traditional qualifications and professional accreditation.  
+Open Badges are a flexible and portable way to recognize learning and can sit alongside traditional qualifications and professional accreditation.  
 
 <h3 class="title title-secondary">What Skills or Achievements can Badges Represent?</h3>
 
-Badges can represent many different skills and achievements, ranging from collaboration to certification.  More information is available at [Participating Issuers](https://docs.google.com/document/d/1s9kzugQ9Blu4r3SVA2Yqy4yyJzRVXNiE7VeIqhP97U4/edit).
+Badges can represent many different skills and achievements, ranging from collaboration to certification. See programs offering badges of many types among the [Participating Issuers]({{ site.baseurl }}/get-started/participating-issuers) and read more about designing a badge program: [Get started issuing badges]({{ site.baseurl }}/get-started/issuing-badges).
 
 <h3 class="title title-secondary">How are Badges Different from Résumés and CVs?</h3>
 
@@ -22,33 +21,30 @@ Paper résumés and CVs are static and need to be continually updated, while bad
 Interested parties can rest assured that a badge represents a legitimate, authenticated achievement, the nature of which is described within the badge itself, which is also linked to the issuing organization.
 
 <h3 class="title title-secondary">What information is contained within a Badge?</h3>
-Open Badges can include information on: the organization has issued the badge; the criteria that the badge has been assessed against, evidence, when the badge was issued and whether it has expired and if it aligns to an assessment framework. [Get Started with Open Badges](https://docs.google.com/document/d/1NvtZKxqGz6fhdmuWqzpig9k7IXpHlR3_LBtRcCzsWx8/edit)
+Open Badges include information on the organization or individual who issued the badge; the criteria that the badge has been assessed against, evidence, when the badge was issued, a verifiable reference to the recipient and a number of other required an optional properties defined by the [Open Badges Specification](https://openbadgespec.org). Some badges contain links to detailed evidence, expiration dates, searchable tags, and alignments to educational standards or frameworks. See [Get Started]({{ site.baseurl }}/get-started/) and [Developers Guides]({{ site.baseurl }}/developers/).
 
 <h3 class="title title-secondary">What Form does a Badge Take?</h3>
-A badge is typically represented as an image file with JSON or JSON-LD metadata embedded invisibly inside. Images may be PNGs or SVGs. Badge data may also be represented as JSON-LD code directly. Go to [Developer](https://docs.google.com/document/d/1Q9lqa2Jd9ihTc_2m_fvX8oidGy-xnTDSG3l62IyRYVM/edit) 
+A badge is typically represented as an image file with JSON or JSON-LD metadata embedded invisibly inside. Images may be PNGs or SVGs. Badge data may also be represented as JSON-LD code directly. See [Developers]({{ site.baseurl }}/developers/) 
 
 
 <h3 class="title title-secondary">What Does a Badge Issuer Do?</h3>
-A badge Issuer creates, offers, and awards badges. [See Issue Badges.](http://openbadges.github.io/openbadges.org-static/get-started/issuing-badges/)
+A badge Issuer creates, offers, and awards badges. See [Get Started Issuing Badges]({{ site.baseurl }}/get-started/issuing-badges/).
 
 <h3 class="title title-secondary">What Does a Badge Displayer Do?</h3>
-Badge Displayers create opportunities for Recipients to share badges. [Visit Display Badges.](http://openbadges.github.io/openbadges.org-static/get-started/displaying-badges)
+Badge Displayers create opportunities for Recipients to share badges. [Visit Display Badges.]({{ site.baseurl }}/get-started/displaying-badges)
 
 <h3 class="title title-secondary">Who Can Issue Badges?</h3>
-Any individual or organization can create an Issuer profile and begin defining Open Badges. Any entity that can be described with a name, description, URL, image, and email address is a possible candidate to become an Issuer. See the [Get Started Issuing Open Badges](https://docs.google.com/document/d/1NvtZKxqGz6fhdmuWqzpig9k7IXpHlR3_LBtRcCzsWx8/edit) for more detail. The important part is that the Issuer profile should represent the person or organization who should be seen as trustworthy by target Recipients and Consumers to award the credentials they would like to offer.
+Any individual or organization can create an Issuer profile and begin defining Open Badges. Any entity that can be described with a name, description, URL, image, and email address is a possible candidate to become an Issuer. See [Get Started Issuing Open Badges]({{ site.baseurl }}/get-started/issuing-badges/) for more detail. The important part is that the Issuer profile should represent the person or organization who should be seen as trustworthy by target Recipients and Consumers to award the credentials they would like to offer.
 
 <h3 class="title title-secondary">How are Badges Created and Issued?</h3>
 
 The process of creating a badge typically involves three tasks:
 
 * Offering a learning or other experience (often with an associated assessment)
-* Creating a badge to represent that experience within the Open Badges framework
+* Creating a badge to represent that experience using a tool compatible with Open Badges
 * Awarding the badge on successful completion of badge criteria
 
-The process of creating a badge within the Open Badges framework involves designing the image and data, then hosting them for online display. In technical terms, a badge consists of a generic BadgeClass and a badge Assertion for each Recipient who earns it. Essentially this means hosting some JSON-LD files and an image file. This can be accomplished through a number of available [applications and services](https://docs.google.com/document/d/1ZolZ_uJWnpJruiA3Ex5JD46k9l-bdNE7XqbCGKcq_-c/edit). See [Get Started Issuing Badges](https://docs.google.com/document/d/1NvtZKxqGz6fhdmuWqzpig9k7IXpHlR3_LBtRcCzsWx8/edit)
-
-<h3 class="title title-secondary">What Properties should a Badge Image Have?</h3>
-A BadgeClass is a document that describes an achievement that may be awarded to many individual Recipients. A BadgeClass has several required and optional properties, according to the [Open Badges Specification](http://specification.openbadges.org/). Every BadgeClass links to an Issuer profile. These include a name, description, detailed criteria provided via a URL, an image that represents the achievement, and optionally, tags and alignments to educational standards.
+The process of creating a badge to be awarded as an Open Badge involves designing the image and data, then hosting them for online display. In technical terms, a badge consists of a generic BadgeClass and a badge Assertion for each Recipient who earns it. Essentially this means hosting some JSON-LD files and an image file. This can be accomplished through a number of available [applications and services]({{ site.baseurl }}/get-started/participating-services/). See [Get Started Issuing Badges]({{ site.baseurl }}/get-started/issuing-badges/)
 
 <h3 class="title title-secondary">What’s the OBI?</h3>
 You may see references to the “Open Badge Infrastructure (OBI)”, a predecessor to the more open architecture of the updated term “Open Badges ecosystem”. The OBI was the Mozilla Foundation badges team’s original architecture and API design that connected Issuer and Displayer applications with badge Recipients’ Mozilla Backpack accounts.
@@ -72,7 +68,7 @@ The success of badges as an alternative path to accreditation and credentialing 
 
 A range of OBI tools and resources are available open source via GitHub, including:
 
-+ [Mozilla Backpack](https://github.com/mozilla/openbadges)
++ [Mozilla Backpack](https://github.com/mozilla/openbadges-backpack)
 + [Badge Validator](https://github.com/mozilla/openbadges-validator)
 + [Bakery](https://github.com/mozilla/openbadges-bakery)
 + [Discovery (prototype)](https://github.com/mozilla/openbadges-discovery)
@@ -80,7 +76,7 @@ A range of OBI tools and resources are available open source via GitHub, includi
 
 <h3 class="title title-secondary">What Does a Badging System Do?</h3>
 
-Badge systems are the collected result of many interrelated design decisions implemented by an individual or badging program in order to award badges to students, users, or other Recipients. A badge system encompasses the badge definitions and graphics themselves, as well as the technology and procedures put in place to assess, award, and deliver badges. See the [participating issuers] for links to more information about existing systems. See [Badge System Design] for information about the steps involved in designing your own badge system.
+Badge systems are the collected result of many interrelated design decisions implemented by an individual or badging program in order to award badges to students, users, or other Recipients. A badge system encompasses the badge definitions and graphics themselves, as well as the technology and procedures put in place to assess, award, and deliver badges. See the [participating issuers] for links to more information about existing systems. See [Badge System Design]({{ site.baseurl }}/get-started/issuing-badges/#designingopenbadges) for information about the steps involved in designing your own badge system.
 
 <h3 class="title title-secondary">What’s a Badge Backpack?</h3>
 
@@ -88,25 +84,25 @@ There are no costs associated with collecting Open Badges or sharing them. Issue
 
 <h3 class="title title-secondary">How are Badges Verified?</h3>
 
-A badge’s authenticity is verified when a Displayer confirms that an individual or organization issued a particular badge to a user and that it’s still valid. Badge authenticity may be reverified by any time using the verification procedure outlined in the Open Badges Specification. See [Display Badges] for more information.
+A badge’s authenticity is verified when a Displayer confirms that an individual or organization issued a particular badge to a user and that it’s still valid. Badge authenticity may be reverified by any time using the verification procedure outlined in the Open Badges Specification. See [Developer's Guide to Displaying Badges]({{ site.baseurl }}/#HowtoDisplayBadges) for more information.
 
 <h3 class="title title-secondary">How Does Assessment Fit in with Badging?</h3>
 
-Assessment is defined by the badge Issuer and should be tailored to the nature of the badge to determine if the Recipient is deserving of a badge. It’s important to have assessment practices in place that are a good fit for the learning claims made by a badge. For more information, visit [Badge System Design].
+Assessment is defined by the badge Issuer and should be tailored to the nature of the badge to determine if the Recipient is deserving of a badge. It’s important to have assessment practices in place that are a good fit for the learning claims made by a badge. For more information, visit [Badge System Design]({{ site.baseurl }}/get-started/issuing-badges/#designingopenbadges).
 
 <h3 class="title title-secondary">How Do Recipients Receive their Badges?</h3>
 
 A badge award at its most basic involves the Issuer creating a badge Assertion file for the Recipient and badge. Typically, the Issuer will contact the Recipient when a badge is awarded. The nature of this communication is decided by the Issuer (e.g. email or SMS) who knows its community of badge Recipients best. Badges may be delivered as a “baked” portable image file, or using the Mozilla Backpack Issuer API, where a badge Recipient logged into the Issuer website is guided through a flow to claim the badge and send it to a Backpack account.
 
-The Badge Assertion and Metadata Seem Complex - Do I Need All the Items?
+<h3 class="title title-secondary">The Badge Assertion and Metadata Seem Complex - Do I Need All the Items?</h3>
 
-No, and much of the complexity that does exist is managed via user interfaces of badge issuing tools. Issuers rarely need to construct badge objects manually. The data structures associated with an Open Badge have been designed to accommodate as wide a range of Issuer and badging scenarios as possible. To account for this flexibility, many of the data items are optional. See the [Assertion specification](https://github.com/mozilla/openbadges-specification/blob/master/Assertion/latest.md) for more information.
+No, and much of the complexity that does exist is managed via user interfaces of badge issuing tools. Issuers rarely need to construct badge objects manually. The data structures associated with an Open Badge have been designed to accommodate as wide a range of Issuer and badging scenarios as possible. To account for this flexibility, many of the data items are optional. See the [Open Badges Specification](https://openbadgespec.org) for more information.
 
 <h3 class="title title-secondary">How Do Recipients Find Out about Badges?</h3>
 
-This depends on the badge Issuer and the Recipient community. For example, the Issuer may be an educational institution the Recipient is already associated with. Badge data can also include items designed to aid the process of finding badges to apply for, including descriptions and tags. Many efforts are underway to investigate how to publicize available badges. The discovery project supports badge [discovery](https://github.com/mozilla/openbadges-discovery), as do badge directories like [Credmos](http://credmos.com/).
+This depends on the badge Issuer and the Recipient community. For example, the Issuer may be an educational institution the Recipient is already associated with. Badge data can also include items designed to aid the process of finding badges to apply for, including descriptions and tags. Many efforts are underway to investigate how to publicize available badges. Services will spring up to serve specific discovery needs. For instance, The nbadges Discovery project built a prototype [directory](https://github.com/badgealliance/openbadges-directory), and [Credmos](http://credmos.com/) integrated with it to offer an in-browser badge discovery experience with real badges.
 
-<h3 class="title title-secondary">What’s Evidence in Badging?</h3>
+<h3 class="title title-secondary">How is Evidence ussed in Badging?</h3>
 
 Evidence is the data behind a badge that links back to the Issuer, the criteria it was issued under, and the evidence verifying the credential. Within Open Badge Assertions, it may be referenced by URL.
 
@@ -122,7 +118,7 @@ Yes, the Open Badges Specification is designed to make it easy to define a gener
 When an Issuer creates a new badge, the data can include details of the criteria that a Recipient must meet in order to be awarded the badge. A badge can include multiple criteria items if necessary. When assessment is involved, the reviewer may compare Recipient evidence against the badge criteria. Each criteria item can be required or optional.
 
 <h3 class="title title-secondary">What’s a Baked Badge?</h3>
-A baked badge is a badge image with Assertion data embedded in it. See [Open Badges Specification].
+A baked badge is a badge image with Assertion data embedded in it. See [Open Badges Specification](https://openbadgespec.org/baking).
 
 <h3 class="title title-secondary">What’s a Claim Code?</h3>
 
@@ -130,22 +126,21 @@ Badge Issuers can choose to issue badges using claim codes, a feature which is a
 
 <h3 class="title title-secondary">How Can Recipients Share their Badges?</h3>
 
-Recipients can use a personal badge repository, ie, Backpack, to store, manage, and share badges. See [Earn Badges].
+Recipients can use a personal badge repository, ie, Backpack, to store, manage, and share badges. See [Get Started Earning Badges]({{ site.baseurl }}/get-started/earning-badges/.
 
 
 <h3 class="title title-secondary">How Do Consumers Know that a Particular Badge was Awarded to a Particular Recipient?</h3>
 
-Displayers and Consumers verify badges by parsing the data associated with each badge. Recipients can present earned badges to Consumers from within a tool that showcases their capabilities.
+Displayers and Consumers verify badges by parsing the data associated with each badge. Recipients can present earned badges to Consumers from within a tool that showcases their capabilities. See [Get Started Displaying Badges]({{ site.baseurl }}/get-started/displaying-badges/.
 
-Visit [Display Badges].
+The metadata in a badge provides information regarding the recipient of the badge. This data is often hashed to obscure the recipient's identity while still allowing a verifier to confirm that the recipient identifier matches what is expected. See [Developers Guide to Verifying Badges]({{ site.baseurl }}/developers/#verification).
 
-<h3 class="title title-secondary">How Do Consumers Know Who Issued a Badge to a Recipient?</h3>
-
-The metadata in a badge provides information regarding who awarded the badge. See [Issue Badges].
+<h3 class="title title-secondary">How Do Consumers Know Who Issued a Badge?</h3>
+The metadata in a badge provides information about the issuer of the badge, including a name, description, url and contact email address.
 
 <h3 class="title title-secondary">How Do Consumers Know What a Badge Represents?</h3>
 
-They’ll need to know that they’re looking at an Open Badge and the data for an awarded badge includes a link to the badge class information, which includes descriptions of what the badge represents. See also the [Open Badges Glossary](https://github.com/mozilla/openbadges/wiki/Glossary).
+They’ll need to know that they’re looking at an Open Badge and the data for an awarded badge includes a link to the BadgeClass information, which includes descriptions of what the badge represents. Open Badges [Displayer]({{ site.baseurl }}/get-started/displaying-badges/) tools make this data available at consumers' fingertips.
 
 <h3 class="title title-secondary">What are my Responsibilities as an Issuer if I wish to Enable Recipients to Send Badges to a Backpack?</h3>
 
