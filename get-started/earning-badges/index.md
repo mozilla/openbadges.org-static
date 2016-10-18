@@ -29,7 +29,7 @@ You can earn Open Badges from over 3,000 organizations across the world who want
 Wherever you see Open Badges offered online or as part of a learning program you can be sure that you are earning a credential that you can keep, manage, and share along with others to tell the full story of your achievements.  
 
 <h2 id="wherecaniearn" class="title title-content">Getting started</h2>
-Organizations issuing Open Badges can provide an online space for you to display and share your badge collections. There are also free services called backpacks available to anyone earning Open Badges. A Backpack lets you store and transfer your badges between different platforms, wherever you earn them. 
+Organizations issuing Open Badges can provide an online space for you to display and share your badge collections. There are also free services called Backpacks available to anyone earning Open Badges. A Backpack lets you store and transfer your badges between different platforms, wherever you earn them. 
 
 <div class="contentblock-x-imagecontainer">
   <img src="{{ site.baseurl}}/images/openbadges-flow-diagram-mozilla.png" alt="Flow Diagram" />

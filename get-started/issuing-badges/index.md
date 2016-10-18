@@ -17,25 +17,25 @@ navitems:
 <h2 class="title title-content" id="why-issue">Why issue Open Badges? </h2>
 Open Badges provide a flexible way to recognize learning wherever it happens, in and out of formal education and the workplace. They can represent any achievement from simple participation to evidence-backed competency development.
 
-By adopting the Open Badges specification you are joining over 3,000 oraganizations across the world who believe in supporting a global specification that enables individuals to capture and share the richer picture of who they are. 
+By adopting the Open Badges Specification you are joining over 3,000 organizations across the world who believe in supporting a global Specification that enables individuals to capture and share the richer picture of who they are. 
 
 Benefits of issuing Open Badges:
 
-1. They can be used to recognize any kind of achievement in any setting, across the different stages of an individual’s life.
-2. They can be used to build <strong>pathways</strong> to support individuals to work towards learning goals, provide routes into employment and nurture and progress talent within oraganizations. 
-3. They are based on an <strong>open standard</strong> which enables badges to be issued and transferred across the web and other digital exchanges, across different learning providers and across borders. 
-4. They have already been <strong>adopted widely</strong> across a range of sectors and are being used to recognize both accredited and non-accredited learning in formal, informal and non-formal settings.
-5. They provide a new way to <strong>identify talent</strong> based on competency and attitude, helping employers and educators better match individuals with non-traditional experiences to relevant opportunities.
-6. Open Badges support individuals for whom the traditional education system hasn’t worked. They provide an <strong>alternative</strong> way for them to get validation for their skills and achievements.
+* They can be used to recognize any kind of achievement in any setting, across the different stages of an individual’s life.
+* They can be used to build <strong>pathways</strong> to support individuals to work towards learning goals, provide routes into employment and nurture and progress talent within oraganizations. 
+* They are based on an <strong>Open Specification</strong> which enables badges to be issued and transferred across the web and other digital exchanges, across different learning providers and across borders. 
+* They have already been <strong>adopted widely</strong> across a range of sectors and are being used to recognize both accredited and non-accredited learning in formal, informal and non-formal settings.
+* They provide a new way to <strong>identify talent</strong> based on competency and attitude, helping employers and educators better match individuals with non-traditional experiences to relevant opportunities.
+* Open Badges support individuals for whom the traditional education system hasn’t worked. They provide an <strong>alternative</strong> way for them to get validation for their skills and achievements.
 
-<h3 class="title title-secondary" id="issuingyourown">Issuing your own Open Badges</h3>
-Any individual or organization can create an Issuer profile and begin defining and issuing Open Badges. Any entity that can be described with a name, description, URL, image, and email address is a possible candidate to become an Issuer. To issue Open Badges you need a technology platform that supports the Open Badges specification. 
+<h2 class="title title-content" id="design">Issuing your own Open Badges</h2>
+Any individual or organization can create an Issuer profile and begin defining and issuing Open Badges. Any entity that can be described with a name, description, URL, image, and email address is a possible candidate to become an Issuer. To issue Open Badges you need a technology platform that supports the Open Badges Specification. 
 
 <h2 class="title title-content" id="cloudbasedissuing">Cloud based issuing platforms</h2>
-Many companies have creating badge issuing platforms compliant with the Open Badges specification. They provide a wide range of services, which allow non-technical users issue Open Badges credentials. Platforms each offer a mix of custom services possibly including: online badge designers, badge discovery, issuing, assessment workflow, display, user profiles, social sharing and tools to integrate with existing learning systems. All Open Badges issuing platforms should allow recipients to export their badges to a backpack of choice. This allows users to stack and share their badges earned on different platforms and choose their own spaces to establish their identity on the web. A currently list of badge issuing platforms can be found here: [Participating services.]({{ site.baseurl }}/about/participating-services) 
+Many companies have creating badge issuing platforms compliant with the Open Badges Specification. They provide a wide range of services, which allow non-technical users issue Open Badges credentials. Platforms each offer a mix of custom services possibly including: online badge designers, badge discovery, issuing, assessment workflow, display, user profiles, social sharing and tools to integrate with existing learning systems. All Open Badges issuing platforms should allow recipients to export their badges to a Backpack of choice. This allows users to stack and share their badges earned on different platforms and choose their own spaces to establish their identity on the web. A currently list of badge issuing platforms can be found here: [Participating services.]({{ site.baseurl }}/about/participating-services) 
 Many platforms offer integrations with other applications or open APIs for new integrations. Some platforms are also available as [open source]({{ site.baseurl }}/about/participating-services/#open-source) software for issuers who wish to customize their badging applications further or get involved directly in collaborating to advance the implementation of Open Badges.
 
-<strong>Creating a new Open Badges issuer application:</strong> The [Open Badges specification](https://openbadgespec.org/) provides the information you need to create an Open Badges compliant issuer service. See also our [technical guide]({{ site.baseurl }}/developers) on how to get started issuing badges to understand the process and requirements.  
+<strong>Creating a new Open Badges issuer application:</strong> The [Open Badges Specification](https://openbadgespec.org/) provides the information you need to create an Open Badges compliant issuer service. See also our [technical guide]({{ site.baseurl }}/developers) on how to get started issuing badges to understand the process and requirements.  
 
 <h2 class="title title-content" id="design">Designing Open Badges</h2>
 
@@ -61,7 +61,7 @@ This document, which features important aspects of badge creation and design, is
 * [DPD Project: Design Principles Card Deck](http://dpdproject.info/cards/)
 The DPD card deck was created by Nate Otto using the design principles from Dr. Daniel T. Hickey’s Design Principles Documentation Project, to which he contributed. It turns the building of a badge system into a game.
 
-<strong>Who’s issuing Open Badges?</strong> 
+<h2 class="title title-content" id="design">Who’s issuing Open Badges?</h2> 
 
 A diverse range of organizations and communities, including:
 
