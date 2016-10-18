@@ -1,3 +1,3 @@
 # openbadges.org-static
 
-The future home of [http://openbadges.org](http://openbadges.org). Work in progress visible [here](http://openbadges.github.io/openbadges.org-static).
+A 2016 update for the Open Badges community portal: [http://openbadges.org](http://openbadges.org). Drafts in progress available [here](http://openbadges.github.io/openbadges.org-static).

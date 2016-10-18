@@ -78,7 +78,7 @@ When a badge is awarded to an earner, these steps may be carried out:
 * Displayers can only query for badges the Recipient has chosen to make public.
 * Identity can be verified by Consumers, as can signatures where appropriate.
 
-Displayers may choose to prominently display Open Badges features by linking to a validator service to allow Consumers to check on demand to ensure that a badge has proper integrity. Because Open Badges are verifiable, Consumers should have easy access to these capabilities whenever they encounter badges. [See more Information on Displaying Open Badges »](http://openbadges.github.io/openbadges.org-static/get-started/displaying-badges)
+Displayers may choose to prominently display Open Badges features by linking to a validator service to allow Consumers to check on demand to ensure that a badge has proper integrity. Because Open Badges are verifiable, Consumers should have easy access to these capabilities whenever they encounter badges. [See more Information on Displaying Open Badges »]({{ site.baseurl }}/get-started/displaying-badges)
 
 <h3 class="title title-secondary">Issuing Requirements</h3>
 

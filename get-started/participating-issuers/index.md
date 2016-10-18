@@ -145,6 +145,6 @@ You can also see the global reach of badges through [Badge the World](http://www
 
 <h2 class="title title-content" id="doyouwanttoissue">Do you want to issue Open Badges? </h2>
 
-See [Get started Issuing Open Badges »](http://openbadges.github.io/openbadges.org-static/get-started/issuing-badges) for information on the technical steps to issue badges, selecting tools to automate the process, badge system design, and how to operate an Open Badges program.
+See [Get started Issuing Open Badges »]({{ site.baseurl }}/get-started/issuing-badges) for information on the technical steps to issue badges, selecting tools to automate the process, badge system design, and how to operate an Open Badges program.
 
 See [Open Badges Services and Software »]({{ site.baseurl }}/get-started/participating-services)

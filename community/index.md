@@ -19,7 +19,7 @@ Community contributions will be encouraged through a public form to ensure all i
 
 An Open Badges Community Council will bring together a vibrant and effective channel of community thought leaders and experts. The Community Council will enable all organizations and individuals, that wish to contribute, be recognized for their advancement of Open Badges via a profile published on the Open Badges website. 
 
-IMS will be establishing a process for joining the Community Council. [Contact us](openbadgesinfo@imsglobal.org) to receive further information.
+IMS will be establishing a process for joining the Community Council. [Contact us]({{ site.baseurl}}/contact) to receive further information.
 
 IMS members will seek input from the larger community, as described above, and maintain a transparent governance process when making formal decisions related to the specification. In addition, an Open Badges executive board will set priorities for the development and adoption of the Open Badges specification. IMS [Contributing Members](https://www.imsglobal.org/membersandaffiliates.html) who are leaders in Open Badges issuing platforms will be invited to participate on the board.
 
