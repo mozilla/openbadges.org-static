@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: page-twocol
 title: News
 permalink: /news/
-order: 4
+navitems:
+    - url: "#"
+      title: News
 ---
 Keep up with the latest news about Open Badges.
 
