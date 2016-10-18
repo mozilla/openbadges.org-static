@@ -13,7 +13,7 @@ navitems:
       title: Guide to Displaying Badges
 ---
 
-This section provides a set of technical resources to guide you through the processes of creating, issuing and displaying Open Badges. The specification provides technical documentation and code examples. These guides will build on those examples.
+This section provides a set of technical resources to guide you through the processes of creating, issuing and displaying Open Badges. The Specification provides technical documentation and code examples. These guides will build on those examples.
 
 For a quick nontechnical introduction to Open Badges see [Get started with Open Badges »]({{ site.baseurl }}/get-started/)
 
@@ -28,7 +28,7 @@ A single Open Badge (sometimes called a “badge instance”) consists of a uniq
 
 <h3 class="title title-secondary">Open Badges Specification Updates</h3>
 
-Some consequential updates to this structure are coming with the next version of the specification, particularly enabling embedding of complete BadgeClass and Issuer Profile documents into an Assertion (and into baked badges). See [current issues in progress](https://github.com/openbadges/openbadges-specification/issues?q=is%3Aopen+is%3Aissue+milestone%3A%222.0+Prototypes%22) for details.
+Some consequential updates to this structure are coming with the next version of the Specification, particularly enabling embedding of complete BadgeClass and Issuer Profile documents into an Assertion (and into baked badges). See [current issues in progress](https://github.com/openbadges/openbadges-specification/issues?q=is%3Aopen+is%3Aissue+milestone%3A%222.0+Prototypes%22) for details.
 
 <h3 class="title title-secondary">Baking and Images</h3>
 
@@ -65,7 +65,7 @@ Several staffers at an after-school club get together. They want to recognize le
 
 <h3 class="title title-secondary">Badge Issuing Flow in Detail</h3>
 
-You can design a badge issuing flow to suit your organization and community of badge Recipients. The Open Badges tools and specifications support the creation, validation, publication, assessment, issuing, and display of badges.
+You can design a badge issuing flow to suit your organization and community of badge Recipients. The Open Badges tools and Specifications support the creation, validation, publication, assessment, issuing, and display of badges.
 
 When a badge is awarded to an earner, these steps may be carried out:
 
@@ -85,7 +85,7 @@ Displayers may choose to prominently display Open Badges features by linking to 
 Issuer organizations may use one of the available issuing platforms or establish their own Issuer service by running open source code or building their own application. To act as an Issuer service, you need:
 
 * A web server where you can serve your JSON-LD files for your Issuer Profile, BadgeClasses, and Assertions at stable URLs
-* Recipient email addresses (other Recipient identification options are coming in the next version of the specification around the end of 2016)
+* Recipient email addresses (other Recipient identification options are coming in the next version of the Specification around the end of 2016)
 
 Additionally, for signed Assertions, you need to:
 * Generate a public/private key pair and host the public key
@@ -106,7 +106,7 @@ Issuers should consider the following guidelines on badge images:
 
 Badge Assertions may be revoked if the Issuer determines they were issued in error or no longer should be valid. For a hosted Assertion, revocation entails replacing the Assertion with a note declaring the reason for revocation. For signed Assertions, Issuers may create a revocation list with keys for each of the UIDs they wish to revoke. A revocation list is a single JSON document for the entire issuer.
 
-See notes on [revocation](https://openbadgespec.org/#revoking) in the Open Badges specification for more information.
+See notes on [revocation](https://openbadgespec.org/#revoking) in the Open Badges Specification for more information.
 
 <h3 class="title title-secondary">Issuer Insignia</h3>
 
