@@ -12,7 +12,7 @@ Open Badges are a flexible and portable way to recognize learning and can sit al
 
 <h3 class="title title-secondary">What Skills or Achievements can Badges Represent?</h3>
 
-Badges can represent many different skills and achievements, ranging from collaboration to certification. See programs offering badges of many types among the [Participating Issuers]({{ site.baseurl }}/get-started/participating-issuers) and read more about designing a badge program: [Get started issuing badges]({{ site.baseurl }}/get-started/issuing-badges).
+Badges can represent many different skills and achievements, ranging from collaboration to certification. See programs offering badges of many types among the [Participating Issuers]({{ site.baseurl }}/about/participating-issuers) and read more about designing a badge program: [Get started issuing badges]({{ site.baseurl }}/get-started/issuing-badges).
 
 <h3 class="title title-secondary">How are Badges Different from Résumés and CVs?</h3>
 
@@ -44,7 +44,7 @@ The process of creating a badge typically involves three tasks:
 * Creating a badge to represent that experience using a tool compatible with Open Badges
 * Awarding the badge on successful completion of badge criteria
 
-The process of creating a badge to be awarded as an Open Badge involves designing the image and data, then hosting them for online display. In technical terms, a badge consists of a generic BadgeClass and a badge Assertion for each Recipient who earns it. Essentially this means hosting some JSON-LD files and an image file. This can be accomplished through a number of available [applications and services]({{ site.baseurl }}/get-started/participating-services/). See [Get Started Issuing Badges]({{ site.baseurl }}/get-started/issuing-badges/)
+The process of creating a badge to be awarded as an Open Badge involves designing the image and data, then hosting them for online display. In technical terms, a badge consists of a generic BadgeClass and a badge Assertion for each Recipient who earns it. Essentially this means hosting some JSON-LD files and an image file. This can be accomplished through a number of available [applications and services]({{ site.baseurl }}/about/participating-services/). See [Get Started Issuing Badges]({{ site.baseurl }}/get-started/issuing-badges/)
 
 <h3 class="title title-secondary">What’s the OBI?</h3>
 You may see references to the “Open Badge Infrastructure (OBI)”, a predecessor to the more open architecture of the updated term “Open Badges ecosystem”. The OBI was the Mozilla Foundation badges team’s original architecture and API design that connected Issuer and Displayer applications with badge Recipients’ Mozilla Backpack accounts.

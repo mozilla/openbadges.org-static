@@ -35,7 +35,7 @@ Because the system is based on an open standard, Recipients can combine multiple
 Anyone can Issue a badge, receive one, verify that a badge is real, or see the detailed evidence from the Issuer. Badges can be used to set goals, motivate behaviors, connect learning environments, and communicate success in many contexts. 
 
 <h2 class="title title-content" id="resources">Community Resources</h2>
-Open Badges started as a collaborative project between the MacArthur Foundation and the Mozilla Foundation and has continued to grow through an open, collaborative community of implementers. It’s designed, built, and backed by a broad community of contributors. Much of the software that implements Open Badges is available as open source. See a list of available [tools and services »](../participating-services).
+Open Badges started as a collaborative project between the MacArthur Foundation and the Mozilla Foundation and has continued to grow through an open, collaborative community of implementers. It’s designed, built, and backed by a broad community of contributors. Much of the software that implements Open Badges is available as open source. See a list of available [tools and services »]({{ site.baseurl}}/about/participating-services).
 
 The open specification means improvements are created through a multi-stakeholder perspective, where values like user choice and privacy are maintained as core features of the ecosystem. 
 
@@ -54,10 +54,11 @@ The Open Badges project at the Mozilla Foundation kicked off with the [Open Badg
 <h2 class="title title-content" id="getting-started">Getting Started Guides</h2>
 Here are a few guides developed by the Badge Alliance to get started as a badge Issuer, Earner, Displayer, or Consumer. These guides provide a technical introduction to the processes involved and showcase tools and services that help you with each step.
 
-* [Get started issuing Open Badges](../../get-started/issuing-badges/). Also see our guide on [Badge System Design](../../get-started/badge-system-design/) for information on factors to consider when issuing badges.
-* [Get started earning Open Badges](../../get-started/earning-badges/)
-* [Get started displaying Open Badges](../../get-started/displaying-badges/)
-* [Get started consuming Open Badges](../../get-started/consuming-badges/)
+* [Get started issuing Open Badges]({{ site.baseurl }}/get-started/issuing-badges/)
+* [Get started earning Open Badges]({{ site.baseurl }}/get-started/earning-badges/)
+* [Get started displaying Open Badges]({{ site.baseurl }}/get-started/displaying-badges/)
+* [Get started consuming Open Badges]({{ site.baseurl }}/get-started/consuming-badges/)
+# [Developers Guide]({{ site.baseurl }}/developers/)
 
 <a href="../../get-started/" class="button">Get started with Open Badges &raquo;</a>
 

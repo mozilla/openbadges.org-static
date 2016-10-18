@@ -1,7 +1,7 @@
 ---
 layout: page-twocol
 title: Open Badges Services and Software
-permalink: /get-started/participating-services/
+permalink: /about/participating-services/
 navitems:
     - url: "#issuing-services"
       title: "Issuing Services"
@@ -13,11 +13,10 @@ navitems:
       title: "Other Services"
 ---
 
-The Open Badges ecosystem was designed under an open structure to encourage community development and serve core functions for issuers, earners and consumers. 
-Effective January 1, 2017, the Open Badges Specification, will continue to evolve under the stewardship of [IMS Global Learning Consortium](https://www.imsglobal.org/), who will provide ongoing open governance with inputs from the community. 
+The Open Badges ecosystem is built on an open specification implemented by many applications and services. This open structure allows different issuers, earners, and consumers to freely use available resources and contribute to the work.  Effective January 1, 2017, the Open Badges Specification, will continue to evolve under the stewardship of [IMS Global Learning Consortium](https://www.imsglobal.org/), who will provide ongoing open governance with inputs from the community. 
 
 <h2 class="title title-content" id="issuing-services">Issuing Services</h2>
-There are a number of platforms and applications using the Open Badges Specification, listed below. Here you can find services, software, and technical partners to help you start issuing Open Badges.
+Listed below are a number of platforms and applications using the Open Badges Specification. Here you can find services, software, and technical partners to help you start issuing Open Badges.
 
 [Contact us]({{ site.baseurl }}/contact) if you have an Open Badges service you would like to be included in this list. 
 

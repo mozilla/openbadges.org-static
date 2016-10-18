@@ -1,7 +1,7 @@
 ---
 layout: page-twocol
 title: Who's Issuing Open Badges?
-permalink: /get-started/participating-issuers/
+permalink: /about/participating-issuers/
 navitems:
     - url: "#"
       title: Who Can Issue Open Badges?
@@ -19,7 +19,7 @@ navitems:
       title: Issuers R - Z 
 ---
 <h2 class="title title-content">Who Can Issue Open Badges?</h2>
-Any individual or organization may issue Open Badges through a compatible service or application. See a list of compatible platforms [here]({{ site.baseurl }}/get-started/participating-services).
+Any individual or organization may issue Open Badges through a compatible service or application. See a list of compatible platforms [here]({{ site.baseurl }}/about/participating-services).
 
 Common types of issuers include:
 
@@ -147,4 +147,4 @@ You can also see the global reach of badges through [Badge the World](http://www
 
 See [Get started Issuing Open Badges »]({{ site.baseurl }}/get-started/issuing-badges) for information on the technical steps to issue badges, selecting tools to automate the process, badge system design, and how to operate an Open Badges program.
 
-See [Open Badges Services and Software »]({{ site.baseurl }}/get-started/participating-services)
+See [Open Badges Services and Software »]({{ site.baseurl }}/about/participating-services)
