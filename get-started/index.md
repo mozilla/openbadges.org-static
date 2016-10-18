@@ -18,8 +18,8 @@ Open Badges are verifiable, portable digital badges with embedded metadata about
 
 Each Open Badge is associated with an image and information about the badge, its recipient, the issuer, and any supporting evidence. All this information may be packaged within a badge image file that can be displayed via online CVs and social networks. Thousands of organizations across the world issue badges in accordance with the Open Badges Specification, from non-profits to major employers to educational institutions at all levels.
 
-<!-- TODO: Embed responsively -->
-<iframe width="670" height="500" src="https://www.youtube.com/embed/HgLLq7ybDtc" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/HgLLq7ybDtc' frameborder='0' allowfullscreen></iframe></div>
+[YouTube Video - What is a Badge?](https://www.youtube.com/watch?v=HgLLq7ybDtc)
 
 <h2 id="meaning" class="title title-content">What do Open Badges mean?</h2>
 Badges may represent many different types of achievements and claims:

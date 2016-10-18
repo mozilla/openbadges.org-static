@@ -20,7 +20,7 @@ To further this work, effective January 1, 2017, [IMS Global Learning Consortium
 
 More information on how to contribute to the development of Open Badges can be found on the [Community]({{ site.baseurl }}/community) page. And you can keep up to date with the latest [News]({{ site.baseurl }}/news).
 
-<a href="{{ site.baseurl }}" class="button">Get started using Open Badges</a>
+<a href="{{ site.baseurl }}/get-started/" class="button">Get started using Open Badges</a>
 
 [Issue Badges]({{ site.baseurl }}/get-started/issuing-badges/)
 | [Earn Badges]({{ site.baseurl }}/get-started/earning-badges/)
