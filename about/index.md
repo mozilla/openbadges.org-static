@@ -12,7 +12,7 @@ Open Badges communicate skills and achievements by providing visual symbols of a
 
 [Badge the World](http://www.badgetheworld.org/) see visual map of adoption from across the world.
 
-Mozilla created Open Badges in 2011 with support from the MacArthur Foundation and a network of partners committed to developing a new way to recognize learning wherever it happened – in and out of formal education and online.  As part of this effort, the Open Badges technical specification which defines the requirements for what a badge must represent for both issuers and earners was created. 
+Mozilla created Open Badges in 2011 with funding from the MacArthur Foundation and a network of partners committed to developing a new way to recognize learning wherever it happened – in and out of formal education and online.  As part of this effort, the Open Badges technical specification which defines the requirements for what a badge must represent for both issuers and earners was created. 
 
 A community of contributors has driven the Open Badges movement since then. Through these efforts, badges have gained widespread interest and adoption by policy, technology, and education stakeholders. As a disruptive innovation, Open Badges are reimagining ways to recognize learning beyond formal credentialing systems. Today, Open Badges are an emergent technology and require further development for widespread market development and adoption.
 
@@ -45,7 +45,7 @@ Here is a brief history of the Open Badges movement and its key events.
 * The Open Badges eco-system began to grow across Europe. Digitalme launched the Badge the UK campaign which grew into a network of over 120 organisations issuing 25,000 badges over the next two years.
 
 <h3 class="title title-secondary">2014:</h3>
-* The [Summit to Reconnect Learning](http://reconnectlearning.org), organized by the [Sprout Fund](http://www.sproutfund.org/) with funding from the MacArthur Foundation, was the first event to focus on moving Open Badges from the edges of innovation to the mainstream. At the summit, a wave of business and education partners made public pledges committing to help accelerate the spread and scale of digital badges for learning. Together, they formed the Badge Alliance to steward the Open Badges specification and community.  
+* The [Summit to Reconnect Learning](http://reconnectlearning.org), organized by the [Sprout Fund](http://www.sproutfund.org/) with funding from the MacArthur Foundation, was an event to focus on moving Open Badges from the edges of innovation to the mainstream. At the summit, a wave of business and education partners made public pledges committing to help accelerate the spread and scale of digital badges for learning. Here the Badge Alliance was formed to steward the Open Badges specification and community.  
 * 14 Badge Alliance working groups kicked off to guide different aspects of the work, from developing the standard itself, to advancing the acceptance of badges in workforce, to technical development of enhancements to the ecosystem, such as endorsement. In the 2014 cycle, these groups produced surveys, white papers, enhancements to the specification, and extensive documentation around how badges function in a broadening ecosystem. 
 * At Mozfest 2014, Mozilla and Digitalme launch the Badge the World map, a community project designed to map badge projects taking place around the world. 
 
