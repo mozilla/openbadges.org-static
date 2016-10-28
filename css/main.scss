@@ -1,0 +1,62 @@
+@import 'base';
+
+body {
+  background: $color-background;
+  color: $color-body;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Open Sans', sans-serif;
+  font-size: $fontsize;
+  -webkit-font-smoothing: antialiased;
+
+  &::before {
+    background: url('images/display-hover.svg'), url('images/earn-hover.svg'), url('images/icon-community-calls-hover.svg'), url('images/icon-facebook-hover.svg'), url('images/icon-slack-hover.svg'), url('images/icon-twitter-hover.svg'), url('images/issue-hover.svg'), url('images/understand-hover.svg');
+  }
+}
+
+strong {
+  font-weight: bold;
+}
+
+a,
+button {
+  color: $color-interactive;
+  transition: color $transition-duration $transition-easing;
+
+  &:hover {
+    color: $color-highlight;
+  }
+}
+
+:target::before {
+  content: '';
+  display: block;
+  height: $headerheight;
+  margin-top: -$headerheight;
+
+  @media (min-width: $break-desktop) {
+    display: none;
+  }
+}
+
+@import 'layouts';
+
+@import
+
+'modules/button',
+'modules/contentblock',
+'modules/copyright',
+'modules/ctafeature',
+'modules/footer',
+'modules/fourup',
+'modules/masthead',
+'modules/menu',
+'modules/menuitem',
+'modules/small',
+'modules/social',
+'modules/spotlight',
+'modules/tableofcontents',
+'modules/tableofcontentsitem',
+'modules/tableofcontentstrigger',
+'modules/title',
+'modules/visuallyhidden';
