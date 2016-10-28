@@ -1,0 +1,39 @@
+.tableofcontentstrigger {
+  background: $color-solid;
+  border: 1px solid $color-interactive;
+  border-radius: $borderradius-small;
+  color: $color-interactive;
+  cursor: pointer;
+  display: block;
+  font-family: 'Open Sans', sans-serif;
+  font-size: $fontsize;
+  padding: $gridspacing * .75 $gridspacing;
+  position: relative;
+  text-align: left;
+  width: 100%;
+
+  &::after {
+    background: url('images/icon-dropmenu-blue.svg') center center no-repeat;
+    content: '';
+    display: block;
+    height: 8px;
+    position: absolute;
+    right: 16px;
+    top: 20px;
+    width: 8px;
+  }
+
+  &:hover {
+    color: $color-interactive;
+  }
+
+  &.tableofcontentstrigger-is-active {
+    // background: $color-interactive;
+    border-radius: $borderradius-small $borderradius-small 0 0;
+    color: $color-interactive;
+  }
+
+  @media (min-width: $break-desktop) {
+    display: none;
+  }
+}

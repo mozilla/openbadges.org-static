@@ -1,0 +1,64 @@
+// Colors
+// - - - - - - - - - - - - - - -
+$color-background: #fff;
+$color-primary: #182833;
+$color-secondary: #203442;
+$color-interactive: #0fb1dc;
+$color-highlight: #0f8ddc;
+$color-imagery: #f68101;
+$color-solid: #fff;
+
+$color-body: rgba($color-primary, .75);
+$color-border: rgba($color-primary, .1);
+
+
+// Grid Spacing
+// - - - - - - - - - - - - - - -
+$gridspacing: 16px;
+$headerheight: 96px;
+
+
+// Typography
+// - - - - - - - - - - - - - - -
+$lineheight-body: 1.625;
+$lineheight-title: 1.5;
+$lineheight-titlelarge: 1.3846153846;
+
+$fontsize-small: 12px;
+$fontsize: 16px;
+$fontsize-2x: 20px;
+$fontsize-3x: 26px;
+$fontsize-4x: 42px;
+
+
+// Break Points
+// - - - - - - - - - - - - - - -
+$break-phonelarge: 425px;
+$break-tablet: 767px;
+$break-desktop: 960px;
+
+
+// Borders
+// - - - - - - - - - - - - - - -
+$borderradius-small: 4px;
+$borderradius: 8px;
+
+
+// Transition
+// - - - - - - - - - - - - - - -
+$transition-duration: .25s;
+$transition-easing: ease-in-out;
+
+
+// Visually Hidden
+// - - - - - - - - - - - - - - -
+@mixin visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}

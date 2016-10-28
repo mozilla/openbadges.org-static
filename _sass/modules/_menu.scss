@@ -1,0 +1,77 @@
+.menu {
+  background: $color-primary;
+  color: $color-solid;
+
+  .menu-x-title {
+    padding: $gridspacing;
+  }
+
+  @media (min-width: $break-tablet) {
+    > .menu-x-title {
+      padding: $gridspacing $gridspacing * 2;
+    }
+  }
+
+  @media (min-width: $break-desktop) {
+    align-items: top;
+    background: transparent;
+    display: flex;
+    height: 96px;
+    padding-top: $gridspacing * 1.75;
+
+    > .menu-x-title {
+      @include visuallyhidden;
+    }
+
+    > ul {
+      align-items: stretch;
+      background: transparent;
+      display: flex;
+      flex-direction: row;
+    }
+  }
+}
+
+.menu-children {
+  @media (min-width: $break-desktop) {
+    border-radius: $borderradius-small;
+    box-shadow: 0 0 4px rgba($color-body, .5);
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    width: 200px;
+    z-index: 100;
+  }
+
+  &[aria-hidden='true'] {
+    display: none;
+  }
+
+  &[aria-hidden='false'] {
+    display: block;
+
+    @media (min-width: $break-desktop) {
+      border-radius: $borderradius-small 0 $borderradius-small $borderradius-small;
+    }
+  }
+}
+
+.menu-secondary {
+  margin-left: -$gridspacing;
+  margin-right: -$gridspacing;
+
+  .menu-x-title {
+    @include visuallyhidden;
+  }
+
+  @media (min-width: $break-tablet) {
+    margin-left: -$gridspacing * 2;
+    margin-right: -$gridspacing * 2;
+  }
+
+  @media (min-width: $break-desktop) {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: $gridspacing;
+  }
+}

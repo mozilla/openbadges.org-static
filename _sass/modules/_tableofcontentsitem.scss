@@ -1,0 +1,26 @@
+.tableofcontentsitem {
+
+  > a {
+    border-bottom: 1px solid $color-border;
+    display: block;
+    padding: $gridspacing;
+    text-decoration: none;
+    transition: background $transition-duration $transition-easing;
+  }
+
+  &:last-child > a {
+    border-bottom: 0;
+  }
+
+  @media (min-width: $break-desktop) {
+    > a {
+      border-bottom: 0;
+      border-top: 1px solid $color-border;
+      line-height: 1.2;
+    }
+
+    &:last-child > a {
+      border-bottom: 1px solid $color-border;
+    }
+  }
+}
