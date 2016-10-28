@@ -1,0 +1,393 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+  <head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<title>Badge System Design</title>
+	<meta name="description" content="Get recognition for learning that happens anywhere. Then share it on the places that matter. A digital badge is an online representation of a skill you’ve earned.
+">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
+	<link rel="stylesheet" href="/openbadges.org-static/css/reset.css">
+	<link rel="stylesheet" href="/openbadges.org-static/css/screen.css">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+  <body class="l-headeroffset">
+
+    <header class="masthead l-containerhorizontal">
+  <h1>
+      <a href="/openbadges.org-static/" class="masthead-x-logo">Open Badges</a>
+  </h1>
+
+  <a href="#menu" class="masthead-x-menu">Menu</a>
+</header>
+
+    <nav id="menu" class="menu l-containerhorizontal l-containerhorizontal-small">
+  <h1 class="title title-fill menu-x-title">Navigation</h1>
+  <ul>
+    <li class="menuitem menuitem-home"><a href="/openbadges.org-static/">Home</a></li>
+
+    <li class="menuitem"><button class="menu-button" aria-controls="menugetstarted"><span class="visuallyhidden">Toggle</span> Get Started <span class="visuallyhidden">Menu</span></button>
+      <ul id="menugetstarted" class="menu-children" aria-hidden="true">
+        <li class="menuitem menuitem-child"><a href="/openbadges.org-static/get-started">Overview</a></li>
+        <li class="menuitem menuitem-child"><a href="/openbadges.org-static/get-started/earning-badges">Earn Badges</a></li>
+        <li class="menuitem menuitem-child"><a href="/openbadges.org-static/get-started/issuing-badges">Issue Badges</a></li>
+        <li class="menuitem menuitem-child"><a href="/openbadges.org-static/get-started/displaying-badges">Display Badges</a></li>
+        <li class="menuitem menuitem-child"><a href="/openbadges.org-static/get-started/understanding-badges">Understand Badges</a></li>
+      </ul>
+    </li>
+
+    <li class="menuitem"><a href="/openbadges.org-static/developers">Developers</a></li>
+
+    <li class="menuitem"><a href="/openbadges.org-static/community">Community</a></li>
+
+    <li class="menuitem"><a href="/openbadges.org-static/news">News</a></li>
+
+    <li class="menuitem"><button class="menu-button" aria-controls="menuabout"><span class="visuallyhidden">Toggle</span> About <span class="visuallyhidden">Menu</span></button>
+      <ul id="menuabout" class="menu-children" aria-hidden="true">
+        <li class="menuitem menuitem-child"><a href="/openbadges.org-static/about">About Open Badges</a>
+        <li class="menuitem menuitem-child"><a href="/openbadges.org-static/about/participating-issuers">Participating Issuers</a></li>
+        <li class="menuitem menuitem-child"><a href="/openbadges.org-static/about/participating-services">Participating Services</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+    <main class="l-twocol l-twocol-offset l-containerhorizontal l-containervertical-offsetlarge">
+	
+	<aside class="l-tableofcontents">
+		<div>
+			<h1 class="small tableofcontents-small">Table of Contents</h1>
+			<button class="tableofcontentstrigger menu-button" aria-controls="tableofcontents"><span class="visuallyhidden">Toggle menu to</span> Make a selection</button>
+			<ul id="tableofcontents" class="tableofcontents" aria-hidden="true">
+				
+					<li class="tableofcontentsitem"><a href="#learningpathways">Learning Pathways</a></li>
+				
+					<li class="tableofcontentsitem"><a href="#considerations">Design Considerations</a></li>
+				
+					<li class="tableofcontentsitem"><a href="#badgetypes">Badge Types</a></li>
+				
+					<li class="tableofcontentsitem"><a href="#criteria">Badge Criteria</a></li>
+				
+					<li class="tableofcontentsitem"><a href="#consultants">Badge System Design Consultants</a></li>
+				
+			</ul>
+		</div>
+      </aside>
+
+	<article class="contentblock">
+
+
+		<h1 class="title title-large">Badge System Design</h1>
+		<p>A badge system is the collection of badge definitions, the learning claims they entail, specific criteria, assessment practices, staff roles and responsibilities for each badge, and other design decisions related to the content, meaning, and interactions the badges will have for Issuers, Recipients, and Consumers. These design decisions about how badges will fit into Recipients’ learning journeys shape the operation of a badged learning program and how badge Recipients use those badges beyond the program.</p>
+
+<h2 class="title title-content" id="learningpathways">Learning Pathways</h2>
+
+<p>A Learning Pathway is an organized set of educational goals shared in a community, around which badges may be organized. The level of complexity of these relationships can become quite deep, manifesting in various pathways:</p>
+
+<ul>
+  <li>simple (badges are only related because they come from the same Issuer)</li>
+  <li>linearly connected (one badge leads to another)</li>
+  <li>complexly interconnected or non-linearly connected (badges cross categories and don’t follow a linear pathway)</li>
+  <li>complex cross-system linking (badges are connected to badges from other Issuer’s systems)</li>
+</ul>
+
+<p>Pathways or discovery is a way for people to wend their way through different badging experiences to find new opportunities or to think through possible futures. There’s both descriptive pathway and prescriptive pathway approaches. Each approach offers its own pluses and minuses.</p>
+
+<p>Descriptive pathways seek to acknowledge the ways people consciously and willfully choose to earn badges. A descriptive pathway may feel more natural to a badge Recipient since he/she’s defining his/her own path.</p>
+
+<p>Prescriptive approaches seek to declare one standard or recommended badge earning path vs. another. This approach can be more limiting and formal to a badge Recipient because he/she may feel compelled to follow a proposed pathway or drop out of the pathway entirely. Prescriptive approaches may be built on summative assessment.</p>
+
+<ul>
+  <li>Command path: suggested or recommended badge arcs.</li>
+  <li>Contract path: desired or pledged badge groupings.</li>
+  <li>Badge desire path: independently followed or pursued badge passages.</li>
+</ul>
+
+<h2 class="title title-content">Command pathways</h2>
+
+<p>The command approach is the most prescriptive: it relies on a formal, structured, and recommended path. Most likely, this badge pathway will be linear—a straight line from one learning experience to another.</p>
+
+<h2 class="title title-content">Contract pathways</h2>
+
+<p>The contract path encourages the Recipient to think about and select a potential learning arc. In the strictest sense, it too is prescriptive. But because its prescriptiveness is set forth by the Recipient, the potentially dictatorial nature doesn’t carry the same paternalistic qualities.</p>
+
+<h2 class="title title-content">Desire pathways</h2>
+
+<p>The badge desire path carries with it the greatest capacity for knowledge and system emergence. When there’s no prescribed pathway, people find the way that makes sense to them, choose to follow other people’s paths, or strike out in very different directions.</p>
+
+<h2 class="title title-content" id="considerations">Design Considerations when Building a Badge System</h2>
+
+<h3 class="title title-secondary">System Goals</h3>
+
+<p>Badge systems are developed for different reasons. System goals may or may not be directly related to specific badges. In other words, the system may have overarching goals that individual badges work together to address. While goal specificity can play an important role in a system, a system can have multiple goals as well. And the goals may be intertwi ned.</p>
+
+<h3 class="title title-secondary">Lenses</h3>
+
+<p>There’s a number of ways to look at a badge system. One’s from the Issuer standpoint; another’s from the Recipient’s standpoint. Depending on which lens you’re wearing, a badge system can look entirely different. A lens may reveal information about requirements for possible audiences:</p>
+
+<ul>
+  <li>issuing lens
+    <ul>
+      <li>individual Issuer</li>
+      <li>organizational Issuer</li>
+    </ul>
+  </li>
+  <li>earning lens
+    <ul>
+      <li>individual Recipient</li>
+      <li>social community</li>
+    </ul>
+  </li>
+  <li>sharing/displaying lens
+    <ul>
+      <li>consuming public</li>
+      <li>public at large</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 class="title title-secondary">Personas</h3>
+
+<p>Personas are useful in the early stages of badge system design. They represent the different user types:</p>
+
+<ul>
+  <li>individuals</li>
+  <li>organizations</li>
+  <li>entities</li>
+  <li>relationships</li>
+</ul>
+
+<p>Each system context will have its own combination of stakeholders and personas—with thousands of possibilities—which address how they relate to use cases.</p>
+
+<h3 class="title title-secondary">Use Cases</h3>
+
+<p>Different from system goals, use cases are generalized descriptions that capture who might design badge systems:</p>
+
+<ul>
+  <li>Attendance or participation in an event (for conference presenters/attendees)</li>
+  <li>Certification for professional development (for teachers, manufacturing, IT)</li>
+  <li>Informal education (after-school programs, community education)</li>
+  <li>Learning opportunities at cultural institutions (in museums, libraries)</li>
+  <li>Badges for skills needed at one institution in a field (e.g. “Certified book shelver at this library”)</li>
+</ul>
+
+<h2 class="title title-content" id="badgetypes">Badge Types</h2>
+
+<p>An Open Badge defines a relationship with an image and metadata. A badge can be used to show how an authority recognizes a Recipient’s achievement for example, but the important thing is that it describes the relationship between these entities such that the audience can discern its value. Badge types include:</p>
+
+<ul>
+  <li>attendance</li>
+  <li>participation</li>
+  <li>learning</li>
+  <li>skill</li>
+  <li>achievement</li>
+  <li>affiliation</li>
+  <li>competency</li>
+  <li>project-complete</li>
+  <li>credential</li>
+</ul>
+
+<h3 class="title title-secondary">Assessment</h3>
+
+<p>Badge systems will most likely make use of different forms of assessment, which remains a controversial subject for recognizing learning:</p>
+
+<ul>
+  <li>Competency-based learning</li>
+  <li>Credit-hour based learning</li>
+  <li>Interest-driven learning</li>
+  <li>Formative - Described by Dr. Bernard Bull as a visit to the doctor</li>
+  <li>Summative - Described by Dr. Bernard Bull as an autopsy</li>
+  <li>Transformative - Described by Dr. Daniel T. Hickey as intentional or incidental learning</li>
+</ul>
+
+<h3 class="title title-secondary">Assessors</h3>
+
+<p>Who does the assessments? Experts aren’t the only possible reviewers. Others include:</p>
+
+<ul>
+  <li>peers</li>
+  <li>self</li>
+  <li>algorithmic</li>
+</ul>
+
+<h3 class="title title-secondary">Badge System Design Resources</h3>
+<ul>
+  <li><a href="https://docs.google.com/spreadsheet/ccc?key=0AnUOR-0CBMsTdE1hWnJnYXlNdnktVUlhWWdjVzFVR0E&amp;usp=drive_web#gid=0">Badge System Design Worksheet</a>
+    <ul>
+      <li>This Google spreadsheet prompts the system design owner to consider as many areas of a badge system as possible early on. By reviewing this document prior to building out badges, it underscores many, if not all, of the areas to be considered in the construction of a robust badge system.</li>
+    </ul>
+  </li>
+  <li><a href="http://www.digitalme.co.uk/assets/pdf/DigitalMe-Badge-Design-Canvas.pdf">DigitalME Badge Design Canvas</a>
+    <ul>
+      <li>This document, which features important aspects of badge creation and design, is intended to be printed and written on. The Badge Design Canvas seeks to simplify the process of developing a badge system by bringing it into the analog world.</li>
+      <li>The Canvas helps designers make important decisions needed to describe each badge, from its name to who awards it, and encourages questions about why each badge is valuable and how the badges will be used.</li>
+    </ul>
+  </li>
+  <li><a href="http://dpdproject.info/cards/">DPD Project: Design Principles Card Deck</a>
+    <ul>
+      <li>The DPD card deck was created by Nate Otto using the design principles from Dr. Daniel T. Hickey’s Design Principles Documentation Project, to which he contributes. It turns the building of a badge system into a game.</li>
+      <li>Four categories of cards contain general principles for recognizing learning, assessing learning, motivating learning, and studying learning in digital badge systems.</li>
+      <li>By shuffling the deck and selecting different cards, designers analyze how the different components of their badge system work together to promote achievement and program goals. The idea is not to pick “best practices”, but to find mutually compatible principles that make badges a good fit for program goals and contexts.</li>
+      <li>Community members may contact <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#097;&#100;&#103;&#101;&#115;&#064;&#098;&#097;&#100;&#103;&#101;&#097;&#108;&#108;&#105;&#097;&#110;&#099;&#101;&#046;&#111;&#114;&#103;&#063;&#115;&#117;&#098;&#106;&#101;&#099;&#116;&#061;&#083;&#117;&#103;&#103;&#101;&#115;&#116;&#037;&#050;&#048;&#065;&#037;&#050;&#048;&#087;&#111;&#114;&#107;&#105;&#110;&#103;&#037;&#050;&#048;&#071;&#114;&#111;&#117;&#112;">Nate Otto</a>, former DPD Project Coordinator, with questions on how to design a system with DPD principles and cards and how to run a workshop using the cards.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 class="title title-secondary">Badge System Research</h3>
+
+<p>Past system design conversations revealed a growing level of interest in Open Badges research:</p>
+
+<ul>
+  <li>Sheryl Grant’s HASTAC post: <a href="http://www.hastac.org/digital-badges-bibliography">Digital Badges: An Annotated Research Bibliography</a></li>
+  <li><a href="http://remediatingassessment.blogspot.com/">Dr. Daniel T. Hickey</a> and his team of graduate students working on the badges <a href="http://dpdproject.info/">Design Principles Documentation Project</a> investigated how 30 winners of the Digital Media and Learning (DML) Badges for Lifelong Learning contest designed and modified their badge systems to fit individual project goals and contexts. The team published case studies for each DML project. The DPD Project aimed to thoroughly describe the practices used in each system context, how those practices had to change to adapt over time, and how they relate to general design principles that could be applied in a number of badge systems.</li>
+</ul>
+
+<h3 class="title title-secondary">Case Studies</h3>
+
+<p>This section contains written accounts of badge systems with information about the most important decisions needed in each system.</p>
+
+<ul>
+  <li><a href="http://www.workingexamples.org/example/show/609">Supporter To Reporter (S2R)</a> - Supporter to Reporter provided learning opportunities for young people to take on the roles of sports journalists, media producers, and mentors. S2R Medals recognized and rewarded the skills and achievements gained by young reporters who learned and demonstrated a rich array of competencies acquired through participation in the program.</li>
+  <li><a href="http://www.workingexamples.org/example/show/612">UC Davis: SA&amp;FS Learner Driven Badge System</a> - The Sustainable Agriculture &amp; Food Systems program at UC Davis is an interdisciplinary major promoting holistic critical thinking about food systems. Funded by a MacArthur DML grant, SA&amp;FS designed and implemented a badge system to complement the degree awarded through the program.</li>
+  <li><a href="http://www.workingexamples.org/example/show/617">Sweet Water AQUAPONS Badge Project</a> - Sweet Water AQUAPONS is an online platform where students gain digital badges as they learn the skills needed in aquaponics. The Sweet Water Foundation (SWF) developed AQUAPONS to provide self-directed learning opportunities to future sustainable agriculture practitioners and expand the field of aquaponics by creating a replicable model for urban agriculture education.</li>
+</ul>
+
+<h3 class="title title-secondary">Levels</h3>
+
+<p>Some badge systems are designed with levels in mind. And some badge systems, like Dr. Bernard Bull’s “Learning Beyond Letter Grades” badge system, are specifically designed without levels in order to escape the connection to grades. An effective badge system may include badge levels, yet levels aren’t necessary for a system to achieve success.</p>
+
+<p>Here are some levels:</p>
+
+<ul>
+  <li>flat (no levels to a system)</li>
+  <li>hierarchical badge levels
+    <ul>
+      <li>beginner</li>
+      <li>intermediate</li>
+      <li>advanced</li>
+      <li>expert</li>
+      <li>stepped badge levels (badges unlock new opportunities)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 class="title title-secondary">Limits</h3>
+
+<p>Questions about meaning and value frequently arise in the development of badge systems. One possible response is to limit the total number of badges in your system. Alternatively, you can ignore limits and badge as appropriate.</p>
+
+<h2 class="title title-content" id="criteria">Badge criteria</h2>
+
+<h3 class="title title-secondary">Alignments</h3>
+
+<p>Some badges align with standards, some learning, some professional.</p>
+
+<p>Academic</p>
+
+<ul>
+  <li>Common Core State Standards (USA)</li>
+  <li>Web literacy standard</li>
+  <li>Next Generation Science Standards (USA)</li>
+</ul>
+
+<h3 class="title title-secondary">Open Questions</h3>
+
+<p>Some of the questions that could affect current practice and future technical developments involve Open Badges asymmetry. Is it totally innocuous to keep a strict separation between badge Issuers and badge Recipients? Aren’t we reinforcing existing power relationships (e.g. teacher/pupil)? What would be the benefits (and risks) to make it just as easy for learners to issue their own badges (or a group of learners)?</p>
+
+<h3 class="title title-secondary">Open Badges as Rewards (Digital Gold Stars)</h3>
+
+<p>Research shows that rewards and extrinsic motivators tend to wane intrinsic motivations (like the desire to learn), smother the desire to innovate, or take risks. Rewards also tend to encourage conformity and promote subservient behaviors. How can we be sure that Open Badges aren’t used as glorified gold stars? How can we help those implementing and issuing badges to take into consideration this issue in their design and practice?</p>
+
+<h3 class="title title-secondary">Research topics</h3>
+
+<p>Relevant badge system design research materials and summaries:</p>
+
+<ul>
+  <li><a href="http://www.cs.cornell.edu/home/kleinber/www13-badges.pdf">Steering User Behavior with Badges</a> by <a href="http://www.cs.cornell.edu/home/kleinber/">Professor Jon Kleinberg</a>, Cornell University</li>
+  <li>“…study the use of badges and their effects on the widely used Stack Overﬂow question-answering site”</li>
+  <li>“…we develop a model for user behavior in the presence of badges on a site”</li>
+</ul>
+
+<h3 class="title title-secondary">Licensing</h3>
+
+<p>Creative Commons considerations around badges materials and reuse.</p>
+
+<h3 class="title title-secondary">Decoding</h3>
+
+<p>How to translate real-world expertise and experiences into a coherent set of badges and pathways, i.e., how to translate the things an expert knows and does into a coherent set of badges and pathways that a learner can follow on the road to expertise.
+<a href="http://decodingthedisciplines.org/">Decoding the Disciplines</a></p>
+
+<h2 class="title title-content" id="consultants">Badge System Design Consultants</h2>
+
+<p>As badges become valuable social capital, there’s an increasing numbers of badge system designers. The self-identified badge system designers in this list don’t indicate endorsement by Mozilla.</p>
+
+<ul>
+  <li>Lucas Blair Ph.D. | <a href="http://www.littlebirdgames.com">www.littlebirdgames.com</a> | Specialization: Badge-based curriculum design/Badging in games and simulations</li>
+  <li>Toni D. | <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#098;&#097;&#100;&#103;&#101;&#115;&#052;&#108;&#097;&#110;&#103;&#117;&#097;&#103;&#101;&#115;&#046;&#111;&#114;&#103;">&#105;&#110;&#102;&#111;&#064;&#098;&#097;&#100;&#103;&#101;&#115;&#052;&#108;&#097;&#110;&#103;&#117;&#097;&#103;&#101;&#115;&#046;&#111;&#114;&#103;</a> | Specialization: Badge-based curriculum design/Badging in learn languages with the C.E.F.R.</li>
+</ul>
+
+<p>To be added to this list of Badge System Design Consultants, please email your name, contact information and area(s) of expertise to <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#097;&#100;&#103;&#101;&#115;&#064;&#098;&#097;&#100;&#103;&#101;&#097;&#108;&#108;&#105;&#097;&#110;&#099;&#101;&#046;&#111;&#114;&#103;">&#098;&#097;&#100;&#103;&#101;&#115;&#064;&#098;&#097;&#100;&#103;&#101;&#097;&#108;&#108;&#105;&#097;&#110;&#099;&#101;&#046;&#111;&#114;&#103;</a></p>
+
+
+	</article>
+</main>
+
+
+    <footer class="l-onecol l-containerhorizontal company-logos">
+    <ul>
+      <li>
+        <a href="https://www.mozilla.org/en-US/foundation/"><img src="/openbadges.org-static/images/members/mozillafoundation-logo.png" alt="Mozilla"></a>
+      </li>
+      <li>
+        <a href="https://www.lrng.org/"><img src="/openbadges.org-static/images/members/lrng-logo.png" alt="LRNG"></a>
+      </li>
+      <li>
+        <a href="https://www.imsglobal.org/"><img src="/openbadges.org-static/images/members/imsglobal-logo.png" alt="IMS Global"></a>
+      </li>
+    </ul>
+</footer>
+<footer class="footer l-containerhorizontal">
+   <nav class="social l-containervertical-offset">
+    <h1 class="title social-x-title">Open Badges Social Media</h1>
+    <ul>
+      <li>
+        <a href="https://twitter.com/openbadges" class="social-x-link social-twitter">Twitter</a>
+      </li>
+    </ul>
+  </nav>
+
+  <nav class="menu menu-secondary">
+    <h1 class="title menu-x-title">Secondary Navigation</h1>
+    <ul>
+      <li class="menuitem menuitem-secondary"><a href="/openbadges.org-static/faq">FAQs</a></li>
+      <li class="menuitem menuitem-secondary"><a href="/openbadges.org-static/press-assets">Press Assets</a></li>
+      <li class="menuitem menuitem-secondary"><a href="/openbadges.org-static/contact">Contact</a></li>
+    </ul>
+
+    <p class="small copyright l-containerhorizontal">&copy; Copyright 2016 <span>Badge Alliance</span></p>
+  </nav>
+</footer>
+
+<script type="text/javascript" src="/openbadges.org-static/js/menu.js"></script>
+<script type="text/javascript" src="/openbadges.org-static/js/tableofcontents.js"></script>
+<style type="text/css">
+  .company-logos {
+    border-top: 1px solid rgba(24, 40, 51, 0.1);
+  }
+  .company-logos img{
+    width: 75%;
+  }
+  .company-logos ul {
+    display: flex;
+    padding: 20px 0;
+  }
+</style>
+
+  </body>
+
+</html>

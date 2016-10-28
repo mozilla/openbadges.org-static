@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Badges Homepage</title>
+    <description>Get recognition for learning that happens anywhere. Then share it on the places that matter. A digital badge is an online representation of a skill you’ve earned.
+</description>
+    <link>http://openbadges.github.io/openbadges.org-static/</link>
+    <atom:link href="http://openbadges.github.io/openbadges.org-static/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 28 Oct 2016 14:07:13 +0100</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2016 14:07:13 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+  </channel>
+</rss>

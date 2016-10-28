@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="28px" viewBox="0 0 48 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M:-Home" transform="translate(-256.000000, -34.000000)" fill="#FFFFFF">
+            <g id="Header-/-Mobile">
+                <g id="menu" transform="translate(256.000000, 34.000000)">
+                    <path d="M0,24 L48,24 L48,28 L0,28 L0,24 Z M0,0 L48,0 L48,4 L0,4 L0,0 Z M0,12 L48,12 L48,16 L0,16 L0,12 Z" id="icon-menu"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
