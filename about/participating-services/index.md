@@ -257,6 +257,21 @@ Learn more about RedCritter’s Enterprise solution at [redcritterconnecter.com]
 
 Contact: [Dan Hoffman](mailto:Dan@redcritter.com), Director of Business Development, RedCritter
 
+<h3 class="title title-secondary" id="TopClass">TopClass</h3>
+[TopClass](https://www.wbtsystems.com/products/topclass-learning-management-system/) is a comprehensive learning management system from WBT Systems that offers enhanced social learning capability for association, continuing education, corporate training, and certification programs. Badges can be created to easily evaluate engagement, track progress, and recognize achievement.
+ 
+**Details**:
+
+* Create Personalised Badges
+* Setup Criteria to Automatically Award Badges
+* Manually Award Badges to Users
+
+Badges created in TopClass may be displayed on a user’s profile or pushed to their Open Badges Backpack. Open Badges from the Backpack may be imported and displayed in a user’s TopClass learner profile, which incorporates social sharing. Badge status can be checked for validity and expiration. Badges in TopClass can be awarded for participation, such as engaging with discussion forums, or to recognize achievement of set goals, such as completion of an online activity, course completion or attainment of certification.
+ 
+Learn more about TopClass learning management system at [www.wbtsystems.com](http://www.wbtsystems.com).
+ 
+Contact: [Gilles Defer](mailto:gilles.defer@wbtsystems.com), VP Sales and Marketing, WBT Systems  
+
 <h3 class="title title-secondary" id="Youtopia">Youtopia</h3>
 [Youtopia](http://www.youtopia.com/info/) - use digital rewards to get students to go the extra mile. Whether you’re a school, Greek organization, non-profit, or business, you can customize Youtopia to fit your needs.
 
