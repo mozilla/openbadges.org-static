@@ -133,6 +133,7 @@ Hundreds of educational institutions, programs and organizations have started to
 * [Universitat de les Illes Balears](http://www.uib.cat/)
 * [UniMOOC aemprende](http://iei.ua.es/mooc-emprendimiento/)
 * [University Campus Suffolk](http://www.ucs.ac.uk/openbadge/How-are-we-using-open-badges-at-UCS.aspx)
+* [Universidade Federal de Goiás](http://moocs.rea.ufg.br/)
 * [University of Illinois at Urbana-Champaign](http://illinois.edu/)
 * [Valamis](http://valamis.arcusys.com/why-choose-us)
 * [VIF International Education](http://www.vifprogram.com/)
