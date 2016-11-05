@@ -41,6 +41,7 @@ Hundreds of educational institutions, programs and organizations have started to
 * [3d GameLab](http://3dgamelab.com/)
 * [4-H/USDA](http://www.fyflnet.org/4hbadges/)
 * [Acclaim](https://www.youracclaim.com/)
+* [Accredible](https://www.accredible.com)
 * [Badgecraft](https://www.badgecraft.eu/en/use-cases)
 * [Badges Work for Vets](https://badgesforvets.org/)
 * [Badgr](http://info.badgr.io/)
