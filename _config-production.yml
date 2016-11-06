@@ -16,3 +16,6 @@ github_username:  openbadges
 # Build settings
 markdown: kramdown
 encoding: UTF-8
+
+gems:
+  - octopress-autoprefixer

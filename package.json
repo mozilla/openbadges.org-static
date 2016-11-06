@@ -1,0 +1,26 @@
+{
+  "name": "openbadges.org",
+  "version": "1.0.1",
+  "description": "The project and community portal for Open Badges.",
+  "main": "index.html",
+  "scripts": {
+    "css": "sass _sass/_main.scss css/screen.css",
+    "server": "npm run css && jekyll serve --config _config-production.yml",
+    "dist": "npm run css && jekyll build --config _config-production.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openbadges/openbadges.org-static.git"
+  },
+  "keywords": [
+    "open",
+    "badges",
+    "openbadges"
+  ],
+  "author": "Open Badges Project",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/openbadges/openbadges.org-static/issues"
+  },
+  "homepage": "https://github.com/openbadges/openbadges.org-static#readme"
+}
