@@ -14,12 +14,11 @@ navitems:
     - url: "#operations"
       title: Operations and Communications
 --- 
-The success of the open badging ecosystem goes beyond the technical maintenance of the Open Badges Infrastructure and the ongoing stewardship of the Open Badge Specification. 
+The success of the open badging ecosystem goes beyond the technical maintenance of the Open Badges Infrastructure and the ongoing stewardship of the Open Badge Specification. The Badge Alliance conducted several cycles of working groups from 2014-16.
 
-<h2 class="title title-content">The Badge Alliance Works in Groups</h2>
-The BA works in groups, comprised of action-oriented teams of volunteers. Each working group is focused on a specific topic and is chaired by an individual or organization leading efforts in the wider community. Members address key questions, issues, and opportunities facing the Open Badges ecosystem and infrastructure for documenting and credentialing learning. 
+The BA organized cycles of working groups, comprised of action-oriented teams of volunteers. Each working group focused on a specific topic and was chaired by an individual or organization leading efforts in the wider community. Members addressed key questions, issues, and opportunities facing the Open Badges ecosystem and infrastructure for documenting and credentialing learning. 
 
-When the Badge Alliance soft-launched at the Summit to Reconnect Learning, 10 initial working groups were formed to address some of the most crucial issues facing the broader infrastructure for the Open Badges ecosystem. These groups completed their first cycle in October 2014, delivering completed reports and survey data in their field. A second cycle in 2015 focused on delivering v1.1 of the Open Badges Specification, and a third cycle is beginning in the lead-up to the summer 2016 v2.0 specification release.
+When the Badge Alliance soft-launched at the Summit to Reconnect Learning, 10 initial working groups were formed to address some of the most crucial issues facing the broader infrastructure for the Open Badges ecosystem. These groups completed their first cycle in October 2014, delivering completed reports and survey data in their field. A second cycle in 2015 focused on delivering v1.1 of the Open Badges Specification, and a third cycle began in 2016 focused on the development of a v2.0 specification.
 
 Currently, groups operate on a short-term basis as they’re needed, strive for broad representation across the globe, and are one of the primary means by which the Open Badges ecosystem work is advanced. Details on current and past working groups can be found here. 
 
