@@ -1,8 +1,12 @@
 .copyright {
   bottom: $gridspacing * 3.5;
-  color: rgba($color-body, .5);
   position: absolute;
   right: 0;
+
+  a {
+    color: rgba($color-body, .5);
+    text-decoration: none;
+  }
 
   span {
     @include visuallyhidden;

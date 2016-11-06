@@ -23,3 +23,5 @@ encoding: UTF-8
 
 gems:
   - octopress-autoprefixer
+
+exclude: ['README.md', 'package.json', 'Gemfile', 'Gemfile.lock']
