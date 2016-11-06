@@ -112,6 +112,18 @@ Contacts:
 
 Contact: [Simone Ravaioli](mailto:info@bestr.it), CINECA
 
+<h3 class="title title-secondary" id="CanCredFactory">CanCred Factory</h3>
+[CanCred Factory](https://factory.cancred.ca/) is a secure cloud service for organizations to issue trusted Open Badge eCredentials. It is built on the same innovative technology as [Open Badge Factory](#OpenBadgeFactory) but is hosted in Canada by [Learning Agents](http://www.learningagents.ca), an award-winning Canadian edtech service provider. This means CanCred Factory is fully compliant with Canadian privacy laws and we're laser-focused on the needs of Canadian badge issuers and building vibrant Open Badges ecosystems in Canada.
+
+**Details**:
+
+* Unlike many other systems, CanCred Factory is specialized on helping organizations create, issue and manage Open Badges. A sister platform, CanCred Passport, enables individuals to store and share Open Badges. This "open connection" between the two key functions of issuing and sharing badges provides both organizations and individuals with greater flexibility and power. 
+* Current features include: user role management (admin, creator, issuer); account verification for Premium users, milestone badges; badge application forms, links to hosted evidence, scalable badge issuing networks, integration with [a long and growing list LMSs](https://openbadgefactory.com/developers/), an open API and LTI compatibility for future integrations; and extensive reporting features.
+
+CanCred Factory is offered by subscription at three service levels:  Free, Basic and Premium. [See details](https://factory.cancred.ca/?open=modal-pricing). You can try it out for free at the Premium level for 60 days.
+
+Contact: [Don Presant](mailto:don@learningagents.ca), President, Learning Agents
+
 <h3 class="title title-secondary" id="Canvabadges">Canvabadges</h3>
 [Canvabadges](https://www.canvabadges.org/) let you award badges to students in courses based on their total grade in the course and completion of course modules. You can also put a manual approval step that requires your final sign-off before they receive the badges.
 
@@ -309,6 +321,7 @@ Each Backpack service that appears in this list allows users to upload Open Badg
 * [Mozilla Backpack](https://backpack.openbadges.org) - collects, manages, and displays badges from multiple sources anywhere on the web. Also available open source from Mozilla: [openbadges-backpack].
 * [Open Badge Passport](https://openbadgepassport.com/) - a free, easy to use service, where you can receive and store your Open Badges safely and share them with whomever you like and wherever you like. Open source code is released by Discendum: [Salava](https://github.com/discendum/salava)
 * [Badgr](https://info.badgr.io) - an open-source badge issuing, management, and user achievement tracking platform. Hosted accounts are free on badgr.io. Open source code is released by Concentric Sky: [Badgr-server](https://github.com/concentricsky/badgr-server).
+* [CanCred Passport](https://passport.cancred.ca/) is a free cloud service for Open Badge eCredentials owned by individuals. CanCred Passport is provided as a more flexible and robust alternative to Mozilla Backpack and is compliant with the Open Badges Specification. CanCred Passport is the default destination for Open Badges issued by [CanCred Factory](#CanCredFactory), although users can easily redirect their Open Badges to Mozilla Backpack.
 
 <h2 class="title title-content" id="other-services">Other Services</h2>
 There are several other functions around Open Badges discovery that help wire the ecosystem together. 
