@@ -19,3 +19,6 @@ encoding: UTF-8
 
 gems:
   - octopress-autoprefixer
+
+sass:
+  style: compressed

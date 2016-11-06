@@ -4,9 +4,8 @@
   "description": "The project and community portal for Open Badges.",
   "main": "index.html",
   "scripts": {
-    "css": "sass _sass/_main.scss css/screen.css",
-    "server": "npm run css && jekyll serve --config _config-production.yml",
-    "dist": "npm run css && jekyll build --config _config-production.yml"
+    "serve": "jekyll serve --config _config-production.yml",
+    "dist": "jekyll build --config _config-production.yml"
   },
   "repository": {
     "type": "git",
