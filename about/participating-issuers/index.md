@@ -50,6 +50,7 @@ Hundreds of educational institutions, programs and organizations have started to
 * [Beuth University of Applied Sciences Berlin](http://www.beuth-hochschule.de/)
 * [Books@Work](http://www.booksatwork.org/employees/)
 * [BuzzMath](https://www.buzzmath.com/badges)
+* [CanCred](https://cancred.ca/)
 * [Catalyst](http://www.catalyst-eu.net/)
 * [Center for Educational Technologies at Wheeling Jesuit University](http://badges.cet.edu/)
 * [Center for Open Educational Resources & Language Learning (COERLL) at the University of Texas](http://openbadges.coerll.utexas.edu/)
