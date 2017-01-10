@@ -39,8 +39,6 @@ Working group responsibility will transition to IMS Global members in January 20
 
 Open Badges started as a collaborative project between the MacArthur Foundation and the Mozilla Foundation and has continued to grow through a global community of implementers. Here are several initiatives collaborating on expanding the reach of Open Badges:
 
-[Badge the World](http://www.badgetheworld.org/) - An ongoing project mapping badging initiatives from around the world.  Badge The World invites organisations and individuals to share their plans to create, issue, recognise and research Open Badges.  The project was launched at Mozfest 2013 as a partnership between Mozilla and Digitalme.
-  
-[Summit to Reconnect Learning](http://www.reconnectlearning.org/case-studies) - A set of badges in action case studies looking at how badges are used to capture learning and achievements in higher education, professional training, and after-school programs.
+[Badge the World](http://www.badgetheworld.org/) - An ongoing project mapping badging initiatives from around the world.  Badge The World invites organisations and individuals to share their plans to create, issue, recognise and research Open Badges. The project was launched at Mozfest 2013 as a partnership between Mozilla and Digitalme.
 
 [Cities of Learning / LRNG](https://www.lrng.org/) - The first citywide badging initiative, launched in Chicago in 2013, was so successful that six cities launched badge systems for learning in 2014. Eight cities were named winners in the 2016 LRNG City Challenge, receiving [grants to begin networking learning opportunities in their communities](https://www.macfound.org/press/press-releases/better-futures-2-million-americans-through-open-badges/).
